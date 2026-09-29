@@ -7,7 +7,7 @@ template: base.html
 
 # A Simple Submission
 
-## This is too simple, far too simple! 
+## This is too simple, far too simple!
 
 ### *After all, you were asked in the assignment to include the following:*
 
@@ -18,12 +18,14 @@ template: base.html
 - **Do not** include metadata for Issue like you'll see in the main *CTRL+ALT+DH* journal site.
 
 Be sure to include this line in your metadata to ensure that the page does not generate a menu item:
+
  - Status: hidden
     - Tip: you can actually leave this out, since this is only relevant if the page is part of a static site.
 
 ### Styling
 
-For example: 
+For example:
+
 - headers
 - bold or italics, lists, tables, quotes or code blocks, etc.
 - Images: with captions and alt-text, properly sized and formatted for the web (WebP or SVG); if needed, include a folder with image files
@@ -31,6 +33,7 @@ For example:
 - Citations: Chicago style footnotes
 
 ### Stretch goal: HTML blocks
+
  You can embed HTML directly into Markdown; try experimenting with custom inline styling, video or audio players, TimelineJS visualizations, etc.
 
 ### *And really, this sample has very few of these.*
