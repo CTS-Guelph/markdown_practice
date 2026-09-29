@@ -24,7 +24,7 @@ Nested lists are excellent
 - They allow for
   - more nuance
   - a bit of hierarchy if you like that kind of thing
-  - event a sense of poetry
+  - even a sense of poetry
 - your choice in the end
 
 ## And of course a checklist is a lovely thing
