@@ -6,3 +6,5 @@ It has a sandbox folder for fooling around:
 
 The submissions folder is for submitting your markdown assignments:
 - Submit only your completed file here.
+
+All content shared here by others may not be used for any purpose without permission.
