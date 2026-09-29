@@ -1,8 +1,8 @@
-title: Creating an Online Journal with Pelican
-authors: Chelsea Miya
-date: 08-14-2025
-category: abstract
-tags: minimal computing, publishing, digital humanities
+title: Susan's Sample Sandbox page
+authors: Susan Brown
+date: 09-29-2026
+category: assignment
+tags: markdown, formatting, article preparation
 template: base.html
 
 # Susan's Sample Sandbox page
