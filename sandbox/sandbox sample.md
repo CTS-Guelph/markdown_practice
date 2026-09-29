@@ -17,7 +17,7 @@ After all, why not?
 
 ## Also making Lists, a favourite internet genre
 
-Numbered lists aren't working well in Dillinger -- why would that be? Can you figure it out? 
+Numbered lists aren't working well in Dillinger -- why would that be? Can you figure it out?
 
 Nested lists are excellent
 
