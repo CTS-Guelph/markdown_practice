@@ -5,6 +5,6 @@ It has a sandbox folder for fooling around:
 - create as many files as you want here and practice pushing commits to Github.
 
 The submissions folder is for submitting your markdown assignments:
-- Submit only your completed file here.
+- Submit your assignment file here, pushing at least two commits.
 
-All content shared here by others may not be used for any purpose without permission.
+License note: All content shared here may not be used by others for any purpose without permission.
