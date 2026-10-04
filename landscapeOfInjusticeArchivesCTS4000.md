@@ -20,3 +20,7 @@ Data is always controlled by someone; it will be skewed no matter what. Sometime
 
 The *Landscapes of Injustice* dataset shows how injustice can be implemented not just by physical force but also through paperwork and data. By representing people as numbers on a list, the government was able to disguise the harm that was caused. The revised archives are trying to show the full extent of damage that was caused by showing the human side of the story. This shows us how important data can be and how important it is to collect everything. 
 
+[Landscapes of injustice](https://loi.uvic.ca/archive/index.html)
+<!--Landscapes of injustice: Archive. Accessed October 4, 2026. https://loi.uvic.ca/archive/index.html -->
+[Promises of Law: The Unlawful Dispossession of Japanese Canadians](https://digitalcommons.osgoode.yorku.ca/ohlj/vol54/iss3/2/)
+<!--Adams, Eric M., and Jordan Stanger-Ross. “Promises of Law: The Unlawful Dispossession of Japanese Canadians.” Osgoode Digital Commons, January 1, 1970. https://digitalcommons.osgoode.yorku.ca/ohlj/vol54/iss3/2/-->
