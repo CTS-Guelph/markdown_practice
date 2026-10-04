@@ -3,6 +3,7 @@ authors: Susan Brown
 date: 09-29-2026
 category: assignment sample
 tags: markdown, formatting, article preparation
+status: hidden
 template: base.html
 
 # A Simple Submission
