@@ -4,6 +4,7 @@ date: 09-29-2026
 category: assignment
 tags: markdown, formatting, article preparation
 template: base.html
+status: hidden
 
 # Susan's Sample Sandbox page
 
