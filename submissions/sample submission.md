@@ -1,6 +1,7 @@
 title: A Simple Submission
 authors: Susan Brown
-date: 09-29-2026
+summary: This is just a very bare-bones example of submission.
+date: 2026-10-04
 category: assignment sample
 tags: markdown, formatting, article preparation
 status: hidden
@@ -8,20 +9,24 @@ template: base.html
 
 # A Simple Submission
 
-## This is too simple, far too simple!
+## This is too simple, a bit too simple![^1]
+
+[^1] Too simple, that is, to satisify all the requirements for the assignment. Can you spot what is missing? See Susan Brown, "[CTS*4000: Digital Publishing](https://bit.ly/3T0DFH1)." Course Outline. University of Guelph, Fall 2026.
+
+<!-- CITATION: Footnote comment and course citation using Markdown footnote syntax; the note text is provided here although it will appear at the end when the document renders. Note that because footnotes use extended syntax this note doesn't format properly in standard markdown preview. -->
 
 ### *After all, you were asked in the assignment to include the following:*
 
 ### Metadata
 
-- Title, author (feel free to use a pseudonym or a name variant, but if your name is not recognizable to me then you need to inform me of this in your Courselink submission), date, citation, tags, summary (abstract), bio. 
+- Title, author (feel free to use a pseudonym or a name variant, but if your name is not recognizable to me then you need to inform me of this in your Courselink submission), date, citation, tags, summary (abstract), bio.
 
 - **Do not** include metadata for Issue like you'll see in the main *CTRL+ALT+DH* journal site.
 
 Be sure to include this line in your metadata to ensure that the page does not generate a menu item:
 
- - Status: hidden
-    - Tip: you can actually leave this out, since this is only relevant if the page is part of a static site.
+- Status: hidden
+  - Tip: you can actually leave this out, since this is only relevant if the page is part of a static site.
 
 ### Styling
 
@@ -37,12 +42,16 @@ For example:
 
  You can embed HTML directly into Markdown; try experimenting with custom inline styling, video or audio players, TimelineJS visualizations, etc.
 
-### *And really, this sample has very few of these.*
-# But
- the assignment really is quite simple
+ You can also try out other extended syntax such as tables. If you go this route you won't see your enhancements rendering in a simple markdown preview. You'll have to build the page into a website to show it rendering.
 
- # just like markup
+### *This sample does so little because I'm looking forward to seeing what you do based on figuring it out!*
 
- if you work with care and leave time for troubleshooting.
+### And
+
+# the assignment really is quite simple
+
+## just like markup
+
+### *so long as you work with care and leave time for troubleshooting....*
 
 *Hot Tip: Remember to make at least two commits by the time of the submission!*
