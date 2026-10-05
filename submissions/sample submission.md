@@ -11,7 +11,7 @@ template: base.html
 
 ## This is too simple, a bit too simple![^1]
 
-[^1] Too simple, that is, to satisify all the requirements for the assignment. Can you spot what is missing? See Susan Brown, "[CTS*4000: Digital Publishing](https://bit.ly/3T0DFH1)." Course Outline. University of Guelph, Fall 2026.
+[^1]: Too simple, that is, to satisify all the requirements for the assignment. Can you spot what is missing? See Susan Brown, "[CTS*4000: Digital Publishing](https://bit.ly/3T0DFH1)." Course Outline. University of Guelph, Fall 2026.
 
 <!-- CITATION: Footnote comment and course citation using Markdown footnote syntax; the note text is provided here although it will appear at the end when the document renders. Note that because footnotes use extended syntax this note doesn't format properly in standard markdown preview. -->
 
