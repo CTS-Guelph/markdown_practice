@@ -18,12 +18,11 @@ For my final capstone project in the University of Guelph's Culture and Technolo
 
 <img align= "left" width="400" height="525" alt="draft-3-2-2" src="https://github.com/user-attachments/assets/736e745b-73f3-451e-bc0e-545257860f8b" />
 
-
-<br><br><br><br>This made me interested in exploring how external human factors influence decision-making in moments where cybersecurity awareness is necessary. The project itself has significance as the games I am building are unique compared to traditional games since they include 4 factors: Serious Games, Simulation-based design, Cybersecurity, and Human Behaviour. My games not only look at human behaviour, but also educate users, both through information and interactive training, on best practices for responding to these situations. Additionally, many authors emphasize the importance of involving human behaviours in cybersecurity training. A few of them are Noman H. Chowdhury, Craig OverBoe, and Franklin Murphy (Chowdhury et al., 2020; Overboe et al., 2024; Murphy, 2025).
+<br>This made me interested in exploring how external human factors influence decision-making in moments where cybersecurity awareness is necessary. The project itself has significance as the games I am building are unique compared to traditional games since they include 4 factors: Serious Games, Simulation-based design, Cybersecurity, and Human Behaviour. My games not only look at human behaviour, but also educate users, both through information and interactive training, on best practices for responding to these situations. Additionally, many authors emphasize the importance of involving human behaviours in cybersecurity training. A few of them are Noman H. Chowdhury, Craig OverBoe, and Franklin Murphy (Chowdhury et al., 2020; Overboe et al., 2024; Murphy, 2025).
 
 "Organizations can decrease the probability of errors by designing environments and systems that are in line with human behavior by taking human behavior into account when it comes to cybersecurity" – (Overboe et al., 2024, p. 8)
 
-<br><br><br><br>This poster above ultimately shows my project plan of the games, discoveries, and results to answer the research question:
+<br>This poster above ultimately shows my project plan of the games, discoveries, and results to answer the research question:
 
 "How do external pressures and distractions influence individuals’ memory, attention, and decision-making during moments that require cybersecurity awareness?"
 
@@ -46,29 +45,26 @@ https://independent-mind-guard-play.base44.app/
 To complete this project, I needed a organized plan.
 
 ### Stage 1: Research and Scenario Development
-First, I needed to research cybersecurity behaviors and serious game design to develop realistic scenarios. After building Game 1, and dicussing with my teacher and mentor, I needed to both teach and inform users about the corilation between external pressures and work-life. 
+First, I needed to research cybersecurity behaviors and serious game design to develop realistic scenarios. After building Game 1, and dicussing with my teacher and mentor, I needed to both teach and inform users about the corilation between external pressures and work-life. For example, in the beginning it would explain key indicators that an email may be a scam. I also ensured there was a clear and realistic way to measure the impact of external factors compared to conditions without those influences.
 
 ### Stage 2: Revised Prototypes
-Second, each game was being built through Base44 (A.I. website builder), which means it was easy to get prototypes, but harder to get everything perfect. <br>
-<p align="center"> 
-  <img width="350" height="400" alt="image" src="https://github.com/user-attachments/assets/6f78a4ba-db05-42c7-8f4d-40d8ada9f563" />
-</p>
-<p align="center">  Screenshot from The Impact of External Pressure on Cybersecurity Decision-Making from Tom Talks: Stories and Reflections - https://ctsstudentsite1.wordpress.com/2026/04/10/the-impact-of-external-pressure-on-cybersecurity-decision-making/
-</p>
+<img align="left" width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/6f78a4ba-db05-42c7-8f4d-40d8ada9f563" /> Second, each game was being built through Base44 (A.I. website builder), which means it was easy to get prototypes, but harder to get everything perfect. <br>
 
+Screenshot from The Impact of External Pressure on Cybersecurity Decision-Making from Tom Talks: Stories and Reflections - https://ctsstudentsite1.wordpress.com/2026/04/10/the-impact-of-external-pressure-on-cybersecurity-decision-making/
+</p>
 
 ### Stage 3: Distribution and Data Collection
-Once the games were ready, I had to get people to evalute them, this took more time than I thought. The two websites I used were Tally, giving me ratings of the game, and Play2Review, which gave me written reviews too.
+These games were distributed through multiple online platforms, with two primary ones used for data collection. These platforms allowed for both quantitative (scaled responses from Tally) and qualitative (user feedback from Play2Review) reviews of how the games and impacts of the scenario went.
 
 ### Stage 4: Data Analysis and Reflection
-This was the coolest part, since I got to see what my work led up too. 
+This was the coolest part, since I got to see what my work led up too. Here is the final rating of the games:
+<p align="center"> 
+  <img width="600" height="150" alt="image" src="https://github.com/user-attachments/assets/20d930ba-1603-4121-afa1-e813e11af79d" />
+</p>
 
 ## Challenges Faced
 1. Getting Reviews and Managing Time for Data Collection
 
 One major challenge I had was encouraging users to complete the review. While many people viewed the games, only a small number chose to participate in the review or complete the experience. Additionally, distributing the games across multiple platforms took way longer than expected, mostly because each platform (including Reddit communities) often required unique posting formats and guidelines.
-
-
-
 
 
