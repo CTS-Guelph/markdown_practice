@@ -52,6 +52,14 @@ Game 1 2.0:
 [base44-log-game-1-2.0-2.pdf](https://github.com/user-attachments/files/33088030/base44-log-game-1-2.0-2.pdf)
 
 ### Stage 3: Distribution and Data Collection
+Once the games were ready, I had to get people to evalute them, this took more time than I thought. The two websites I used were Tally, giving me ratings of the game, and Play2Review, which gave me written reviews too.
+
+<img width="220" height="70" alt="screenshot-2026-04-09-175838-2" src="https://github.com/user-attachments/assets/3c63c634-10ab-417d-8c8c-bd7d34a8055c" />
+https://tally.so/templates
+
+<img width="260" height="70" alt="screenshot-2026-04-09-180210-1" src="https://github.com/user-attachments/assets/e284a821-ce1b-4acb-9e59-391460bdb9f2" />
+https://play2review.com/
+
 
 
 
