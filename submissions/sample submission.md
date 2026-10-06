@@ -9,7 +9,9 @@ template: base.html
 
 # A Simple Submission
 
-## This is too simple, a bit too simple![^1]
+## This is simple
+
+Indeed, it's a bit too simple![^1]
 
 [^1]: Too simple, that is, to satisify all the requirements for the assignment. Can you spot what is missing? See Susan Brown, "[CTS*4000: Digital Publishing](https://bit.ly/3T0DFH1)." Course Outline. University of Guelph, Fall 2026.
 
