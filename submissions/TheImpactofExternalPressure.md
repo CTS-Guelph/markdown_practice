@@ -22,7 +22,37 @@ For my final capstone project in the University of Guelph's Culture and Technolo
 
 <br><br><br><br>This made me interested in exploring how external human factors influence decision-making in moments where cybersecurity awareness is necessary. The project itself has significance as the games I am building are unique compared to traditional games since they include 4 factors: Serious Games, Simulation-based design, Cybersecurity, and Human Behaviour. My games not only look at human behaviour, but also educate users, both through information and interactive training, on best practices for responding to these situations. Additionally, many authors emphasize the importance of involving human behaviours in cybersecurity training. A few of them are Noman H. Chowdhury, Craig OverBoe, and Franklin Murphy (Chowdhury et al., 2020; Overboe et al., 2024; Murphy, 2025).
 
-“Organizations can decrease the probability of errors by designing environments and systems that are in line with human behavior by taking human behavior into account when it comes to cybersecurity” – (Overboe et al., 2024, p. 8)
+"Organizations can decrease the probability of errors by designing environments and systems that are in line with human behavior by taking human behavior into account when it comes to cybersecurity" – (Overboe et al., 2024, p. 8)
 
-<br><br><br><br>This poster on the left outlines my project by showing the games, project discoveries, and results.
+<br><br><br><br>This poster above ultimately shows my project plan of the games, discoveries, and results to answer the research question:
+
+"How do external pressures and distractions influence individuals’ memory, attention, and decision-making during moments that require cybersecurity awareness?"
+
 ## Project Development
+To complete this project, I needed a organized plan.
+
+### Stage 1: Research and Scenario Development
+First, I needed to research cybersecurity behaviors and serious game design to develop realistic scenarios. After building Game 1, and dicussing with my teacher and mentor, I needed to both teach and inform users about the corilation between external pressures and work-life. This document contains ideas and research notes I used to develop the games:
+
+[research_development-of-games-digital-research-project.pdf](https://github.com/user-attachments/files/33087827/research_development-of-games-digital-research-project.pdf)
+
+### Stage 2: Revised Prototypes
+Second, each game was being built through Base44 (A.I. website builder), which means it was easy to get prototypes, but harder to get everything perfect. I tried to best track down my changes everytime within these documents:
+
+Game 1:
+[base44-log-game-1-digital-research-project-1.pdf](https://github.com/user-attachments/files/33088000/base44-log-game-1-digital-research-project-1.pdf)
+
+Game 2: 
+[base44-log-game-2-digital-research-project-2.pdf](https://github.com/user-attachments/files/33088016/base44-log-game-2-digital-research-project-2.pdf)
+
+Game 3: 
+[base44-log-game-3-digital-research-project-2.pdf](https://github.com/user-attachments/files/33088021/base44-log-game-3-digital-research-project-2.pdf)
+
+Game 1 2.0:
+[base44-log-game-1-2.0-2.pdf](https://github.com/user-attachments/files/33088030/base44-log-game-1-2.0-2.pdf)
+
+### Stage 3: Distribution and Data Collection
+
+
+
+
