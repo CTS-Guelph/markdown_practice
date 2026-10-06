@@ -28,37 +28,46 @@ For my final capstone project in the University of Guelph's Culture and Technolo
 
 "How do external pressures and distractions influence individuals’ memory, attention, and decision-making during moments that require cybersecurity awareness?"
 
+## Final Project Games
+Here are the links to the final project games.
+
+Game 1:
+https://cyber-breach-2b3772f3.base44.app/
+
+Game 2:
+https://meticulous-fireway-drive-safe.base44.app/
+
+Game 3:
+https://watch-cyber-guard.base44.app/
+
+Game 1 2.0:
+https://independent-mind-guard-play.base44.app/
+
 ## Project Development
 To complete this project, I needed a organized plan.
 
 ### Stage 1: Research and Scenario Development
-First, I needed to research cybersecurity behaviors and serious game design to develop realistic scenarios. After building Game 1, and dicussing with my teacher and mentor, I needed to both teach and inform users about the corilation between external pressures and work-life. This document contains ideas and research notes I used to develop the games:
-
-[research_development-of-games-digital-research-project.pdf](https://github.com/user-attachments/files/33087827/research_development-of-games-digital-research-project.pdf)
+First, I needed to research cybersecurity behaviors and serious game design to develop realistic scenarios. After building Game 1, and dicussing with my teacher and mentor, I needed to both teach and inform users about the corilation between external pressures and work-life. 
 
 ### Stage 2: Revised Prototypes
-Second, each game was being built through Base44 (A.I. website builder), which means it was easy to get prototypes, but harder to get everything perfect. I tried to best track down my changes everytime within these documents:
+Second, each game was being built through Base44 (A.I. website builder), which means it was easy to get prototypes, but harder to get everything perfect. <br>
+<p align="center"> 
+  <img width="350" height="400" alt="image" src="https://github.com/user-attachments/assets/6f78a4ba-db05-42c7-8f4d-40d8ada9f563" />
+</p>
+<p align="center">  Screenshot from The Impact of External Pressure on Cybersecurity Decision-Making from Tom Talks: Stories and Reflections - https://ctsstudentsite1.wordpress.com/2026/04/10/the-impact-of-external-pressure-on-cybersecurity-decision-making/
+</p>
 
-Game 1:
-[base44-log-game-1-digital-research-project-1.pdf](https://github.com/user-attachments/files/33088000/base44-log-game-1-digital-research-project-1.pdf)
-
-Game 2: 
-[base44-log-game-2-digital-research-project-2.pdf](https://github.com/user-attachments/files/33088016/base44-log-game-2-digital-research-project-2.pdf)
-
-Game 3: 
-[base44-log-game-3-digital-research-project-2.pdf](https://github.com/user-attachments/files/33088021/base44-log-game-3-digital-research-project-2.pdf)
-
-Game 1 2.0:
-[base44-log-game-1-2.0-2.pdf](https://github.com/user-attachments/files/33088030/base44-log-game-1-2.0-2.pdf)
 
 ### Stage 3: Distribution and Data Collection
 Once the games were ready, I had to get people to evalute them, this took more time than I thought. The two websites I used were Tally, giving me ratings of the game, and Play2Review, which gave me written reviews too.
 
-<img width="220" height="70" alt="screenshot-2026-04-09-175838-2" src="https://github.com/user-attachments/assets/3c63c634-10ab-417d-8c8c-bd7d34a8055c" />
-https://tally.so/templates
+### Stage 4: Data Analysis and Reflection
+This was the coolest part, since I got to see what my work led up too. 
 
-<img width="260" height="70" alt="screenshot-2026-04-09-180210-1" src="https://github.com/user-attachments/assets/e284a821-ce1b-4acb-9e59-391460bdb9f2" />
-https://play2review.com/
+## Challenges Faced
+1. Getting Reviews and Managing Time for Data Collection
+
+One major challenge I had was encouraging users to complete the review. While many people viewed the games, only a small number chose to participate in the review or complete the experience. Additionally, distributing the games across multiple platforms took way longer than expected, mostly because each platform (including Reddit communities) often required unique posting formats and guidelines.
 
 
 
