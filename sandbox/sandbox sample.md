@@ -1,14 +1,11 @@
-title: Susan's Sample Sandbox page
-authors: Susan Brown
-date: 2026-10-04
-category: assignment
-tags: markdown, formatting, article preparation
-template: base.html
-status: hidden
+Title: Susan's Sample Sandbox page
+Authors: Susan Brown
+Date: 2026-10-04
+Tags: markdown, formatting, article preparation
 
 # Susan's Sample Sandbox page
 
-This is what I'm providing as a model. But you should do your own thing.
+This is what I'm providing as a basic model. But you should do your own thing.
 
 ---
 
