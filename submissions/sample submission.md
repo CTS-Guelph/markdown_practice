@@ -26,7 +26,7 @@ Indeed, it's a bit too simple![^1]
 Be sure to include this line in your metadata to ensure that the page does not generate a menu item:
 
 - Status: hidden
-  - Tip: you can actually leave this out, since this is only relevant if the page is part of a static site.
+  - Note: this keeps the page hidden if published as part of a static site.
 
 ### Styling
 
