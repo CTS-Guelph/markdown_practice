@@ -1,19 +1,17 @@
-title: A Simple Submission
-authors: Susan Brown
-summary: This is just a very bare-bones example of submission.
-date: 2026-10-04
-category: assignment sample
-tags: markdown, formatting, article preparation
-status: hidden
-template: base.html
+Title: A Simple Submission
+Authors: Susan Brown
+Abstract: This is just a very bare-bones example of submission.
+Date: 2026-10-04
+Tags: markdown, formatting, article preparation
+Status: hidden
 
 # A Simple Submission
 
-## This is simple
+## This is very simple
 
 Indeed, it's a bit too simple![^1]
 
-[^1]: Too simple, that is, to satisify all the requirements for the assignment. Can you spot what is missing? See Susan Brown, "[CTS*4000: Digital Publishing](https://bit.ly/3T0DFH1)." Course Outline. University of Guelph, Fall 2026.
+[^1]: Too simple, that is, to satisify all the requirements for the assignment. Can you spot what is missing? See Susan Brown, "CTS*4000: Digital Publishing." Course Outline. University of Guelph, Fall 2026.
 
 <!-- CITATION: Footnote comment and course citation using Markdown footnote syntax; the note text is provided here although it will appear at the end when the document renders. Note that because footnotes use extended syntax this note doesn't format properly in standard markdown preview. -->
 
