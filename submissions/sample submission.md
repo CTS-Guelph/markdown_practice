@@ -19,7 +19,7 @@ Indeed, it's a bit too simple![^1]
 
 ### Metadata
 
-- Title, author (feel free to use a pseudonym or a name variant, but if your name is not recognizable to me then you need to inform me of this in your Courselink submission), date, citation, tags, summary (abstract), bio.
+- Title, author (feel free to use a pseudonym or a name variant, but if your name is not recognizable to me then you need to inform me of this in your Courselink submission), date, citation, tags, abstract, bio.
 
 - **Do not** include metadata for Issue like you'll see in the main *CTRL+ALT+DH* journal site.
 
