@@ -48,10 +48,11 @@ To complete this project, I needed a organized plan.
 First, I needed to research cybersecurity behaviors and serious game design to develop realistic scenarios. After building Game 1, and dicussing with my teacher and mentor, I needed to both teach and inform users about the corilation between external pressures and work-life. For example, in the beginning it would explain key indicators that an email may be a scam. I also ensured there was a clear and realistic way to measure the impact of external factors compared to conditions without those influences.
 
 ### Stage 2: Revised Prototypes
-<img align="left" width="300" height="350" alt="image" src="https://github.com/user-attachments/assets/6f78a4ba-db05-42c7-8f4d-40d8ada9f563" /> Second, each game was being built through Base44 (A.I. website builder), which means it was easy to get prototypes, but harder to get everything perfect. <br>
+<img align="right" width="180" height="210" src="https://github.com/user-attachments/assets/6f78a4ba-db05-42c7-8f4d-40d8ada9f563" 
 
-Screenshot from The Impact of External Pressure on Cybersecurity Decision-Making from Tom Talks: Stories and Reflections - https://ctsstudentsite1.wordpress.com/2026/04/10/the-impact-of-external-pressure-on-cybersecurity-decision-making/
-</p>
+Second, each game was being built through Base44 (A.I. website builder), which means it was easy to get prototypes, but harder to get everything perfect. Each game was developed through 9-12 versions of prototypes. Prototypes were refined based on usability, clarity, and interaction timing. <br>
+
+
 
 ### Stage 3: Distribution and Data Collection
 These games were distributed through multiple online platforms, with two primary ones used for data collection. These platforms allowed for both quantitative (scaled responses from Tally) and qualitative (user feedback from Play2Review) reviews of how the games and impacts of the scenario went.
