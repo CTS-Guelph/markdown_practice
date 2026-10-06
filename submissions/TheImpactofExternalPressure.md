@@ -1,4 +1,3 @@
-## Metadata
 Title: The Impact of External Pressure on Cybersecurity Decision Making 
 
 Author: Thomas Hendriks (Maxwellcoffee1)
