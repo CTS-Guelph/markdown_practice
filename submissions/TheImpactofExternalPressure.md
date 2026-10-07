@@ -18,11 +18,11 @@ For my final capstone project in the University of Guelph's Culture and Technolo
 
 <img align= "left" width="400" height="525" alt="draft-3-2-2" src="https://github.com/user-attachments/assets/736e745b-73f3-451e-bc0e-545257860f8b" />
 
-<br>This made me interested in exploring how external human factors influence decision-making in moments where cybersecurity awareness is necessary. The project itself has significance as the games I am building are unique compared to traditional games since they include 4 factors: Serious Games, Simulation-based design, Cybersecurity, and Human Behaviour. My games not only look at human behaviour, but also educate users, both through information and interactive training, on best practices for responding to these situations. Additionally, many authors emphasize the importance of involving human behaviours in cybersecurity training. A few of them are Noman H. Chowdhury, Craig OverBoe, and Franklin Murphy (Chowdhury et al., 2020; Overboe et al., 2024; Murphy, 2025).
+<br><br><br><br><br>This made me interested in exploring how external human factors influence decision-making in moments where cybersecurity awareness is necessary. The project itself has significance as the games I am building are unique compared to traditional games since they include 4 factors: Serious Games, Simulation-based design, Cybersecurity, and Human Behaviour. My games not only look at human behaviour, but also educate users, both through information and interactive training, on best practices for responding to these situations. Additionally, many authors emphasize the importance of involving human behaviours in cybersecurity training. A few of them are Noman H. Chowdhury, Craig OverBoe, and Franklin Murphy (Chowdhury et al., 2020; Overboe et al., 2024; Murphy, 2025).
 
 "Organizations can decrease the probability of errors by designing environments and systems that are in line with human behavior by taking human behavior into account when it comes to cybersecurity" – (Overboe et al., 2024, p. 8)
 
-<br>This poster above ultimately shows my project plan of the games, discoveries, and results to answer the research question:
+<br><br><br>This poster above ultimately shows my project plan of the games, discoveries, and results to answer the research question:
 
 "How do external pressures and distractions influence individuals’ memory, attention, and decision-making during moments that require cybersecurity awareness?"
 
@@ -47,15 +47,14 @@ To complete this project, I needed a organized plan.
 ### Stage 1: Research and Scenario Development
 First, I needed to research cybersecurity behaviors and serious game design to develop realistic scenarios. After building Game 1, and dicussing with my teacher and mentor, I needed to both teach and inform users about the corilation between external pressures and work-life. For example, in the beginning it would explain key indicators that an email may be a scam. I also ensured there was a clear and realistic way to measure the impact of external factors compared to conditions without those influences.
 
-### Stage 2: Revised Prototypes
-<img align="right" width="180" height="210" src="https://github.com/user-attachments/assets/6f78a4ba-db05-42c7-8f4d-40d8ada9f563" 
+### Stage 2: Revised Prototypes 
+<img align="right" width="250" height="300" alt="Screenshot 2026-10-06 013437" src="https://github.com/user-attachments/assets/6471c023-4c60-45c3-a078-7e67ad14e32d" /> 
 
 Second, each game was being built through Base44 (A.I. website builder), which means it was easy to get prototypes, but harder to get everything perfect. Each game was developed through 9-12 versions of prototypes. Prototypes were refined based on usability, clarity, and interaction timing. <br>
 
-
-
 ### Stage 3: Distribution and Data Collection
-These games were distributed through multiple online platforms, with two primary ones used for data collection. These platforms allowed for both quantitative (scaled responses from Tally) and qualitative (user feedback from Play2Review) reviews of how the games and impacts of the scenario went.
+These games were distributed through multiple online platforms, with two primary ones used for data collection. These platforms allowed for both quantitative (scaled responses from Tally) and qualitative (user feedback from Play2Review) reviews of how the games and impacts of the scenario went. <br><br><br>
+
 
 ### Stage 4: Data Analysis and Reflection
 This was the coolest part, since I got to see what my work led up too. Here is the final rating of the games:
@@ -68,4 +67,7 @@ This was the coolest part, since I got to see what my work led up too. Here is t
 
 One major challenge I had was encouraging users to complete the review. While many people viewed the games, only a small number chose to participate in the review or complete the experience. Additionally, distributing the games across multiple platforms took way longer than expected, mostly because each platform (including Reddit communities) often required unique posting formats and guidelines.
 
+2. Balancing the Serious vs. Entertainment Elements of the Games
 
+<img align="right" width="120" height="180" alt="image-5" src="https://github.com/user-attachments/assets/bb4d9b1d-da83-48bc-a9ef-cb65e2d6b60f" />
+Throughout this project, I struggled to balance serious and entertaining aspects of the game. This challenge became especially important when elements like bright colors, bouncy visuals, and star effects felt inappropriate within a serious theme, such as being hacked. For example, the image on the right shows a small bot named “Locky,” which used these playful features to give players advice. However, it was part of an earlier prototype and was removed because it did not align with the tone I wanted for the final design.
