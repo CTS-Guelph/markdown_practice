@@ -73,11 +73,20 @@ Game 3: https://docs.google.com/document/d/1rEsiSK-j6XWROJ8OrNP58zPJMxR_jX5DqcHG
 
 Game 1 2.0: https://docs.google.com/document/d/1rEsiSK-j6XWROJ8OrNP58zPJMxR_jX5DqcHG0XWQqQk/edit?usp=sharing
 </details>
-<br>
 
 ### Stage 3: Distribution and Data Collection
-These games were distributed through multiple online platforms, with two primary ones used for data collection. These platforms allowed for both quantitative (scaled responses from Tally) and qualitative (user feedback from Play2Review) reviews of how the games and impacts of the scenario went. <br><br><br>
+These games were distributed through multiple online platforms, with two primary ones used for data collection. These platforms allowed for both quantitative (scaled responses from Tally) and qualitative (user feedback from Play2Review) reviews of how the games and impacts of the scenario went.
 
+<details>
+<summary> Click Here to See Document Preparation of Tally Sites </summary>
+Game 1: https://docs.google.com/document/d/1THDGFan2vW8-mI67K0gePPMYyvbFpuvZP_4E61A8zJ4/edit?usp=sharing
+
+Game 2: https://docs.google.com/document/d/16o1LCTP57LCwnSZBTxSDn5AnYFGKimVtuY30fVHnP3s/edit?usp=sharing
+
+Game 3: https://docs.google.com/document/d/11hCd61AbggcYyNuUWUra2rptUhOhsnQLSe2g-biJx3o/edit?usp=sharing
+</details>
+
+<br><br>
 
 ### Stage 4: Data Analysis and Reflection
 This was one of the most satisfying parts, since I got to see what my work led up too. Here is the final rating of the games:
@@ -105,7 +114,11 @@ One aspect I really enjoy in many games is the use of 3D environments, and I als
   <img width="400" height="225" src="https://github.com/user-attachments/assets/7393fff0-fa7e-4a41-a843-484eac95f7cc" />
 </p>
 
-# Project Discoveries
+# Project Discoveries and Results
+
+[Click Here](https://docs.google.com/document/d/1NjEqHuQYcl0TMbEYAHc3ou6tzz3M0nZt3ySZ__QgqQI/edit?usp=sharing) to see the overall results of the games and discoveries
+
+## Summary of Discoveries
 
 ### 1. When building games using A.I., there is no “fluff” – you work directly with what is generated.
 
@@ -115,7 +128,7 @@ Working with AI to build an interactive platform gives limited control over the 
 
 One thing I discovered is that game promotion often happens behind the scenes on most mainstream websites. Developers may not want older versions to be openly accessible, especially when they are planning to release a paid version. While some people may appreciate seeing a game’s development progress, releasing a fully completed version can also create a sense of mystery and professionalism.
 
-# Study Discoveries
+## Summary of Results
 
 ### 1. My results indicate that external factors can create stress, which in turn impacts short-term memory.
 In Game 1, the average memory score was 3.125/5, suggesting that participants didn’t have great memory during the game. Users most likely linked this to the boss character, since it was the primary external distraction, while many people reported the timer didn’t affect them. 75% of participants specifically stated that the boss made it harder for them to remember the passwords. This likely means the boss creates stress, which makes memory worse.
@@ -144,10 +157,10 @@ I found that many people actually encouraged me to share my games on their platf
 
 While building my games, I had some disturbing, almost demonic-like images happen that likely wouldn’t pop up on a platform like ChatGPT. Part of this could be because text-based A.I. sometimes says “cannot respond” or returns non-specific results, whereas the A.I. game platform will show a result no matter what.    
 
-Overall, this was a great experience for me, and I learned just how important it is that more simulations like I built get created:
+Overall, throughout ths project I gained organizational skills and developed better understand of the relationship between individuals work and homelife, this was a great experience for me.
 
 # More Information About Project
-For more information about the project, visit this cite to find documents, more details about the games, and pictures of the progress:
+For more information about the project, visit this cite to find additional documents, more details about the games, and pictures of the progress:
 https://ctsstudentsite1.wordpress.com/2026/04/10/the-impact-of-external-pressure-on-cybersecurity-decision-making/ 
 
 # Citations (Chicago-Style)
