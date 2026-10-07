@@ -27,6 +27,9 @@ For my final capstone project in the University of Guelph's Culture and Technolo
 "How do external pressures and distractions influence individuals’ memory, attention, and decision-making during moments that require cybersecurity awareness?"
 
 ## Final Project Games
+<p align="center"> 
+<img width="900" height="200" alt="screenshot-2026-04-09-112439-3" src="https://github.com/user-attachments/assets/32c49dbc-61df-4b5f-84f7-5316de3433f1" />
+</p>
 Here are the links to the final project games.
 
 Game 1:
