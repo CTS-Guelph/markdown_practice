@@ -10,7 +10,7 @@ Citation: https://ctsstudentsite1.wordpress.com/2026/04/10/the-impact-of-externa
 
 Tags: Human Behaviour, Serious Games, Technology
 
-Summary: In the University of Guelph’s Culture and Technology Studies program, the final capstone course centers on developing a project over the span of two classes. The project explored how external pressure influences cybersecurity decision-making. To answer this, I built three serious games on Base44 that simulate real-world cybersecurity scenarios with built-in distractions. I then gathered user feedback to discover how external pressure affected participants. To the right are the final versions of the games. NOTE: Game 1 was developed before any feedback, so it’s less refined than the other games.
+Summary: This project explores how external pressure influences cybersecurity decision-making. To investigate this, three serious games were built using the A.I. platform Base44. Research about serious games, simulation-based design, cybersecurity, and human behaviour was done to attempt to simulate real-world cybersecurity scenarios with built-in distractions. After these games were built, user feedback was then gathered to discover how external pressure affected participants, and whether the games themselves were overall affective. Multiple updates and versions were created across the three different games, each designed with different cybersecurity scenarios. The first was a memory-based password game in which the player is distracted by the manager, the second was a yes/no email scam game while driving, and the third being a multiple-choice game about computer viruses while supervising a child. An additional version of the first game was created because the project was ahead of schedule, however, there were no reviews for it. 
 
 Bio: Thomas Hendriks is currently a fourth-year Culture and Techology Studies student, with minors in Marketing and Project Management at the university of Guelph. Tom has particular interest on the affects of technology and how it affects peoples everyday experiences. 
 
@@ -19,17 +19,25 @@ Status: hidden
 
 # The Impact of External Pressure on Cybersecurity Decision Making
 ## Why This Topic?
-For my final capstone project in the University of Guelph's Culture and Technology Studies prgoram, I explored how external pressure influences human decision-making in cybersecurity. During the process of determining our project topics, I had a very interesting conversation with my brother-in-law who described how an employee within his company who clicked on one of these phishing links and had to complete training along with a notice of this bahaviour in there file. However, the employee argued that they were dealing with significant external distractions at the time and this created a debate among IT staff and management about whether the incident should be forgiven.
+I became very interested in this topic after having a conversation with my brother-in-law about a cybersecurity incident that happened at his workplace. He described how an employee had clicked on a phishing link and was required to complete training, along with the incident being documented in their employee file. However, the employee argued that they were dealing with significant external distractions at the time and this created a debate among IT staff and management about whether the incident should be forgiven. This conversation made me interested in exploring how external human factors influence decision-making in moments where cybersecurity awareness is necessary. 
 
-<img align= "left" width="400" height="525" alt="draft-3-2-2" src="https://github.com/user-attachments/assets/736e745b-73f3-451e-bc0e-545257860f8b" />
+From this idea, I developed a project focusing on the relationship between: **Serious Games, Simulation-based design, Cybersecurity, and Human Behaviour**. Three serious games were built using the A.I. platform Base44 to attempt to simulate real-world cybersecurity scenarios with built-in distractions. Each game was designed with different cybersecurity scenarios:
 
-<br><br><br><br><br>This made me interested in exploring how external human factors influence decision-making in moments where cybersecurity awareness is necessary. The project itself has significance as the games I am building are unique compared to traditional games since they include 4 factors: Serious Games, Simulation-based design, Cybersecurity, and Human Behaviour. My games not only look at human behaviour, but also educate users, both through information and interactive training, on best practices for responding to these situations. Additionally, many authors emphasize the importance of involving human behaviours in cybersecurity training. A few of them are Noman H. Chowdhury, Craig OverBoe, and Franklin Murphy (Chowdhury et al., 2020; Overboe et al., 2024; Murphy, 2025).
+1. A memory-based password game in which the player is distracted by the manager
+2. A yes/no email scam game while driving
+3. A multiple-choice game about computer viruses while supervising a child. An additional version of the first game was created because the project was ahead of schedule, however, there were no reviews for it.
 
-"Organizations can decrease the probability of errors by designing environments and systems that are in line with human behavior by taking human behavior into account when it comes to cybersecurity" – (Overboe et al., 2024, p. 8)
+<details>
+<summary>Click here to see full Poster</summary>
+<p align="center">
+  <img width="700" height="900" alt="draft-3-2-2" src="https://github.com/user-attachments/assets/736e745b-73f3-451e-bc0e-545257860f8b" />
+</p>
+</details>
 
-<br><br><br>This poster above ultimately shows my project plan of the games, discoveries, and results to answer the research question:
-
-"How do external pressures and distractions influence individuals’ memory, attention, and decision-making during moments that require cybersecurity awareness?"
+This poster above ultimately shows my project plan of the games, discoveries, and results to answer the research question:
+<br> 
+### ***"How do external pressures and distractions influence individuals’ memory, attention, and decision-making during moments that require cybersecurity awareness?"***
+<br>
 
 ## Final Project Games
 <p align="center"> 
@@ -45,7 +53,9 @@ For my final capstone project in the University of Guelph's Culture and Technolo
 To complete this project, I needed a organized plan.
 
 ### Stage 1: Research and Scenario Development
-First, I needed to research cybersecurity behaviors and serious game design to develop realistic scenarios. After building Game 1, and dicussing with my teacher and mentor, I needed to both teach and inform users about the corilation between external pressures and work-life. For example, in the beginning it would explain key indicators that an email may be a scam. I also ensured there was a clear and realistic way to measure the impact of external factors compared to conditions without those influences.
+First, I needed to research cybersecurity behaviors and serious game design to develop realistic scenarios. After building Game 1, and dicussing with my teacher and mentor, I needed to both teach and inform users about the corilation between external pressures and work-life. For example, in the beginning it would explain key indicators that an email may be a scam. I also ensured there was a clear and realistic way to measure the impact of external factors compared to conditions without those influences. One thing I realized during my research was that their were clear authors pushing for something like this to happen:
+
+"Organizations can decrease the probability of errors by designing environments and systems that are in line with human behavior by taking human behavior into account when it comes to cybersecurity" – (Overboe et al., 2024, p. 8)
 
 ### Stage 2: Revised Prototypes 
 <img align="right" width="250" height="300" alt="Screenshot 2026-10-06 013437" src="https://github.com/user-attachments/assets/6471c023-4c60-45c3-a078-7e67ad14e32d" /> 
@@ -121,7 +131,7 @@ I found that many people actually encouraged me to share my games on their platf
 
 While building my games, I had some disturbing, almost demonic-like images happen that likely wouldn’t pop up on a platform like ChatGPT. Part of this could be because text-based A.I. sometimes says “cannot respond” or returns non-specific results, whereas the A.I. game platform will show a result no matter what.    
 
-Overall, this was a great experience for me, and I learned a lot.
+Overall, this was a great experience for me, and I learned just how important it is that more simulations like I built get created:
 
 # More Information About Project
 For more information about the project, visit this cite to find documents, more details about the games, and pictures of the progress:
