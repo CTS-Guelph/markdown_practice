@@ -29,7 +29,7 @@ From this idea, I developed a project focusing on the relationship between: **Se
 
 ## Poster Project Summary
 <details>
-<summary> Click here to see full Poster </summary>
+<summary> Click Here to See Full Poster </summary>
 <p align="center">
   <img width="700" height="900" alt="draft-3-2-2" src="https://github.com/user-attachments/assets/736e745b-73f3-451e-bc0e-545257860f8b" />
 </p>
@@ -56,14 +56,23 @@ To complete this project, I needed a organized plan:
 </p>
 
 ### Stage 1: Research and Scenario Development
-First, I needed to research cybersecurity behaviors and serious game design to develop realistic scenarios. After building Game 1, and dicussing with my teacher and mentor, I needed to both teach and inform users about the corilation between external pressures and work-life. For example, in the beginning it would explain key indicators that an email may be a scam. I also ensured there was a clear and realistic way to measure the impact of external factors compared to conditions without those influences. One thing I realized during my research was that their were clear authors pushing for something like this to happen:
-
-"Organizations can decrease the probability of errors by designing environments and systems that are in line with human behavior by taking human behavior into account when it comes to cybersecurity" – (Overboe et al., 2024, p. 8)
+First, I needed to research cybersecurity behaviors and serious game design to develop realistic scenarios. After building Game 1, and dicussing with my teacher and mentor, I needed to both teach and inform users about the corilation between external pressures and work-life. For example, in the beginning it would explain key indicators that an email may be a scam. I also ensured there was a clear and realistic way to measure the impact of external factors compared to conditions without those influences. [Click here](https://docs.google.com/document/d/1kWsPzTiy3tZl3lMPGrfDh5vtzhojrkqkXrqoTa17z9A/edit?usp=sharing) to see the document full of the research to complete these games, mainly before I attempted at making them. 
 
 ### Stage 2: Revised Prototypes 
 <img align="right" width="250" height="300" alt="Screenshot 2026-10-06 013437" src="https://github.com/user-attachments/assets/6471c023-4c60-45c3-a078-7e67ad14e32d" /> 
 
-Second, each game was being built through Base44 (A.I. website builder), which means it was easy to get prototypes, but harder to get everything perfect. Each game was developed through 9-12 versions of prototypes. Prototypes were refined based on usability, clarity, and interaction timing. <br>
+Second, each game was being built through Base44 (A.I. website builder), which means it was easy to get prototypes, but harder to get everything perfect. Each game was developed through 9-12 versions of prototypes. Prototypes were refined based on usability, clarity, and interaction timing. 
+<details>
+<summary> Click Here to See All Game Prototypes and Prompts </summary>
+Game 1: https://docs.google.com/document/d/14lK4OsZ8SSrwehfJwObk6XczkHkTrsSBUs-Yl2IZHPg/edit?usp=sharing
+
+Game 2: https://docs.google.com/document/d/1_HPxaYx5Y7uuqo15au3gOHMLABd6FfiEkENLyn6l6h0/edit?usp=sharing
+
+Game 3: https://docs.google.com/document/d/1rEsiSK-j6XWROJ8OrNP58zPJMxR_jX5DqcHG0XWQqQk/edit?usp=sharing
+
+Game 1 2.0: https://docs.google.com/document/d/1rEsiSK-j6XWROJ8OrNP58zPJMxR_jX5DqcHG0XWQqQk/edit?usp=sharing
+</details>
+<br>
 
 ### Stage 3: Distribution and Data Collection
 These games were distributed through multiple online platforms, with two primary ones used for data collection. These platforms allowed for both quantitative (scaled responses from Tally) and qualitative (user feedback from Play2Review) reviews of how the games and impacts of the scenario went. <br><br><br>
