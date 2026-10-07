@@ -10,10 +10,13 @@ Bio: Liam is a fourth-year CTS student who ...
 Status: hidden
 ---
 
+<!-- METADATA: all required fields including keywords plus Status: hidden; no Issue field. -->
+
 # Project Safe Outside and Capitalist Realism
 
 ![A person climbs a rocky cliff with sparse vegetation, they are dimly lit against the rocks](images/robertson-cliff.webp)
 *Photo by [NEOM](https://unsplash.com/@neom) on [Unsplash](https://unsplash.com/)*
+<!-- IMAGE: converted from AVIF and resized; added alt text. -->
 
 The project #SafeOutside is a grassroots initiative intended to combat sexual harassment and sexual assault (SHSA) as it occurs among communities of climbers and others who enjoy wilderness activities. The initiative has worked closely with nonprofits, industries and press organizations to compile data for the purposes of generating awareness around SHSA and implementing policies where possible. This endeavour has culminated in the creation of two sources, a report on SHSA in climbing communities and a toolkit for helping others collect their own data to help in this initiative. The critical framework of capitalist realism, as detailed by Mark Fisher, presents this project as an aspect of capitalism, woven into the system and therefore reliant on its ideologies.
 
@@ -21,6 +24,7 @@ While this project has good intentions, it is still a product of capitalism and 
 
 ![A single shopping cart has been placed in the middle of an empty parking garage](images/robertson-cart.webp)
 *Photo by [Xavi Cabrera](https://unsplash.com/@xavi_cabrera) on [Unsplash](https://unsplash.com/)*
+<!-- IMAGE: converted from AVIF and resized; added alt text. -->
 
 ## Relation to Gender and Data Activism
 
@@ -28,6 +32,7 @@ The project #SafeOutside relates to gender in a fundamental way, as the initiati
 
 ![A graph detailing sexual harassment and assault while climbing, divided by binary genders](images/robertson-fig1.webp)
 *Figure 1. Lieu & Rennison, 2018.*
+<!-- IMAGE: converted from PNG and resized; added alt text. -->
 
 The main aspect of social activism is carried out through the SHSA Report. This report compiled the information obtained through surveys issued by 40 organizations and a great number of individuals in 2018. The report itself outlines the need for climbers to feel safe from incidents of discrimination, harassment and assault. It advances this goal through a series of graphs and charts, which detail the identity markers of those who have participated in the survey. The survey then breaks the results on SHSA into the categories of men and women, leaving gender diverse individuals out of the aggregate data. This is extremely damaging to individuals who identify outside of the gender binary, especially because these individuals experience higher incident rates of SHSA than their cisgender peers with just under half of all genderqueer individuals experiencing sexual assault at least once in their lifetime (Canan et al, 2024). While transgender people will be represented in the binary categories, non-binary and other gender diverse individuals are excluded despite the high incident rates of SHSA in these groups.
 
@@ -35,6 +40,7 @@ In terms of data relating to harassment and assault, 47% of women reported exper
 
 ![A busy pride parade, people walk as many rainbow flags blow in the wind](images/robertson-pride.webp)
 *Photo by [Margaux Bellott](https://unsplash.com/@mxrgo) on [Unsplash](https://unsplash.com/)*
+<!-- IMAGE: converted from AVIF and resized; added alt text. -->
 
 ## Objectives of The Project
 
@@ -42,6 +48,7 @@ The project makes the argument that individuals need to inform themselves about 
 
 ![A series of statistics detailing incident rates of sexual harassment and assault, divided by binary genders](images/robertson-fig2.webp)
 *Figure 1. Lieu & Rennison, 2018.*
+<!-- IMAGE: converted from PNG and resized; added alt text. -->
 
 ## Relation to Capitalist Realism
 
@@ -49,6 +56,7 @@ SHSA among climbers is presented in a somewhat similar way to capitalist realism
 
 ![A wooden doll holds on to a horizontal metal rod, the ground is not visible](images/robertson-doll.webp)
 *Photo by [Marco Bianchetti](https://unsplash.com/@marcobian) on [Unsplash](https://unsplash.com/)*
+<!-- IMAGE: converted from AVIF and resized; added alt text. -->
 
 In a sense, capitalist realism surrounds the culture of SHSA as those who perpetrate such actions view their victims as sexual objects, rather than people with their own motivations and sense of agency. According to the framework of capitalist realism, capitalism is an ideology which can permeate every aspect of society, creating a system which objectifies individuals and treats them like objects. The project tries to break the system of reflexive apathy which is experienced by those living under capitalist realism. By calling the individual user to action and demonstrating how they can individually make a positive impact in their community, the program reduces the scope of capitalist realism to a smaller community of rock climbers. This project is therefore able to organize a large enough group of people to resist the effects of reflexive impotence, breaking the cycle and resisting the system of capitalist realism. One person cannot fix an issue like SHSA, but an entire community working together can address and hopefully prevent many future occurrences of these actions.
 
