@@ -1,4 +1,6 @@
+<!--- The beginning shows all the Metadata required, Title, Author, Date, Citation, Tags, Abstract, Bio, and Status: hidden. Updated: I added Metadata above with a compressor to organize it better (Styling Requirment). I added a clear summary of my project, along with a more professional citation, rather than just the link. I also added two sentences about me in my bio. --->
 <details>
+  
 <summary>Click to View Metadata</summary>
 
 Title: The Impact of External Pressure on Cybersecurity Decision Making
@@ -19,32 +21,38 @@ Status: hidden
 </details>
 
 # The Impact of External Pressure on Cybersecurity Decision Making
-## Why This Topic?
+## Why This Topic? 
 I became very interested in this topic after having a conversation with my brother-in-law about a cybersecurity incident that happened at his workplace. He described how an employee had clicked on a phishing link and was required to complete training, along with the incident being documented in their employee file. However, the employee argued that they were dealing with significant external distractions at the time and this created a debate among IT staff and management about whether the incident should be forgiven. This conversation made me interested in exploring how external human factors influence decision-making in moments where cybersecurity awareness is necessary. 
 
 From this idea, I developed a project focusing on the relationship between: **Serious Games, Simulation-based design, Cybersecurity, and Human Behaviour**. Three serious games were built using the A.I. platform Base44 to attempt to simulate real-world cybersecurity scenarios with built-in distractions. Each game was designed with different scenarios:
 
-1. A memory-based password game in which the player is distracted by the manager
-2. A yes/no email scam game while driving
-3. A multiple-choice game about computer viruses while supervising a child. 
+1. A memory-based password game in which the player is distracted by the manager. 
+2. A yes/no email scam game while driving.
+3. A multiple-choice game about computer viruses while supervising a child.
+
+<!--- I used bold text to show hiearchy of titles throughout this article and specifically bolded the list of four main topics my project goes over (Styling Requirment). Updated: Instead of a whole bunch of paragraphs, I broke it down, and reworded it to have a smoother transition. I also decided to seperate my poster from this main text at the beginning, so not only can readers see the poster better, but its also not taking up space, unless they click to see it (Styling Requirement). --->
 
 ## Poster Project Summary
 <details>
 <summary> Click Here to See Full Poster </summary>
-<p align="center">
+<p align="center"> 
+  <!--- As I said, I learned how to make collapsible sections, I also learned how to make things centered for organization https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d --->
   <img width="700" height="900" alt="Image of Final Project Poster" src="https://github.com/user-attachments/assets/736e745b-73f3-451e-bc0e-545257860f8b" />
 <p align="center"> 
-<sub> (Image of Final Project Poster) </sub>
+<sub> (Image of Final Project Poster) </sub> 
 </p>
 </details>
 
+<!--- For all the images I used sub and small to help create smaller citations.--->
+
 This poster encompasses the whole project by looking at the plan of the games, discoveries, and results to answer the research question:
-<br> 
+<br>
 ### ***"How do external pressures and distractions influence individuals’ memory, attention, and decision-making during moments that require cybersecurity awareness?"***
+
+<!--- I found that my research question needed to stand out from the rest of the text without looking like a heading, so I made it italic --->
 
 ## Final Project Games
 
-<figure>
 <p align="center"> 
 <img width="1000" height="220" alt="Screenshot of all the different game logos, created by Base44. https://base44.com/" src="https://github.com/user-attachments/assets/32c49dbc-61df-4b5f-84f7-5316de3433f1" />
 </p>
@@ -53,8 +61,10 @@ This poster encompasses the whole project by looking at the plan of the games, d
 | --- | --- | --- | --- |
 | https://cyber-breach-2b3772f3.base44.app/ | https://meticulous-fireway-drive-safe.base44.app/ | https://watch-cyber-guard.base44.app/ | https://independent-mind-guard-play.base44.app/ |
 <p align="center"> 
-<sub> (Images are logos of games, created by Base44. https://base44.com/) </sub>
+<sub> (Images are logos of games, created by Base44. [^2] ) </sub>
 </p>
+
+<!--- I added a table with links to be inline with my game logos. Although I would prefer the games to be imbedded into this page, I think Markdown can't do it. ---> 
 
 # Project Development
 To complete this project, I needed a organized plan:
@@ -65,8 +75,12 @@ To complete this project, I needed a organized plan:
 <sub> (Middle of Final Project Poster) </sub>
 </p>
 
+<!--- I added this image here to give a overview of the plan I had in creating the project --->
+
 ### Stage 1: Research and Scenario Development
 First, I needed to research cybersecurity behaviors and serious game design to develop realistic scenarios. After building Game 1, and discussing with my teacher and mentor, I needed to both teach and inform users about the corilation between external pressures and work-life. For example, in the beginning it would explain key indicators that an email may be a scam. I also ensured there was a clear and realistic way to measure the impact of external factors compared to conditions without those influences. [Click here](https://docs.google.com/document/d/1kWsPzTiy3tZl3lMPGrfDh5vtzhojrkqkXrqoTa17z9A/edit?usp=sharing) to see the document full of the research to complete these games, mainly before I attempted at making them. 
+
+<!--- I added a hyperlink to my website where I researched the games --->
 
 ### Stage 2: Revised Prototypes 
 <img align="right" width="250" height="300" alt="Images of Progress of Games that were Created through Base44. https://base44.com/" src="https://github.com/user-attachments/assets/6471c023-4c60-45c3-a078-7e67ad14e32d"> 
@@ -85,6 +99,8 @@ Game 3: https://docs.google.com/document/d/1rEsiSK-j6XWROJ8OrNP58zPJMxR_jX5DqcHG
 Game 1 2.0: https://docs.google.com/document/d/1rEsiSK-j6XWROJ8OrNP58zPJMxR_jX5DqcHG0XWQqQk/edit?usp=sharing
 </details>
 
+<!--- I added a breakdown of all the prototypes for each game. This is similar to my workpress website --->
+
 ### Stage 3: Distribution and Data Collection
 These games were distributed through multiple online platforms, with two primary ones used for data collection. These platforms allowed for both quantitative (scaled responses from Tally) and qualitative (user feedback from Play2Review) reviews of how the games and impacts of the scenario went.
 
@@ -101,6 +117,8 @@ Game 3: https://docs.google.com/document/d/11hCd61AbggcYyNuUWUra2rptUhOhsnQLSe2g
 <p align="right"> 
 <sub> (Images of Progress of Games that were Created through Base44. https://base44.com/) </sub>
 
+<!--- I added a breakdown of all the preparation for each game for how to share it. This is similar to my workpress website --->
+
 ### Stage 4: Data Analysis and Reflection
 This was one of the most satisfying parts, since I got to see what my work led up too. Here is the final rating of the games:
 <p align="center"> 
@@ -110,10 +128,14 @@ This was one of the most satisfying parts, since I got to see what my work led u
 <sub> (Bottom of Project Poster) </sub>
 </p>
 
+<!--- I added a breakdown of all the preparation for each game for how to share it. This is similar to my workpress website --->
+
 # Challenges Faced
 ### 1. Getting Reviews and Managing Time for Data Collection
 
 One major challenge I had was encouraging users to complete the review. While many people viewed the games, only a small number chose to participate in the review or complete the experience. Additionally, distributing the games across multiple platforms took way longer than expected, mostly because each platform (including Reddit communities) often required unique posting formats and guidelines.
+
+<!--- All the information after this point is new--->
 
 ### 2. Balancing the Serious vs. Entertainment Elements of the Games
 
@@ -206,20 +228,10 @@ For more information about the project, visit this cite to find additional docum
 https://ctsstudentsite1.wordpress.com/2026/04/10/the-impact-of-external-pressure-on-cybersecurity-decision-making/ 
 
 # Citations (Chicago-Style)
-***Although these sources aren't in this article, they helped build the game***
-
-Chowdhury, N. H., M. T. P. Adam, and T. Teubner. “Time Pressure in Human Cybersecurity Behavior: Theoretical Framework and Countermeasures.” Computers & Security 97 (2020). https://www.sciencedirect.com/science/article/abs/pii/S0167404820301747.
-
-Jones, A. "Human Error Cybersecurity Statistics." I.S. Partners, December 24, 2025. https://www.ispartnersllc.com/blog/human-error-cybersecurity-statistics/.
-
-Murphy, F. T. “Understanding Distractibility: Psychology and Solutions – Distractibility: Causes and solutions explored.” Psychology Fanatic, December 5, 2025. https://psychologyfanatic.com/distractibility/.
-
-Overboe, C., A. Ali, and T. D. Mohottalalage. “(PDF) The Human Factor in Cybersecurity: Understanding Psychology, Training Efficacy, and Error Reduction Strategies.” ResearchGate, April 2024. https://www.researchgate.net/publication/387971383TheHumanFactorinCybersecurityUnderstandingPsychologyTrainingEfficacyandErrorReduction_Strategies.
-
 ## Tools used in Project
-Play2Review. "Game Intelligence Platform." Play2Review, 2026. https://play2review.com/.
+[^1]: Play2Review. "Game Intelligence Platform." Play2Review, 2026. https://play2review.com/.
 
-Maor Shlomo, “Build Apps with AI in Minutes,” Base44, 2026, https://base44.com/.
+[^2]: Maor Shlomo, “Build Apps with AI in Minutes,” Base44, 2026, https://base44.com/.
 
-Tally Forms. “100+ Free Online Form Templates: Fully Customizable: Tally.” Tally, 2026. tally.so/templates. 
+[^3]: Tally Forms. “100+ Free Online Form Templates: Fully Customizable: Tally.” Tally, 2026. tally.so/templates. 
 
