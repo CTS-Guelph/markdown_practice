@@ -18,6 +18,15 @@ Status: hidden
 *Photo by [NEOM](https://unsplash.com/@neom) on [Unsplash](https://unsplash.com/)*
 <!-- IMAGE: converted from AVIF and resized; added alt text. -->
 
+## Table of Contents
+
+1. [Relation to Gender and Data Activism](#relation-to-gender-and-data-activism)
+2. [Objectives of The Project](#objectives-of-the-project)
+3. [Relation to Capitalist Realism](#relation-to-capitalist-realism)
+
+---
+<!-- STYLING: Table of contents included as a list. -->
+
 The project [#SafeOutside](https://americanalpineclub.org/safeoutside) is a grassroots initiative intended to combat sexual harassment and sexual assault (SHSA) as it occurs among communities of climbers and others who enjoy wilderness activities. The initiative has worked closely with nonprofits, industries and press organizations to compile data for the purposes of generating awareness around SHSA and implementing policies where possible. This endeavour has culminated in the creation of two sources, a [Report](https://liamrobertsonportfolio.wordpress.com/wp-content/uploads/2026/02/7609b-safeoutside-shsa-report28129.pdf) on SHSA in climbing communities and a [Toolkit](https://drive.google.com/drive/folders/1MRzORUWIj8eyCK4skIEextPEybw-gpgc) for helping others collect their own data to help in this initiative. The critical framework of capitalist realism, as detailed by Mark Fisher, presents this project as an aspect of capitalism, woven into the system and therefore reliant on its ideologies.
 
 While this project has good intentions, it is still a product of capitalism and cannot escape from the need for monetary compensation. The project #SafeOutside receives funding from the [American Alpine Club](https://americanalpineclub.org/) which is a nonprofit and tries to outsource work to helpful volunteers where possible. Those working on this project exist within a capitalist society, as such they must receive compensation for their work if they wish to have access to vital resources such as food and shelter. Despite this, the project tries to resist capitalist principles in some ways. While outsourcing work saves on costs, it also partially separates the project from monetary compensation, instead relying on the volunteer labour of those passionate about this issue.
