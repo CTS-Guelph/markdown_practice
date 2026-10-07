@@ -10,6 +10,8 @@ Tags: Human Behaviour, Serious Games, Technology
 
 Summary: In the University of Guelph’s Culture and Technology Studies program, the final capstone course centers on developing a project over the span of two classes. The project explored how external pressure influences cybersecurity decision-making. To answer this, I built three serious games on Base44 that simulate real-world cybersecurity scenarios with built-in distractions. I then gathered user feedback to discover how external pressure affected participants. To the right are the final versions of the games. NOTE: Game 1 was developed before any feedback, so it’s less refined than the other games.
 
+Bio: Thomas Hendriks is currently a fourth-year Culture and Techology Studies student, with minors in Marketing and Project Management at the university of Guelph. Tom has particular interest on the affects of technology and how it affects peoples everyday experiences. 
+
 Status: hidden
 
 # The Impact of External Pressure on Cybersecurity Decision Making
@@ -28,21 +30,13 @@ For my final capstone project in the University of Guelph's Culture and Technolo
 
 ## Final Project Games
 <p align="center"> 
-<img width="900" height="200" alt="screenshot-2026-04-09-112439-3" src="https://github.com/user-attachments/assets/32c49dbc-61df-4b5f-84f7-5316de3433f1" />
+<img width="1000" height="220" alt="screenshot-2026-04-09-112439-3" src="https://github.com/user-attachments/assets/32c49dbc-61df-4b5f-84f7-5316de3433f1" />
 </p>
-Here are the links to the final project games.
 
-Game 1:
-https://cyber-breach-2b3772f3.base44.app/
+| Cyber Breach - Game 1 |  Fireway Freeway - Game 2 | Virus Oversight - Game 3 | Shield Your Password - Game 1 2.0 |
+| --- | --- | --- | --- |
+| https://cyber-breach-2b3772f3.base44.app/ | https://meticulous-fireway-drive-safe.base44.app/ | https://watch-cyber-guard.base44.app/ | https://independent-mind-guard-play.base44.app/ |
 
-Game 2:
-https://meticulous-fireway-drive-safe.base44.app/
-
-Game 3:
-https://watch-cyber-guard.base44.app/
-
-Game 1 2.0:
-https://independent-mind-guard-play.base44.app/
 
 # Project Development
 To complete this project, I needed a organized plan.
