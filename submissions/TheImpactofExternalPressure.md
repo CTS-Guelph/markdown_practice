@@ -62,6 +62,7 @@ First, I needed to research cybersecurity behaviors and serious game design to d
 <img align="right" width="250" height="300" alt="Screenshot 2026-10-06 013437" src="https://github.com/user-attachments/assets/6471c023-4c60-45c3-a078-7e67ad14e32d" /> 
 
 Second, each game was being built through Base44 (A.I. website builder), which means it was easy to get prototypes, but harder to get everything perfect. Each game was developed through 9-12 versions of prototypes. Prototypes were refined based on usability, clarity, and interaction timing. 
+
 <details>
 <summary> Click Here to See All Game Prototypes and Prompts </summary>
 Game 1: https://docs.google.com/document/d/14lK4OsZ8SSrwehfJwObk6XczkHkTrsSBUs-Yl2IZHPg/edit?usp=sharing
