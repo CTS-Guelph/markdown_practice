@@ -1,4 +1,6 @@
-Title: The Impact of External Pressure on Cybersecurity Decision Making 
+<details>
+<summary>Click to view metadata</summary>
+Title: The Impact of External Pressure on Cybersecurity Decision Making
 
 Author: Thomas Hendriks (Maxwellcoffee1)
 
@@ -13,6 +15,7 @@ Summary: In the University of Guelph’s Culture and Technology Studies program,
 Bio: Thomas Hendriks is currently a fourth-year Culture and Techology Studies student, with minors in Marketing and Project Management at the university of Guelph. Tom has particular interest on the affects of technology and how it affects peoples everyday experiences. 
 
 Status: hidden
+</details>
 
 # The Impact of External Pressure on Cybersecurity Decision Making
 ## Why This Topic?
