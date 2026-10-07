@@ -27,8 +27,9 @@ From this idea, I developed a project focusing on the relationship between: **Se
 2. A yes/no email scam game while driving
 3. A multiple-choice game about computer viruses while supervising a child. An additional version of the first game was created because the project was ahead of schedule, however, there were no reviews for it.
 
+## Poster Project Summary
 <details>
-<summary>Click here to see full Poster</summary>
+<summary> Click here to see full Poster </summary>
 <p align="center">
   <img width="700" height="900" alt="draft-3-2-2" src="https://github.com/user-attachments/assets/736e745b-73f3-451e-bc0e-545257860f8b" />
 </p>
@@ -37,7 +38,6 @@ From this idea, I developed a project focusing on the relationship between: **Se
 This poster above ultimately shows my project plan of the games, discoveries, and results to answer the research question:
 <br> 
 ### ***"How do external pressures and distractions influence individuals’ memory, attention, and decision-making during moments that require cybersecurity awareness?"***
-<br>
 
 ## Final Project Games
 <p align="center"> 
@@ -50,7 +50,10 @@ This poster above ultimately shows my project plan of the games, discoveries, an
 
 
 # Project Development
-To complete this project, I needed a organized plan.
+To complete this project, I needed a organized plan:
+<p align="center">
+<img width="418" height="186" alt="image-2 (1)" src="https://github.com/user-attachments/assets/0ef5a12c-8ea0-461b-9738-f3000ce80ad2" />
+</p>
 
 ### Stage 1: Research and Scenario Development
 First, I needed to research cybersecurity behaviors and serious game design to develop realistic scenarios. After building Game 1, and dicussing with my teacher and mentor, I needed to both teach and inform users about the corilation between external pressures and work-life. For example, in the beginning it would explain key indicators that an email may be a scam. I also ensured there was a clear and realistic way to measure the impact of external factors compared to conditions without those influences. One thing I realized during my research was that their were clear authors pushing for something like this to happen:
@@ -67,7 +70,7 @@ These games were distributed through multiple online platforms, with two primary
 
 
 ### Stage 4: Data Analysis and Reflection
-This was the coolest part, since I got to see what my work led up too. Here is the final rating of the games:
+This was one of the most satisfying parts, since I got to see what my work led up too. Here is the final rating of the games:
 <p align="center"> 
   <img width="600" height="150" alt="image" src="https://github.com/user-attachments/assets/20d930ba-1603-4121-afa1-e813e11af79d" />
 </p>
