@@ -133,7 +133,7 @@ Reddit banned 3 different accounts I had because I repeatedly reposted my games 
 
 One aspect I really enjoy in many games is the use of 3D environments, and I also believe they can be especially effective in simulation-based games. However, Base44 has a significantly difficult time properly integrating movement within 3D spaces. At times, I would end up outside the boundaries of the environment, vehicles would clip through my character, or I would move through buildings unexpectedly.
 <p align="center">
-  <img width="400" height="225" src="https://github.com/user-attachments/assets/7393fff0-fa7e-4a41-a843-484eac95f7cc" />
+  <img width="600" height="270" src="https://github.com/user-attachments/assets/7393fff0-fa7e-4a41-a843-484eac95f7cc" />
 </p>
 <p align="center"> 
 <sub> (Image of Game 2 Prototype, created by Base44. https://base44.com/) </sub>
@@ -194,10 +194,10 @@ I found that many people actually encouraged me to share my games on their platf
 
 While building my games, I had some disturbing, almost demonic-like images happen that likely wouldn’t pop up on a platform like ChatGPT. Part of this could be because text-based A.I. sometimes says “cannot respond” or returns non-specific results, whereas the A.I. game platform will show a result no matter what.    
 <p align="center">
-<img width="767" height="362" alt="(One of the Creepy Prototypes from Game 3, created by Base44. https://base44.com/)" src="https://github.com/user-attachments/assets/0e2490bc-7a8a-470a-ba4f-078fa3416a6b" />
+<img width="500" height="230" alt="(One of the Creepy Prototypes from Game 3, created by Base44. https://base44.com/)" src="https://github.com/user-attachments/assets/0e2490bc-7a8a-470a-ba4f-078fa3416a6b" />
 </p>
 <p align="center">
-<sub>(One of the Creepy Prototypes from Game 3, created by Base44. https://base44.com/) </sub>
+<sub>(One of the creepy prototypes from Game 3, created by Base44. https://base44.com/) </sub>
 </p>
 Overall, throughout this project I gained organizational skills and developed better understand of the relationship between individuals work and home-life, this was a great experience for me.
 
