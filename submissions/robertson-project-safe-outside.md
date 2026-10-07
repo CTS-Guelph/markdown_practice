@@ -21,9 +21,9 @@ Status: hidden
 
 ## Table of Contents
 
-1. [Relation to Gender and Data Activism](#relation-to-gender-and-data-activism)
-2. [Objectives of The Project](#objectives-of-the-project)
-3. [Relation to Capitalist Realism](#relation-to-capitalist-realism)
+1. [Relation to Gender and Data Activism](#relation-to-gender-and-data-activism) 📊
+2. [Objectives of The Project](#objectives-of-the-project) 📌
+3. [Relation to Capitalist Realism](#relation-to-capitalist-realism) 💵
 
 ---
 <!-- STYLING: Table of contents included as a list. -->
