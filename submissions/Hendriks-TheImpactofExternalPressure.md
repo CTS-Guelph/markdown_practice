@@ -193,8 +193,13 @@ I found that many people actually encouraged me to share my games on their platf
 ### Third, I noticed that game-based A.I. platforms have fewer content restrictions compared to text-based A.I. platforms. 
 
 While building my games, I had some disturbing, almost demonic-like images happen that likely wouldn’t pop up on a platform like ChatGPT. Part of this could be because text-based A.I. sometimes says “cannot respond” or returns non-specific results, whereas the A.I. game platform will show a result no matter what.    
-
-Overall, throughout ths project I gained organizational skills and developed better understand of the relationship between individuals work and home-life, this was a great experience for me.
+<p align="center">
+<img width="767" height="362" alt="(One of the Creepy Prototypes from Game 3, created by Base44. https://base44.com/)" src="https://github.com/user-attachments/assets/0e2490bc-7a8a-470a-ba4f-078fa3416a6b" />
+</p>
+<p align="center">
+<sub>(One of the Creepy Prototypes from Game 3, created by Base44. https://base44.com/) </sub>
+</p>
+Overall, throughout this project I gained organizational skills and developed better understand of the relationship between individuals work and home-life, this was a great experience for me.
 
 # More Information About Project
 For more information about the project, visit this cite to find additional documents, more details about the games, and pictures of the progress:
