@@ -1,12 +1,13 @@
 <details>
-<summary>Click to view metadata</summary>
+<summary>Click to View Metadata</summary>
+
 Title: The Impact of External Pressure on Cybersecurity Decision Making
 
 Author: Thomas Hendriks (Maxwellcoffee1)
 
 Date: 10-07-2026
 
-Citation: https://ctsstudentsite1.wordpress.com/2026/04/10/the-impact-of-external-pressure-on-cybersecurity-decision-making/
+Citation: Hendriks, Thomas. "The Impact of External Pressure on Cybersecurity Decision Making." 2026, April 10. https://ctsstudentsite1.wordpress.com/2026/04/10/the-impact-of-external-pressure-on-cybersecurity-decision-making/
 
 Tags: Human Behaviour, Serious Games, Technology
 
@@ -31,7 +32,9 @@ From this idea, I developed a project focusing on the relationship between: **Se
 <details>
 <summary> Click Here to See Full Poster </summary>
 <p align="center">
-  <img width="700" height="900" alt="draft-3-2-2" src="https://github.com/user-attachments/assets/736e745b-73f3-451e-bc0e-545257860f8b" />
+  <img width="700" height="900" alt="Image of Final Project Poster" src="https://github.com/user-attachments/assets/736e745b-73f3-451e-bc0e-545257860f8b" />
+<p align="center"> 
+<sub> (Image of Final Project Poster) </sub>
 </p>
 </details>
 
@@ -40,26 +43,33 @@ This poster encompasses the whole project by looking at the plan of the games, d
 ### ***"How do external pressures and distractions influence individuals’ memory, attention, and decision-making during moments that require cybersecurity awareness?"***
 
 ## Final Project Games
+
+<figure>
 <p align="center"> 
-<img width="1000" height="220" alt="screenshot-2026-04-09-112439-3" src="https://github.com/user-attachments/assets/32c49dbc-61df-4b5f-84f7-5316de3433f1" />
+<img width="1000" height="220" alt="Screenshot of all the different game logos, created by Base44. https://base44.com/" src="https://github.com/user-attachments/assets/32c49dbc-61df-4b5f-84f7-5316de3433f1" />
 </p>
 
 | Cyber Breach - Game 1 |  Fireway Freeway - Game 2 | Virus Oversight - Game 3 | Shield Your Password - Game 1 2.0 |
 | --- | --- | --- | --- |
 | https://cyber-breach-2b3772f3.base44.app/ | https://meticulous-fireway-drive-safe.base44.app/ | https://watch-cyber-guard.base44.app/ | https://independent-mind-guard-play.base44.app/ |
-
+<p align="center"> 
+<sub> (Images are logos of games, created by Base44. https://base44.com/) </sub>
+</p>
 
 # Project Development
 To complete this project, I needed a organized plan:
 <p align="center">
-<img width="600" height="240" alt="image-2 (1)" src="https://github.com/user-attachments/assets/0ef5a12c-8ea0-461b-9738-f3000ce80ad2" />
+<img width="600" height="240" alt="Bottom of Final Project Poster" src="https://github.com/user-attachments/assets/0ef5a12c-8ea0-461b-9738-f3000ce80ad2" />
+</p>
+<p align="center"> 
+<sub> (Middle of Final Project Poster) </sub>
 </p>
 
 ### Stage 1: Research and Scenario Development
 First, I needed to research cybersecurity behaviors and serious game design to develop realistic scenarios. After building Game 1, and discussing with my teacher and mentor, I needed to both teach and inform users about the corilation between external pressures and work-life. For example, in the beginning it would explain key indicators that an email may be a scam. I also ensured there was a clear and realistic way to measure the impact of external factors compared to conditions without those influences. [Click here](https://docs.google.com/document/d/1kWsPzTiy3tZl3lMPGrfDh5vtzhojrkqkXrqoTa17z9A/edit?usp=sharing) to see the document full of the research to complete these games, mainly before I attempted at making them. 
 
 ### Stage 2: Revised Prototypes 
-<img align="right" width="250" height="300" alt="Screenshot 2026-10-06 013437" src="https://github.com/user-attachments/assets/6471c023-4c60-45c3-a078-7e67ad14e32d" /> 
+<img align="right" width="250" height="300" alt="Images of Progress of Games that were Created through Base44. https://base44.com/" src="https://github.com/user-attachments/assets/6471c023-4c60-45c3-a078-7e67ad14e32d"> 
 
 Second, each game was being built through Base44 (A.I. website builder), which means it was easy to get prototypes, but harder to get everything perfect. Each game was developed through 9-12 versions of prototypes. Prototypes were refined based on usability, clarity, and interaction timing. 
 
@@ -88,10 +98,16 @@ Game 2: https://docs.google.com/document/d/16o1LCTP57LCwnSZBTxSDn5AnYFGKimVtuY30
 Game 3: https://docs.google.com/document/d/11hCd61AbggcYyNuUWUra2rptUhOhsnQLSe2g-biJx3o/edit?usp=sharing
 </details>
 
+<p align="right"> 
+<sub> (Images of Progress of Games that were Created through Base44. https://base44.com/) </sub>
+
 ### Stage 4: Data Analysis and Reflection
 This was one of the most satisfying parts, since I got to see what my work led up too. Here is the final rating of the games:
 <p align="center"> 
   <img width="600" height="150" alt="image" src="https://github.com/user-attachments/assets/20d930ba-1603-4121-afa1-e813e11af79d" />
+</p>
+<p align="center"> 
+<sub> (Bottom of Project Poster) </sub>
 </p>
 
 # Challenges Faced
