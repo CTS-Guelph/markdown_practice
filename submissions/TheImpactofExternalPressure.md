@@ -10,7 +10,7 @@ Citation: https://ctsstudentsite1.wordpress.com/2026/04/10/the-impact-of-externa
 
 Tags: Human Behaviour, Serious Games, Technology
 
-Summary: This project explores how external pressure influences cybersecurity decision-making. To investigate this, three serious games were built using the A.I. platform Base44. Research about serious games, simulation-based design, cybersecurity, and human behaviour was done to attempt to simulate real-world cybersecurity scenarios with built-in distractions. After these games were built, user feedback was then gathered to discover how external pressure affected participants, and whether the games themselves were overall affective. Multiple updates and versions were created across the three different games, each designed with different cybersecurity scenarios. The first was a memory-based password game in which the player is distracted by the manager, the second was a yes/no email scam game while driving, and the third being a multiple-choice game about computer viruses while supervising a child. An additional version of the first game was created because the project was ahead of schedule, however, there were no reviews for it. 
+Summary: This project explores how external pressures influences cybersecurity decision-making. To investigate this, three serious games were built using the A.I. platform Base44. Research about serious games, simulation-based design, cybersecurity, and human behaviour was done to attempt to simulate real-world cybersecurity scenarios with built-in distractions. After these games were built, user feedback was then gathered to discover how the external pressure affected participants, and whether the games themselves were overall affective. Multiple updates and versions were created across the three different games, each designed with different scenarios. The first was a memory-based password game in which the player is distracted by the manager, the second was a yes/no email scam game while driving, and the third being a multiple-choice game about computer viruses while supervising a child. An additional version of the first game was created because the project was ahead of schedule, however, there were no reviews for this updated version. 
 
 Bio: Thomas Hendriks is currently a fourth-year Culture and Techology Studies student, with minors in Marketing and Project Management at the university of Guelph. Tom has particular interest on the affects of technology and how it affects peoples everyday experiences. 
 
@@ -21,11 +21,11 @@ Status: hidden
 ## Why This Topic?
 I became very interested in this topic after having a conversation with my brother-in-law about a cybersecurity incident that happened at his workplace. He described how an employee had clicked on a phishing link and was required to complete training, along with the incident being documented in their employee file. However, the employee argued that they were dealing with significant external distractions at the time and this created a debate among IT staff and management about whether the incident should be forgiven. This conversation made me interested in exploring how external human factors influence decision-making in moments where cybersecurity awareness is necessary. 
 
-From this idea, I developed a project focusing on the relationship between: **Serious Games, Simulation-based design, Cybersecurity, and Human Behaviour**. Three serious games were built using the A.I. platform Base44 to attempt to simulate real-world cybersecurity scenarios with built-in distractions. Each game was designed with different cybersecurity scenarios:
+From this idea, I developed a project focusing on the relationship between: **Serious Games, Simulation-based design, Cybersecurity, and Human Behaviour**. Three serious games were built using the A.I. platform Base44 to attempt to simulate real-world cybersecurity scenarios with built-in distractions. Each game was designed with different scenarios:
 
 1. A memory-based password game in which the player is distracted by the manager
 2. A yes/no email scam game while driving
-3. A multiple-choice game about computer viruses while supervising a child. An additional version of the first game was created because the project was ahead of schedule, however, there were no reviews for it.
+3. A multiple-choice game about computer viruses while supervising a child. 
 
 ## Poster Project Summary
 <details>
@@ -35,7 +35,7 @@ From this idea, I developed a project focusing on the relationship between: **Se
 </p>
 </details>
 
-This poster above ultimately shows my project plan of the games, discoveries, and results to answer the research question:
+This poster encompasses the whole project by looking at the plan of the games, discoveries, and results to answer the research question:
 <br> 
 ### ***"How do external pressures and distractions influence individuals’ memory, attention, and decision-making during moments that require cybersecurity awareness?"***
 
@@ -52,11 +52,11 @@ This poster above ultimately shows my project plan of the games, discoveries, an
 # Project Development
 To complete this project, I needed a organized plan:
 <p align="center">
-<img width="418" height="186" alt="image-2 (1)" src="https://github.com/user-attachments/assets/0ef5a12c-8ea0-461b-9738-f3000ce80ad2" />
+<img width="600" height="240" alt="image-2 (1)" src="https://github.com/user-attachments/assets/0ef5a12c-8ea0-461b-9738-f3000ce80ad2" />
 </p>
 
 ### Stage 1: Research and Scenario Development
-First, I needed to research cybersecurity behaviors and serious game design to develop realistic scenarios. After building Game 1, and dicussing with my teacher and mentor, I needed to both teach and inform users about the corilation between external pressures and work-life. For example, in the beginning it would explain key indicators that an email may be a scam. I also ensured there was a clear and realistic way to measure the impact of external factors compared to conditions without those influences. [Click here](https://docs.google.com/document/d/1kWsPzTiy3tZl3lMPGrfDh5vtzhojrkqkXrqoTa17z9A/edit?usp=sharing) to see the document full of the research to complete these games, mainly before I attempted at making them. 
+First, I needed to research cybersecurity behaviors and serious game design to develop realistic scenarios. After building Game 1, and discussing with my teacher and mentor, I needed to both teach and inform users about the corilation between external pressures and work-life. For example, in the beginning it would explain key indicators that an email may be a scam. I also ensured there was a clear and realistic way to measure the impact of external factors compared to conditions without those influences. [Click here](https://docs.google.com/document/d/1kWsPzTiy3tZl3lMPGrfDh5vtzhojrkqkXrqoTa17z9A/edit?usp=sharing) to see the document full of the research to complete these games, mainly before I attempted at making them. 
 
 ### Stage 2: Revised Prototypes 
 <img align="right" width="250" height="300" alt="Screenshot 2026-10-06 013437" src="https://github.com/user-attachments/assets/6471c023-4c60-45c3-a078-7e67ad14e32d" /> 
@@ -65,6 +65,7 @@ Second, each game was being built through Base44 (A.I. website builder), which m
 
 <details>
 <summary> Click Here to See All Game Prototypes and Prompts </summary>
+  
 Game 1: https://docs.google.com/document/d/14lK4OsZ8SSrwehfJwObk6XczkHkTrsSBUs-Yl2IZHPg/edit?usp=sharing
 
 Game 2: https://docs.google.com/document/d/1_HPxaYx5Y7uuqo15au3gOHMLABd6FfiEkENLyn6l6h0/edit?usp=sharing
@@ -79,14 +80,13 @@ These games were distributed through multiple online platforms, with two primary
 
 <details>
 <summary> Click Here to See Document Preparation of Tally Sites </summary>
+  
 Game 1: https://docs.google.com/document/d/1THDGFan2vW8-mI67K0gePPMYyvbFpuvZP_4E61A8zJ4/edit?usp=sharing
 
 Game 2: https://docs.google.com/document/d/16o1LCTP57LCwnSZBTxSDn5AnYFGKimVtuY30fVHnP3s/edit?usp=sharing
 
 Game 3: https://docs.google.com/document/d/11hCd61AbggcYyNuUWUra2rptUhOhsnQLSe2g-biJx3o/edit?usp=sharing
 </details>
-
-<br><br>
 
 ### Stage 4: Data Analysis and Reflection
 This was one of the most satisfying parts, since I got to see what my work led up too. Here is the final rating of the games:
@@ -140,7 +140,7 @@ One interesting finding is that in Game 2, responses to the question “Is the 3
 
 ### 3. Showing a time limit can make decision-making difficult.
 
-In Game 2, 4.1/5 participants reported that the visible 4-second timer made it more difficult for decisions to be made. Below is a document that shows ALL of the ratings for each game, reviews from Play2Review, and findings.
+In Game 2, 4.1/5 participants reported that the visible 4-second timer made it more difficult for decisions to be made.
 
 # Final Reflection
 From building this project, I have developed and learned a great deal:
@@ -157,13 +157,15 @@ I found that many people actually encouraged me to share my games on their platf
 
 While building my games, I had some disturbing, almost demonic-like images happen that likely wouldn’t pop up on a platform like ChatGPT. Part of this could be because text-based A.I. sometimes says “cannot respond” or returns non-specific results, whereas the A.I. game platform will show a result no matter what.    
 
-Overall, throughout ths project I gained organizational skills and developed better understand of the relationship between individuals work and homelife, this was a great experience for me.
+Overall, throughout ths project I gained organizational skills and developed better understand of the relationship between individuals work and home-life, this was a great experience for me.
 
 # More Information About Project
 For more information about the project, visit this cite to find additional documents, more details about the games, and pictures of the progress:
 https://ctsstudentsite1.wordpress.com/2026/04/10/the-impact-of-external-pressure-on-cybersecurity-decision-making/ 
 
 # Citations (Chicago-Style)
+***Although these sources aren't in this article, they helped build the game***
+
 Chowdhury, N. H., M. T. P. Adam, and T. Teubner. “Time Pressure in Human Cybersecurity Behavior: Theoretical Framework and Countermeasures.” Computers & Security 97 (2020). https://www.sciencedirect.com/science/article/abs/pii/S0167404820301747.
 
 Jones, A. "Human Error Cybersecurity Statistics." I.S. Partners, December 24, 2025. https://www.ispartnersllc.com/blog/human-error-cybersecurity-statistics/.
