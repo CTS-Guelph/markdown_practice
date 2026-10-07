@@ -14,7 +14,7 @@ Status: hidden
 
 # Project Safe Outside and Capitalist Realism
 
-![A person climbs a rocky cliff with sparse vegetation, they are dimly lit against the rocks](images/robertson-cliff.webp)
+[![A person climbs a rocky cliff with sparse vegetation, they are dimly lit against the rocks](images/robertson-cliff.webp)](https://unsplash.com/photos/a-man-climbing-up-the-side-of-a-mountain-85ey1vFIwkc)
 *Photo by [NEOM](https://unsplash.com/@neom) on [Unsplash](https://unsplash.com/)*
 <!-- IMAGE: converted from AVIF and resized; added alt text. -->
 
@@ -34,7 +34,7 @@ The project [#SafeOutside](https://americanalpineclub.org/safeoutside) is a gras
 
 While this project has good intentions, it is still a product of capitalism and cannot escape from the need for monetary compensation. The project #SafeOutside receives funding from the [American Alpine Club](https://americanalpineclub.org/) which is a nonprofit and tries to outsource work to helpful volunteers where possible. Those working on this project exist within a capitalist society, as such they must receive compensation for their work if they wish to have access to vital resources such as food and shelter. Despite this, the project tries to resist capitalist principles in some ways. While outsourcing work saves on costs, it also partially separates the project from monetary compensation, instead relying on the volunteer labour of those passionate about this issue.
 
-![A single shopping cart has been placed in the middle of an empty parking garage](images/robertson-cart.webp)
+[![A single shopping cart has been placed in the middle of an empty parking garage](images/robertson-cart.webp)](https://unsplash.com/photos/shopping-cart-in-indoor-parking-lot-DNn2AOy4L1Q)
 *Photo by [Xavi Cabrera](https://unsplash.com/@xavi_cabrera) on [Unsplash](https://unsplash.com/)*
 <!-- IMAGE: converted from AVIF and resized; added alt text. -->
 
@@ -50,7 +50,7 @@ The main aspect of social activism is carried out through the [SHSA Report](http
 
 In terms of data relating to harassment and assault, 47% of women reported experiencing SHSA while climbing, while only 16% of men reported the same. These numbers reinforce the idea that SHSA is an issue which predominately affects women and not men. While it is true that more women experience this form of harassment and assault, men are also involved in this power structure both as aggressors and victims. Because of the stigma surrounding SHSA and men, many participants of the survey who identify as male may have entered incorrect information for fear of appearing weak, as male victims of SHSA are often presented as such in popular media. By breaking these gendered divisions surrounding SHSA, men can become more aware of the physical and psychological damage these incidents cause, leading to fewer male perpetrators of SHSA and increased visibility among male victims of SHSA.
 
-![A busy pride parade, people walk as many rainbow flags blow in the wind](images/robertson-pride.webp)
+[![A busy pride parade, people walk as many rainbow flags blow in the wind](images/robertson-pride.webp)](https://unsplash.com/photos/a-crowd-of-people-holding-a-rainbow-flag-r5tmUSupJwA)
 *Photo by [Margaux Bellott](https://unsplash.com/@mxrgo) on [Unsplash](https://unsplash.com/)*
 <!-- IMAGE: converted from AVIF and resized; added alt text. -->
 
@@ -66,12 +66,13 @@ The project makes the argument that individuals need to inform themselves about 
 
 SHSA among climbers is presented in a somewhat similar way to capitalist realism as outlined by Mark Fisher. Fisher makes the argument that capitalist realism has made it extremely difficult to imagine other forms of governance outside of capitalism, leading to the continued recycling of ideas in media and apathy among the younger generations.[^3] The aggregate survey directly states that it is “ unlikely that we will ever fully stamp out sexual harassment and assault."[^4] In the same way that our society has started to stagnate under capitalist realism, attitudes towards SHSA have also begun to stagnate with many viewing these horrible actions as an *unstoppable issue* in our society. In this way, much in the same way that it is difficult to imagine a world without capitalism, it is also difficult to imagine a world without SHSA, at least to some degree. In this way, we begin to lose hope that any significant change is possible and fail to adequately address SHSA when it occurs. Capitalist realism ultimately reduces the cultural and historic significance of different artifacts, time-periods and stylistic patterns into marketable objects with defined monetary values. In this way SHSA does the same, by reducing the bodily autonomy of an individual and treating their body as an object the human is inducted into capitalism as a sexual commodity.
 
-![A wooden doll holds on to a horizontal metal rod, the ground is not visible](images/robertson-doll.webp)\
+[![A wooden doll holds on to a horizontal metal rod, the ground is not visible](images/robertson-doll.webp)](https://unsplash.com/photos/a-wooden-doll-hanging-from-a-clothes-line-iGBgZZQtMUo)\
 *Photo by [Marco Bianchetti](https://unsplash.com/@marcobian) on [Unsplash](https://unsplash.com/)*
 <!-- IMAGE: converted from AVIF and resized; added alt text. -->
 
 In a sense, capitalist realism surrounds the culture of SHSA as those who perpetrate such actions view their victims as sexual objects, rather than people with their own motivations and sense of agency. According to the framework of capitalist realism, capitalism is an ideology which can permeate every aspect of society, creating a system which objectifies individuals and treats them like objects. The project tries to break the system of reflexive apathy which is experienced by those living under capitalist realism. By calling the individual user to action and demonstrating how they can individually make a positive impact in their community, the program reduces the scope of capitalist realism to a smaller community of rock climbers. This project is therefore able to organize a large enough group of people to resist the effects of reflexive impotence, breaking the cycle and resisting the system of capitalist realism. One person cannot fix an issue like SHSA, but an *entire community* working together can address and hopefully prevent many future occurrences of these actions.
 
+<!-- LINKS & CITATIONS: converted from bibliography to footnotes. -->
 [^1]: “Safe Outside.” American Alpine Club. Accessed February 8, 2026. [https://americanalpineclub.org/safeoutside](https://americanalpineclub.org/safeoutside).
 [^2]: Canan, Sasha N, Jesse Denniston-Lee, and Kristen N Jozkowski. “Descriptive Data of Transgender and Nonbinary People’s Experiences of Sexual Assault: Context, Perpetrator Characteristics, and Reporting Behaviors.” PubMed, 2024. [https://pubmed.ncbi.nlm.nih.gov/38100176/](https://pubmed.ncbi.nlm.nih.gov/38100176/).
 [^3]: Fisher, Mark. Capitalist realism: Is there no alternative? Zero Books, 2009.
