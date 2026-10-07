@@ -25,3 +25,7 @@ The video element in this article provides a different type of context than the 
 This connects to our class discussions about the affordances of different digital mediums. Each medium has different strengths and changes how a story can be experienced. For such a complex story, using multiple digital formats allows the viewer to immerse themselves in the story as much as possible. The letters provide a personal perspective, while the video provides visual and environmental context. Rather than relying on one form of storytelling, CBS uses different mediums to give the viewer a more complete understanding of the situation.
 
 I think this is especially important for a story that would be difficult to understand through written information alone. The audience can read the girls own words, see the environment they are learning in, and understand the circumstances surrounding their education. The digital format does more than simply present the story, it shapes how the audience understands it. The combination of written documents, translation, video, and traditional journalism demonstrates how the affordances of digital storytelling can create a more immersive and layered way of communicating a complex story.
+
+Refrences 
+
+Tyab, I., & Mukhtar, A. (2026, September 10). We visited a secret Afghan girls school. They surprised us with handwritten “letters to the world.” CBS News. CBS News article
