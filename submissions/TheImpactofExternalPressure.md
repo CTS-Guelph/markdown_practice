@@ -141,5 +141,5 @@ Play2Review. "Game Intelligence Platform." Play2Review, 2026. https://play2revie
 
 Maor Shlomo, “Build Apps with AI in Minutes,” Base44, 2026, https://base44.com/.
 
-Tally Forms. “100+ Free Online Form Templates: Fully Customizable: Tally.” Tally, 2026. tally.so/templates.
+Tally Forms. “100+ Free Online Form Templates: Fully Customizable: Tally.” Tally, 2026. tally.so/templates. 
 
