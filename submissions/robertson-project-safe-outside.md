@@ -12,6 +12,7 @@ Status: hidden
 
 <!-- METADATA: all required fields including keywords plus Status: hidden; no Issue field. -->
 
+<!-- STYLING: Headings sorted into a logical hierarchy. -->
 # Project Safe Outside and Capitalist Realism
 
 [![A person climbs a rocky cliff with sparse vegetation, they are dimly lit against the rocks](images/robertson-cliff.webp)](https://unsplash.com/photos/a-man-climbing-up-the-side-of-a-mountain-85ey1vFIwkc)
@@ -47,6 +48,7 @@ The project #SafeOutside relates to gender in a fundamental way, as the initiati
 <!-- IMAGE: converted from PNG and resized; added alt text. -->
 
 The main aspect of social activism is carried out through the [SHSA Report](https://liamrobertsonportfolio.wordpress.com/wp-content/uploads/2026/02/7609b-safeoutside-shsa-report28129.pdf). This report compiled the information obtained through surveys issued by 40 organizations and a great number of individuals in 2018. The report itself outlines the need for climbers to feel safe from incidents of discrimination, harassment and assault. It advances this goal through a series of graphs and charts, which detail the identity markers of those who have participated in the survey. The survey then breaks the results on SHSA into the categories of men and women, leaving gender diverse individuals out of the aggregate data. This is extremely damaging to individuals who identify outside of the gender binary, especially because these individuals experience higher incident rates of SHSA than their cisgender peers with just under half of all genderqueer individuals [experiencing sexual assault](https://pubmed.ncbi.nlm.nih.gov/38100176/) at least once in their lifetime.[^2] While transgender people will be represented in the binary categories, non-binary and other gender diverse individuals *are excluded* despite the high incident rates of SHSA in these groups.
+<!-- LINKS & CITATIONS: hyperlinks included with descriptive link text. -->
 
 In terms of data relating to harassment and assault, 47% of women reported experiencing SHSA while climbing, while only 16% of men reported the same. These numbers reinforce the idea that SHSA is an issue which predominately affects women and not men. While it is true that more women experience this form of harassment and assault, men are also involved in this power structure both as aggressors and victims. Because of the stigma surrounding SHSA and men, many participants of the survey who identify as male may have entered incorrect information for fear of appearing weak, as male victims of SHSA are often presented as such in popular media. By breaking these gendered divisions surrounding SHSA, men can become more aware of the physical and psychological damage these incidents cause, leading to fewer male perpetrators of SHSA and increased visibility among male victims of SHSA.
 
@@ -71,6 +73,7 @@ SHSA among climbers is presented in a somewhat similar way to capitalist realism
 <!-- IMAGE: converted from AVIF and resized; added alt text. -->
 
 In a sense, capitalist realism surrounds the culture of SHSA as those who perpetrate such actions view their victims as sexual objects, rather than people with their own motivations and sense of agency. According to the framework of capitalist realism, capitalism is an ideology which can permeate every aspect of society, creating a system which objectifies individuals and treats them like objects. The project tries to break the system of reflexive apathy which is experienced by those living under capitalist realism. By calling the individual user to action and demonstrating how they can individually make a positive impact in their community, the program reduces the scope of capitalist realism to a smaller community of rock climbers. This project is therefore able to organize a large enough group of people to resist the effects of reflexive impotence, breaking the cycle and resisting the system of capitalist realism. One person cannot fix an issue like SHSA, but an *entire community* working together can address and hopefully prevent many future occurrences of these actions.
+<!-- STYLING: Some words are italicized for additional emphasis. -->
 
 <!-- LINKS & CITATIONS: converted from bibliography to footnotes. -->
 [^1]: “Safe Outside.” American Alpine Club. Accessed February 8, 2026. [https://americanalpineclub.org/safeoutside](https://americanalpineclub.org/safeoutside).
