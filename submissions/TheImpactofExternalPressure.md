@@ -41,7 +41,7 @@ https://watch-cyber-guard.base44.app/
 Game 1 2.0:
 https://independent-mind-guard-play.base44.app/
 
-## Project Development
+# Project Development
 To complete this project, I needed a organized plan.
 
 ### Stage 1: Research and Scenario Development
@@ -62,7 +62,7 @@ This was the coolest part, since I got to see what my work led up too. Here is t
   <img width="600" height="150" alt="image" src="https://github.com/user-attachments/assets/20d930ba-1603-4121-afa1-e813e11af79d" />
 </p>
 
-## Challenges Faced
+# Challenges Faced
 ### 1. Getting Reviews and Managing Time for Data Collection
 
 One major challenge I had was encouraging users to complete the review. While many people viewed the games, only a small number chose to participate in the review or complete the experience. Additionally, distributing the games across multiple platforms took way longer than expected, mostly because each platform (including Reddit communities) often required unique posting formats and guidelines.
@@ -81,3 +81,12 @@ One aspect I really enjoy in many games is the use of 3D environments, and I als
 <p align="center">
   <img width="400" height="225" src="https://github.com/user-attachments/assets/7393fff0-fa7e-4a41-a843-484eac95f7cc" />
 </p>
+
+# Results Found
+
+### 1. When building games using A.I., there is no “fluff” – you work directly with what is generated.
+
+Working with AI to build an interactive platform gives limited control over the final design. Unlike text-based A.I. systems, which may sometimes produce “fluffy” or vague results, game-based A.I. does not allow for that same flexibility because it must always generate an output bigger than expected. For example, if you ask an A.I. prompt to create an image of a person biking, it will do just that, with most likely just a bike on its own. But if you ask a game-based A.I., it will decide for you what the background is, how the bike operates, where it comes from, etc. Meaning that a lot more of the information is built for you because there are more variables to consider.
+
+### 2. There are many new games constantly being released on lesser-known or unfamiliar platforms, waiting to be discovered and played.
+
