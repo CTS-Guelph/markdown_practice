@@ -1,11 +1,11 @@
 ---
 Title: Project Safe Outside and Capitalist Realism
-Authors: 
+Authors: Liam Robertson
 Date: 2026-10-07
-Citation: 
-Tags: 
-Abstract: 
-Bio: 
+Citation: Robertson, Liam. "Project Safe Outside and Capitalist Realism." CTS3000, 2026.
+Tags: safety, capitalism, gender
+Abstract: The project SafeOutside is a grassroots initiative ...
+Bio: Liam is a fourth-year CTS student who ...
 Status: hidden
 ---
 
