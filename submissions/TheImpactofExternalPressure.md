@@ -82,11 +82,64 @@ One aspect I really enjoy in many games is the use of 3D environments, and I als
   <img width="400" height="225" src="https://github.com/user-attachments/assets/7393fff0-fa7e-4a41-a843-484eac95f7cc" />
 </p>
 
-# Results Found
+# Project Discoveries
 
 ### 1. When building games using A.I., there is no “fluff” – you work directly with what is generated.
 
 Working with AI to build an interactive platform gives limited control over the final design. Unlike text-based A.I. systems, which may sometimes produce “fluffy” or vague results, game-based A.I. does not allow for that same flexibility because it must always generate an output bigger than expected. For example, if you ask an A.I. prompt to create an image of a person biking, it will do just that, with most likely just a bike on its own. But if you ask a game-based A.I., it will decide for you what the background is, how the bike operates, where it comes from, etc. Meaning that a lot more of the information is built for you because there are more variables to consider.
 
 ### 2. There are many new games constantly being released on lesser-known or unfamiliar platforms, waiting to be discovered and played.
+
+One thing I discovered is that game promotion often happens behind the scenes on most mainstream websites. Developers may not want older versions to be openly accessible, especially when they are planning to release a paid version. While some people may appreciate seeing a game’s development progress, releasing a fully completed version can also create a sense of mystery and professionalism.
+
+# Study Discoveries
+
+### 1. My results indicate that external factors can create stress, which in turn impacts short-term memory.
+In Game 1, the average memory score was 3.125/5, suggesting that participants didn’t have great memory during the game. Users most likely linked this to the boss character, since it was the primary external distraction, while many people reported the timer didn’t affect them. 75% of participants specifically stated that the boss made it harder for them to remember the passwords. This likely means the boss creates stress, which makes memory worse.
+
+### 2. Having distractions makes tasks more difficult, which leads people to perform better or worse, similar to a fight or flight situation.
+The results clearly show that the presence of distractions made the tasks more difficult. In Game 1, 75% of participants reported that the boss character made it harder to focus. In games 2 and 3, 80% said driving made it harder to focus on the task, while 60% percent said watching a child made the task harder as well. 
+
+One interesting finding is that in Game 2, responses to the question “Is the 3rd and 4th phase worse than phase 2?” were either very high or low. In the same game, 80% of participants clearly indicated that driving made the task harder, likely meaning that there was a strong perceived impact of the distraction. In contrast, Game 3 produced more moderate, in-between responses, which likely means that the external factors in that game were ‘ok’. These patterns seem to be related and suggest that when individuals are clearly distracted, they either over-focus and perform better or perform much worse. This is similar to a fight-or-flight response under pressure.
+
+### 3. Showing a time limit can make decision-making difficult.
+
+In Game 2, 4.1/5 participants reported that the visible 4-second timer made it more difficult for decisions to be made. Below is a document that shows ALL of the ratings for each game, reviews from Play2Review, and findings.
+
+# Final Reflection
+From building this project, I have developed and learned a great deal:
+
+### First, creating games using A.I. is very different from using text-based A.I. platforms. 
+
+With text A.I., you can give a simple prompt like “create an image of a person biking,” and it will usually produce exactly that. However, with game-based A.I., you need to consider details such as when, where, how long, whether it’s interactive, etc. This makes fixing issues more time-consuming, since more variables can go wrong.
+
+### Second, I discovered there’s a large community of creators who build and share demo games. 
+
+I found that many people actually encouraged me to share my games on their platforms to help drive traffic to their sites.
+
+### Third, I noticed that game-based A.I. platforms have fewer content restrictions compared to text-based A.I. platforms. 
+
+While building my games, I had some disturbing, almost demonic-like images happen that likely wouldn’t pop up on a platform like ChatGPT. Part of this could be because text-based A.I. sometimes says “cannot respond” or returns non-specific results, whereas the A.I. game platform will show a result no matter what.    
+
+Overall, this was a great experience for me, and I learned a lot.
+
+# More Information About Project
+For more information about the project, visit this cite to find documents, more details about the games, and pictures of the progress:
+https://ctsstudentsite1.wordpress.com/2026/04/10/the-impact-of-external-pressure-on-cybersecurity-decision-making/ 
+
+# Citations (Chicago-Style)
+Chowdhury, N. H., M. T. P. Adam, and T. Teubner. “Time Pressure in Human Cybersecurity Behavior: Theoretical Framework and Countermeasures.” Computers & Security 97 (2020). https://www.sciencedirect.com/science/article/abs/pii/S0167404820301747.
+
+Jones, A. "Human Error Cybersecurity Statistics." I.S. Partners, December 24, 2025. https://www.ispartnersllc.com/blog/human-error-cybersecurity-statistics/.
+
+Murphy, F. T. “Understanding Distractibility: Psychology and Solutions – Distractibility: Causes and solutions explored.” Psychology Fanatic, December 5, 2025. https://psychologyfanatic.com/distractibility/.
+
+Overboe, C., A. Ali, and T. D. Mohottalalage. “(PDF) The Human Factor in Cybersecurity: Understanding Psychology, Training Efficacy, and Error Reduction Strategies.” ResearchGate, April 2024. https://www.researchgate.net/publication/387971383TheHumanFactorinCybersecurityUnderstandingPsychologyTrainingEfficacyandErrorReduction_Strategies.
+
+## Tools used in Project
+Play2Review. "Game Intelligence Platform." Play2Review, 2026. https://play2review.com/.
+
+Maor Shlomo, “Build Apps with AI in Minutes,” Base44, 2026, https://base44.com/.
+
+Tally Forms. “100+ Free Online Form Templates: Fully Customizable: Tally.” Tally, 2026. tally.so/templates.
 
