@@ -63,11 +63,21 @@ This was the coolest part, since I got to see what my work led up too. Here is t
 </p>
 
 ## Challenges Faced
-1. Getting Reviews and Managing Time for Data Collection
+### 1. Getting Reviews and Managing Time for Data Collection
 
 One major challenge I had was encouraging users to complete the review. While many people viewed the games, only a small number chose to participate in the review or complete the experience. Additionally, distributing the games across multiple platforms took way longer than expected, mostly because each platform (including Reddit communities) often required unique posting formats and guidelines.
 
-2. Balancing the Serious vs. Entertainment Elements of the Games
+### 2. Balancing the Serious vs. Entertainment Elements of the Games
 
 <img align="right" width="120" height="180" alt="image-5" src="https://github.com/user-attachments/assets/bb4d9b1d-da83-48bc-a9ef-cb65e2d6b60f" />
 Throughout this project, I struggled to balance serious and entertaining aspects of the game. This challenge became especially important when elements like bright colors, bouncy visuals, and star effects felt inappropriate within a serious theme, such as being hacked. For example, the image on the right shows a small bot named “Locky,” which used these playful features to give players advice. However, it was part of an earlier prototype and was removed because it did not align with the tone I wanted for the final design.
+
+### 3. Reddit Account Suspensions
+Reddit banned 3 different accounts I had because I repeatedly reposted my games to encourage participation. This was a major setback, as Reddit requires users to build “karma” over time through consistent engagement and posting before gaining full posting privileges.
+
+### 4. Challenges in Building 3D Environments in Base44
+
+One aspect I really enjoy in many games is the use of 3D environments, and I also believe they can be especially effective in simulation-based games. However, Base44 has a significantly difficult time properly integrating movement within 3D spaces. At times, I would end up outside the boundaries of the environment, vehicles would clip through my character, or I would move through buildings unexpectedly.
+<p align="center">
+  <img width="400" height="225" src="https://github.com/user-attachments/assets/7393fff0-fa7e-4a41-a843-484eac95f7cc" />
+</p>
