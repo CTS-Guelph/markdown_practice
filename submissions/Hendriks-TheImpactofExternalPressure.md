@@ -98,7 +98,7 @@ Game 2: https://docs.google.com/document/d/1_HPxaYx5Y7uuqo15au3gOHMLABd6FfiEkENL
 
 Game 3: https://docs.google.com/document/d/1rEsiSK-j6XWROJ8OrNP58zPJMxR_jX5DqcHG0XWQqQk/edit?usp=sharing
 
-Game 1 2.0: https://docs.google.com/document/d/1rEsiSK-j6XWROJ8OrNP58zPJMxR_jX5DqcHG0XWQqQk/edit?usp=sharing
+Game 1 2.0: https://docs.google.com/document/d/1NIXWIhsZBIa_ccN8kPmHNBkw14FcE55x511z0SijcSQ/edit?usp=sharing
 </details>
 
 <!--- I added a breakdown of all the prototypes for each game (Links & Citations Requirement). This is similar to my workpress website. --->
