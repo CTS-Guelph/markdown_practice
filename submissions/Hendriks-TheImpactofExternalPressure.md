@@ -80,7 +80,7 @@ To complete this project, I needed a organized plan:
 <!--- I added this image here to give a overview of the plan I had in creating the project (Image Requirement) --->
 
 ### Stage 1: Research and Scenario Development
-First, I needed to research cybersecurity behaviors and serious game design to develop realistic scenarios. After building Game 1, and discussing with my teacher and mentor, I needed to both teach and inform users about the corilation between external pressures and work-life. For example, in the beginning it would explain key indicators that an email may be a scam. I also ensured there was a clear and realistic way to measure the impact of external factors compared to conditions without those influences. [Click here](https://docs.google.com/document/d/1kWsPzTiy3tZl3lMPGrfDh5vtzhojrkqkXrqoTa17z9A/edit?usp=sharing) to see the document full of the research to complete these games, mainly before I attempted at making them. 
+First, I needed to research cybersecurity behaviors and serious game design to develop realistic scenarios. After building Game 1, and discussing with my teacher and mentor, I needed to both teach and inform users about the corilation between external pressures and work-life. For example, in the beginning it would explain key indicators that an email may be a scam. I also ensured there was a clear and realistic way to measure the impact of external factors compared to conditions without those influences. [Click here to see the document full of the research to complete these games](https://docs.google.com/document/d/1kWsPzTiy3tZl3lMPGrfDh5vtzhojrkqkXrqoTa17z9A/edit?usp=sharing), mainly before I attempted at making them. 
 
 <!--- I added a hyperlink to my website where I researched the games (Links & Citations Requirement)--->
 
@@ -164,7 +164,7 @@ One aspect I really enjoy in many games is the use of 3D environments, and I als
 <!--- Description, Link, and Image (Image/Links & Citations Requirement) --->
 # Project Discoveries and Results
 
-[Click Here](https://docs.google.com/document/d/1NjEqHuQYcl0TMbEYAHc3ou6tzz3M0nZt3ySZ__QgqQI/edit?usp=sharing) to see the overall results of the games and discoveries document
+[Click Here to see the overall results of the games and discoveries document](https://docs.google.com/document/d/1NjEqHuQYcl0TMbEYAHc3ou6tzz3M0nZt3ySZ__QgqQI/edit?usp=sharing).
 
 ## Summary of Discoveries
 
