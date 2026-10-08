@@ -87,7 +87,7 @@ First, I needed to research cybersecurity behaviors and serious game design to d
 ### Stage 2: Revised Prototypes 
 <img align="right" width="250" height="300" alt="Images of Progress of Games that were Created through Base44. https://base44.com/" src="https://github.com/user-attachments/assets/1f870ec5-97d4-4692-af10-7748d5a54c61"> 
 
-Second, each game was being built through Base44 (A.I. website builder), which means it was easy to get prototypes, but harder to get everything perfect. Each game was developed through 9-12 versions of prototypes. A second version of Game 1 was made at the end, however this game was not reviewed. Each prototypes were refined based on usability, clarity, and interaction timing. 
+Second, each game was being built through Base44 (A.I. website builder), which means it was easy to get prototypes, but harder to get everything perfect. Each game was developed through 9-12 versions of prototypes. Each prototypes were refined based on usability, clarity, and interaction timing. Their continued to be prototypes built of Game 1 near the end, since it was oldest and least polished out of the games. However, Game 1 2.0 was never reviewed.
 
 <details>
 <summary> Click Here to See All Game Prototypes and Prompts </summary>
