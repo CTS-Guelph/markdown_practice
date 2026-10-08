@@ -178,7 +178,7 @@ One thing I discovered is that game promotion often happens behind the scenes on
 
 ## Summary of Results
 
-In terms of the games playability, users typically game good results. This was especially true by Game 3, as I began to understand how to properly build a challenging yet playable game that educates users correctly. 
+In terms of the games playability, users typically gave good results. This was especially true by Game 3, as I began to understand how to properly build a challenging yet playable game that educates users correctly. 
 <p align="center">
 <img width="700" height="200" alt="Review of Game 3 from a user from Play2Review. https://play2review.com/" src="https://github.com/user-attachments/assets/a269da6b-625b-458d-ba5b-c84c84baef3b" />
 </p>
@@ -188,16 +188,16 @@ In terms of the games playability, users typically game good results. This was e
 
 In terms of how the study went, I discovered three things:
 <!--- Description, Link, and Image (Image/Links & Citations Requirement) --->
-### 1. My results indicate that external factors can create stress, which in turn impacts short-term memory.
-In Game 1, the average memory score was 3.125/5, suggesting that participants didn’t have great memory during the game. Users most likely linked this to the boss character, since it was the primary external distraction, while many people reported the timer didn’t affect them. 75% of participants specifically stated that the boss made it harder for them to remember the passwords. There are many likely factors besides the boss, which likely means that the pressure makes memory worse. However, it was noted by a couple users had glitches in the game which could have influenced these results. These comments are in the overall results of the games and discoveries document.
+### 1. Game 1 results indicate that external factors can create stress, which in turn impacts short-term memory.
+In Game 1, the average memory score was 3.125/5, suggesting that participants didn’t have great memory during the game. Users most likely linked this to the boss character, since 75% of participants specifically stated that the boss made it harder for them to remember the passwords, and it was the primary distraction in the game. However, it was noted by a couple users had glitches in the game which could have influenced these results. These comments are in the [overall results of the games and discoveries document](https://docs.google.com/document/d/1NjEqHuQYcl0TMbEYAHc3ou6tzz3M0nZt3ySZ__QgqQI/edit?usp=sharing).
 
 ### 2. Having distractions makes tasks more difficult, which leads people to perform better or worse, similar to a fight or flight situation.
 The results clearly show that the games did the job of creating proper distractions which made the tasks more difficult:
 - In Game 1, 75% of participants reported that the boss character made it harder to focus.
 - In Game 2, 80% said driving made it harder to focus on the task.
-- In Game 3, 60% percent said watching a child made the task harder as well. 
+- In Game 3, 60% percent said watching a child made the task harder. 
 
-One interesting finding is that in Game 2, responses to the question “Is the 3rd and 4th phase worse than phase 2?” were either very high or low. In the same game, 80% of participants clearly indicated that driving made the task harder, likely meaning that there was a strong perceived impact of the distraction. In contrast, Game 3 produced more moderate, in-between responses, which likely means that the external factors in that game were ‘ok’. These patterns seem to be related and suggest that when individuals are clearly distracted, they either over-focus and perform better or perform much worse. This is similar to a fight-or-flight response under pressure.
+One interesting finding is that in Game 2, responses to the question “Is the 3rd and 4th phase worse than phase 2?” were either very high or low. In the same game, 80% of participants clearly indicated that driving made the task harder, likely meaning that there was a strong perceived impact of the distraction. In contrast, Game 3 only had a 60% rating of difficulty from the distraction, while also producing more moderate, in-between responses for ratings if the phases were getting worse. These patterns seem to be related and suggest that when individuals are clearly distracted, they either over-focus and perform better or perform much worse. This is similar to a fight-or-flight response under pressure.
 
 ### 3. Showing a time limit can make decision-making difficult.
 
