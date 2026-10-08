@@ -10,7 +10,7 @@ Title: The Impact of External Pressure on Cybersecurity Decision Making
 
 Author: Thomas Hendriks (Maxwellcoffee1)
 
-Date: 10-07-2026
+Date: 10-08-2026
 
 Citation: Hendriks, Thomas. "The Impact of External Pressure on Cybersecurity Decision Making." 2026, April 10. https://ctsstudentsite1.wordpress.com/2026/04/10/the-impact-of-external-pressure-on-cybersecurity-decision-making/
 
