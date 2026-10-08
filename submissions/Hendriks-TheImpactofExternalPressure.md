@@ -1,7 +1,7 @@
 <!--- Important NOTES 
 1. I tried to use footnotes for the image descriptions, however, I would have to take it out of "p" - which is making them aligned how I want it to be with the image. So it made more sense for me not to use footnotes - especially since I don't have any quotes. 
 2. I understand at the beginning we were supposed to do "---" top and bottom of the metadata. I couldn't figure out how to separate the metadata from the main work, so I did it a different way, that I learned on Github Docs: https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections
-UPDATED: Compared to my previous push, I now have an updated Metadata with a clear summary of my project, a more clear citation, a bio, and I did remove "Status: hidden"--->
+UPDATED: Compared to my previous push, I now have an updated Metadata with a clear summary of my project, a more clear citation, a bio, and I did remove "Status: hidden" since only the text of that appears because of the way I collapse the metadata.--->
 
 <details>
 <summary>Click to View Metadata</summary>
@@ -229,7 +229,7 @@ Overall, throughout this project I gained organizational skills and developed be
 For more information about the project, visit this cite to find additional documents, more details about the games, and pictures of the progress:
 https://ctsstudentsite1.wordpress.com/2026/04/10/the-impact-of-external-pressure-on-cybersecurity-decision-making/ 
 
-<!--- As noted at the top, if I made the "Tools used in project" citation group below footnoted, the image descriptions need to be unaligned because it needs me to remove where I asked it to go - centre/right/left. Additionally, I am also not using the "Relevant Resources" citation group within this article, so they don't appear if I don't use them when they are footnoted. So I didn't use footnotes because it made more sense for my document. I also had some links that helped me create this entire article too, mainly Github Guides and our own tutorials from class: 
+<!--- As noted at the top, if I made the "Tools used in project" citation group below footnoted, the image descriptions need to be unaligned because it needs me to remove where I asked it to go - centre/right/left. Not sure why the tally.so/templates link isn't auto appearing as a link when previewing, I'm not sure how to fix that. Additionally, I am also not using the "Relevant Resources" citation group within this article, so they don't appear if I don't use them when they are footnoted. So I didn't use footnotes because it made more sense for my document. I also had some links that helped me create this entire article too, mainly Github Guides and our own tutorials from class: 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text
 https://www.tutorialspoint.com/article/how-to-create-hidden-comments-in-html
 --->
