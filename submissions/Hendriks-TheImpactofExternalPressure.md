@@ -248,7 +248,7 @@ Maor Shlomo, “Build Apps with AI in Minutes,” Base44, 2026, https://base44.c
 Tally Forms. “100+ Free Online Form Templates: Fully Customizable: Tally.” Tally, 2026. tally.so/templates. 
 
 ## Relevant Resources Used in Hyperlinked Documents
-Although these sources aren't in this article, they helped build the game
+***Although these sources aren't in this article, they helped build the game***
 
 Chowdhury, N. H., M. T. P. Adam, and T. Teubner. “Time Pressure in Human Cybersecurity Behavior: Theoretical Framework and Countermeasures.” Computers & Security 97 (2020). https://www.sciencedirect.com/science/article/abs/pii/S0167404820301747.
 
