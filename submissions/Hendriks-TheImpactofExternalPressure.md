@@ -32,7 +32,7 @@ From this idea, I developed a project focusing on the relationship between: **Se
 2. A yes/no email scam game while driving.
 3. A multiple-choice game about computer viruses while supervising a child.
 
-<!--- I used bold text to show hiearchy of titles throughout this article and specifically bolded the list of four main topics my project goes over (Styling Requirment). Updated: Instead of a whole bunch of paragraphs, I broke it down, and reworded it to have a smoother transition. I also decided to seperate my poster from this main text at the beginning, so not only can readers see the poster better, but its also not taking up space, unless they click to see it (Styling Requirement/Images). --->
+<!--- I used bold text to show hiearchy of titles throughout this article and specifically bolded the list of four main topics my project goes over (Styling Requirment). Updated: Instead of a whole bunch of paragraphs, I broke it down, and reworded it to have a smoother transition into the article. I also decided to seperate my poster from this main text at the beginning, so not only can readers see the poster better, but its also not taking up space, unless they click to see it (Styling Requirement/Images). --->
 
 ## Poster Project Summary
 <details>
@@ -191,6 +191,8 @@ In terms of how the study went, I discovered three things:
 ### 1. Game 1 results indicate that external factors can create stress, which in turn impacts short-term memory.
 In Game 1, the average memory score was 3.125/5, suggesting that participants didn’t have great memory during the game. Users most likely linked this to the boss character, since 75% of participants specifically stated that the boss made it harder for them to remember the passwords, and it was the primary distraction in the game. However, it was noted by a couple users had glitches in the game which could have influenced these results. These comments are in the [overall results of the games and discoveries document](https://docs.google.com/document/d/1NjEqHuQYcl0TMbEYAHc3ou6tzz3M0nZt3ySZ__QgqQI/edit?usp=sharing).
 
+<!--- Another hyperlinked link above, and a list beldow (Links & Citations/Styling Requirement) --->
+
 ### 2. Having distractions makes tasks more difficult, which leads people to perform better or worse, similar to a fight or flight situation.
 The results clearly show that the games did the job of creating proper distractions which made the tasks more difficult:
 - In Game 1, 75% of participants reported that the boss character made it harder to focus.
@@ -223,14 +225,16 @@ While building my games, I had some disturbing, almost demonic-like images happe
 <p align="center">
 <sub>(One of the creepy prototypes from Game 3, created by Base44. https://base44.com/) </sub>
 </p>
+
 <!--- Description, Link, and Image (Image/Links & Citations Requirement) --->
+
 Overall, throughout this project I gained organizational skills and developed better understand of the relationship between individuals work and home-life, this was a great experience for me.
 
 # More Information About Project
 For more information about the project, visit this cite to find additional documents, more details about the games, and pictures of the progress:
 https://ctsstudentsite1.wordpress.com/2026/04/10/the-impact-of-external-pressure-on-cybersecurity-decision-making/ 
 
-<!--- As noted at the top, if I made the "Tools used in project" citation group below footnoted, the image descriptions need to be unaligned because it needs me to remove where I asked it to go - centre/right/left. Not sure why the tally.so/templates link isn't auto appearing as a link when previewing, I'm not sure how to fix that. Additionally, I am also not using the "Relevant Resources" citation group within this article, so they don't appear if I don't use them when they are footnoted. So I didn't use footnotes because it made more sense for my document. I also had some links that helped me create this entire article too, mainly Github Guides and our own tutorials from class: 
+<!--- As noted at the top, if I made the "Tools used in project" citation group below footnoted, the image descriptions need to be unaligned because it needs me to remove where I asked it to go - centre/right/left. Not sure why the tally.so/templates link isn't auto appearing as a link when previewing, I'm not sure how to fix that. Additionally, I am also not using the "Relevant Resources" citation group sources within this article for quotes/sources, so they don't appear if I don't use them when they are footnoted. So I didn't use footnotes because it made more sense for my document. I also had some links that helped me create this entire article too, mainly Github Guides and our own tutorials from class: 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text
 https://www.tutorialspoint.com/article/how-to-create-hidden-comments-in-html
 --->
