@@ -197,7 +197,7 @@ The results clearly show that the games did the job of creating proper distracti
 - In Game 2, 80% said driving made it harder to focus on the task.
 - In Game 3, 60% percent said watching a child made the task harder. 
 
-One interesting finding is that in Game 2, responses to the question “were your scores worse in phase 3 and 4 compared to phase 2?” were either very high or low. In the same game, 80% of participants clearly indicated that driving made the task harder, likely meaning that there was a strong perceived impact of the distraction. In contrast, Game 3 only had a 60% rating of difficulty from the distraction, while also producing more moderate, in-between responses for ratings if the phases were getting worse. These patterns seem to be related and suggest that when individuals are clearly distracted, they either over-focus and perform better or perform much worse. This is similar to a fight-or-flight response under pressure.
+One interesting finding is that in Game 2, responses to the question “Were your scores worse in phase 3 and 4 compared to phase 2?” were either very high or low. In the same game, 80% of participants clearly indicated that driving made the task harder, likely meaning that there was a strong perceived impact of the distraction. In contrast, Game 3 only had a 60% rating of difficulty from the distraction, while also producing more moderate, in-between responses for ratings if the phases were getting worse. These patterns seem to be related and suggest that when individuals are clearly distracted, they either over-focus and perform better or perform much worse. This is similar to a fight-or-flight response under pressure.
 
 ### 3. Showing a time limit can make decision-making difficult compared to not having one.
 
