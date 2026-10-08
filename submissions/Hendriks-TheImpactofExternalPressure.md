@@ -85,7 +85,7 @@ First, I needed to research cybersecurity behaviors and serious game design to d
 <!--- I added a hyperlink to my website where I researched the games (Links & Citations Requirement)--->
 
 ### Stage 2: Revised Prototypes 
-<img align="right" width="250" height="300" alt="Images of Progress of Games that were Created through Base44. https://base44.com/" src="https://github.com/user-attachments/assets/6471c023-4c60-45c3-a078-7e67ad14e32d"> 
+<img align="right" width="250" height="300" alt="Images of Progress of Games that were Created through Base44. https://base44.com/" src="https://github.com/user-attachments/assets/1f870ec5-97d4-4692-af10-7748d5a54c61"> 
 
 Second, each game was being built through Base44 (A.I. website builder), which means it was easy to get prototypes, but harder to get everything perfect. Each game was developed through 9-12 versions of prototypes. Prototypes were refined based on usability, clarity, and interaction timing. 
 
