@@ -71,7 +71,7 @@ This poster encompasses the whole project by looking at the plan of the games, d
 # Project Development
 To complete this project, I needed a organized plan:
 <p align="center">
-<img width="600" height="240" alt="Bottom of Final Project Poster" src="https://github.com/user-attachments/assets/0ef5a12c-8ea0-461b-9738-f3000ce80ad2" />
+<img width="600" height="240" alt="Middle of Final Project Poster" src="https://github.com/user-attachments/assets/0ef5a12c-8ea0-461b-9738-f3000ce80ad2" />
 </p>
 <p align="center"> 
 <sub> (Middle of Final Project Poster) </sub>
@@ -124,7 +124,7 @@ Game 3: https://docs.google.com/document/d/11hCd61AbggcYyNuUWUra2rptUhOhsnQLSe2g
 ### Stage 4: Data Analysis and Reflection
 This was one of the most satisfying parts, since I got to see what my work led up too. Here is the final rating of the games:
 <p align="center"> 
-  <img width="600" height="150" alt="image" src="https://github.com/user-attachments/assets/20d930ba-1603-4121-afa1-e813e11af79d" />
+  <img width="600" height="150" alt="Bottom of Project Poster" src="https://github.com/user-attachments/assets/20d930ba-1603-4121-afa1-e813e11af79d" />
 </p>
 <p align="center"> 
 <sub> (Bottom of Project Poster) </sub>
@@ -155,7 +155,7 @@ Reddit banned 3 different accounts I had because I repeatedly reposted my games 
 
 One aspect I really enjoy in many games is the use of 3D environments, and I also believe they can be especially effective in simulation-based games. However, Base44 has a significantly difficult time properly integrating movement within 3D spaces. At times, I would end up outside the boundaries of the environment, vehicles would clip through my character, or I would move through buildings unexpectedly.
 <p align="center">
-  <img width="600" height="270" src="https://github.com/user-attachments/assets/7393fff0-fa7e-4a41-a843-484eac95f7cc" />
+  <img width="600" height="270" alt="Image of Game 2 Prototype, created by Base44. https://base44.com/" src="https://github.com/user-attachments/assets/7393fff0-fa7e-4a41-a843-484eac95f7cc" />
 </p>
 <p align="center"> 
 <sub> (Image of Game 2 Prototype, created by Base44. https://base44.com/) </sub>
@@ -217,7 +217,7 @@ I found that many people actually encouraged me to share my games on their platf
 
 While building my games, I had some disturbing, almost demonic-like images happen that likely wouldn’t pop up on a platform like ChatGPT. Part of this could be because text-based A.I. sometimes says “cannot respond” or returns non-specific results, whereas the A.I. game platform will show a result no matter what.    
 <p align="center">
-<img width="500" height="230" alt="(One of the Creepy Prototypes from Game 3, created by Base44. https://base44.com/)" src="https://github.com/user-attachments/assets/0e2490bc-7a8a-470a-ba4f-078fa3416a6b" />
+<img width="500" height="230" alt="One of the Creepy Prototypes from Game 3, created by Base44. https://base44.com/" src="https://github.com/user-attachments/assets/0e2490bc-7a8a-470a-ba4f-078fa3416a6b" />
 </p>
 <p align="center">
 <sub>(One of the creepy prototypes from Game 3, created by Base44. https://base44.com/) </sub>
@@ -229,7 +229,7 @@ Overall, throughout this project I gained organizational skills and developed be
 For more information about the project, visit this cite to find additional documents, more details about the games, and pictures of the progress:
 https://ctsstudentsite1.wordpress.com/2026/04/10/the-impact-of-external-pressure-on-cybersecurity-decision-making/ 
 
-<!--- As noted at the top, if I made this into footnote, I would have to unalign it with the images that are shifted and it would look weird. Also in my wordpress document, I do have actual sources for this assignment, but I was mainly quoting things to support what I was saying. There wasn't a good spot for those quotes, therfore I removed the main citations too. I also had some links that helped me create this, mainly Github Guides and our own tutorials from class: 
+<!--- As noted at the top, if I made the "Tools used in project" citation group below footnoted, the image descriptions need to be unaligned because it needs me to remove where I asked it to go - centre/right/left. Additionally, I am also not using the "Relevant Resources" citation group within this article, so they don't appear if I don't use them when they are footnoted. So I didn't use footnotes because it made more sense for my document. I also had some links that helped me create this entire article too, mainly Github Guides and our own tutorials from class: 
 https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text
 https://www.tutorialspoint.com/article/how-to-create-hidden-comments-in-html
 --->
@@ -241,3 +241,14 @@ Play2Review. "Game Intelligence Platform." Play2Review, 2026. https://play2revie
 Maor Shlomo, “Build Apps with AI in Minutes,” Base44, 2026, https://base44.com/.
 
 Tally Forms. “100+ Free Online Form Templates: Fully Customizable: Tally.” Tally, 2026. tally.so/templates. 
+
+## Relevant Resources Used in Hyperlinked Documents
+Although these sources aren't in this article, they helped build the game
+
+Chowdhury, N. H., M. T. P. Adam, and T. Teubner. “Time Pressure in Human Cybersecurity Behavior: Theoretical Framework and Countermeasures.” Computers & Security 97 (2020). https://www.sciencedirect.com/science/article/abs/pii/S0167404820301747.
+
+Jones, A. "Human Error Cybersecurity Statistics." I.S. Partners, December 24, 2025. https://www.ispartnersllc.com/blog/human-error-cybersecurity-statistics/.
+
+Murphy, F. T. “Understanding Distractibility: Psychology and Solutions – Distractibility: Causes and solutions explored.” Psychology Fanatic, December 5, 2025. https://psychologyfanatic.com/distractibility/.
+
+Overboe, C., A. Ali, and T. D. Mohottalalage. “(PDF) The Human Factor in Cybersecurity: Understanding Psychology, Training Efficacy, and Error Reduction Strategies.” ResearchGate, April 2024. https://www.researchgate.net/publication/387971383TheHumanFactorinCybersecurityUnderstandingPsychologyTrainingEfficacyandErrorReduction_Strategies.
