@@ -1,4 +1,5 @@
-<!--- The beginning shows all the Metadata required, Title, Author, Date, Citation, Tags, Abstract, Bio, and Status: hidden. Updated: I added Metadata above with a compressor to organize it better (Styling Requirment). I added a clear summary of my project, along with a more professional citation, rather than just the link. I also added two sentences about me in my bio. --->
+<!--- The beginning shows all the Metadata required, Title, Author, Date, Citation, Tags, Abstract, Bio, and Status: hidden. Updated: I added Metadata above with a compressor to organize it better (Styling Requirment). I added a clear summary of my project, along with a more professional citation, rather than just the link. I also added two sentences about me in my bio. 
+Important NOTE: I tried to use footnotes for the image descriptions, however, I would have to take it out of "p" - which is making them aligned how I want it to be with the image. So it made more sense for me not to use footnotes - especially since I don't have any quotes. --->
 <details>
   
 <summary>Click to View Metadata</summary>
@@ -30,7 +31,7 @@ From this idea, I developed a project focusing on the relationship between: **Se
 2. A yes/no email scam game while driving.
 3. A multiple-choice game about computer viruses while supervising a child.
 
-<!--- I used bold text to show hiearchy of titles throughout this article and specifically bolded the list of four main topics my project goes over (Styling Requirment). Updated: Instead of a whole bunch of paragraphs, I broke it down, and reworded it to have a smoother transition. I also decided to seperate my poster from this main text at the beginning, so not only can readers see the poster better, but its also not taking up space, unless they click to see it (Styling Requirement). --->
+<!--- I used bold text to show hiearchy of titles throughout this article and specifically bolded the list of four main topics my project goes over (Styling Requirment). Updated: Instead of a whole bunch of paragraphs, I broke it down, and reworded it to have a smoother transition. I also decided to seperate my poster from this main text at the beginning, so not only can readers see the poster better, but its also not taking up space, unless they click to see it (Styling Requirement/Images). --->
 
 ## Poster Project Summary
 <details>
@@ -43,13 +44,13 @@ From this idea, I developed a project focusing on the relationship between: **Se
 </p>
 </details>
 
-<!--- For all the images I used sub and small to help create smaller citations.--->
+<!--- For all the images I used sub and small to help create smaller citations (Styling Requirement).--->
 
 This poster encompasses the whole project by looking at the plan of the games, discoveries, and results to answer the research question:
 <br>
 ### ***"How do external pressures and distractions influence individuals’ memory, attention, and decision-making during moments that require cybersecurity awareness?"***
 
-<!--- I found that my research question needed to stand out from the rest of the text without looking like a heading, so I made it italic --->
+<!--- I found that my research question needed to stand out from the rest of the text without looking like a heading, so I made it italic (Styling Requirement)--->
 
 ## Final Project Games
 
@@ -64,7 +65,7 @@ This poster encompasses the whole project by looking at the plan of the games, d
 <sub> (Images are logos of games, created by Base44.https://base44.com/) </sub>
 </p>
 
-<!--- I added a table with links to be inline with my game logos. Although I would prefer the games to be imbedded into this page, I think Markdown can't do it. ---> 
+<!--- I added a table with links to be inline with my game logos (Styling/Links & Citations Requirement). Although I would prefer the games to be imbedded into this page, I think Markdown can't do it. ---> 
 
 # Project Development
 To complete this project, I needed a organized plan:
@@ -75,12 +76,12 @@ To complete this project, I needed a organized plan:
 <sub> (Middle of Final Project Poster) </sub>
 </p>
 
-<!--- I added this image here to give a overview of the plan I had in creating the project --->
+<!--- I added this image here to give a overview of the plan I had in creating the project (Image Requirement) --->
 
 ### Stage 1: Research and Scenario Development
 First, I needed to research cybersecurity behaviors and serious game design to develop realistic scenarios. After building Game 1, and discussing with my teacher and mentor, I needed to both teach and inform users about the corilation between external pressures and work-life. For example, in the beginning it would explain key indicators that an email may be a scam. I also ensured there was a clear and realistic way to measure the impact of external factors compared to conditions without those influences. [Click here](https://docs.google.com/document/d/1kWsPzTiy3tZl3lMPGrfDh5vtzhojrkqkXrqoTa17z9A/edit?usp=sharing) to see the document full of the research to complete these games, mainly before I attempted at making them. 
 
-<!--- I added a hyperlink to my website where I researched the games --->
+<!--- I added a hyperlink to my website where I researched the games (Links & Citations Requirement)--->
 
 ### Stage 2: Revised Prototypes 
 <img align="right" width="250" height="300" alt="Images of Progress of Games that were Created through Base44. https://base44.com/" src="https://github.com/user-attachments/assets/6471c023-4c60-45c3-a078-7e67ad14e32d"> 
@@ -99,7 +100,7 @@ Game 3: https://docs.google.com/document/d/1rEsiSK-j6XWROJ8OrNP58zPJMxR_jX5DqcHG
 Game 1 2.0: https://docs.google.com/document/d/1rEsiSK-j6XWROJ8OrNP58zPJMxR_jX5DqcHG0XWQqQk/edit?usp=sharing
 </details>
 
-<!--- I added a breakdown of all the prototypes for each game. This is similar to my workpress website --->
+<!--- I added a breakdown of all the prototypes for each game (Links & Citations Requirement). This is similar to my workpress website. --->
 
 ### Stage 3: Distribution and Data Collection
 These games were distributed through multiple online platforms, with two primary ones used for data collection. These platforms allowed for both quantitative (scaled responses from Tally) and qualitative (user feedback from Play2Review) reviews of how the games and impacts of the scenario went.
@@ -117,7 +118,7 @@ Game 3: https://docs.google.com/document/d/11hCd61AbggcYyNuUWUra2rptUhOhsnQLSe2g
 <p align="right"> 
 <sub> (Images of Progress of Games that were Created through Base44. https://base44.com/) </sub>
 
-<!--- I added a breakdown of all the preparation for each game for how to share it. This is similar to my workpress website --->
+<!--- I added a breakdown of all the preparation for each game for how to share it (Links & Citations Requirement). This is similar to my workpress website --->
 
 ### Stage 4: Data Analysis and Reflection
 This was one of the most satisfying parts, since I got to see what my work led up too. Here is the final rating of the games:
@@ -127,8 +128,6 @@ This was one of the most satisfying parts, since I got to see what my work led u
 <p align="center"> 
 <sub> (Bottom of Project Poster) </sub>
 </p>
-
-<!--- I added a breakdown of all the preparation for each game for how to share it. This is similar to my workpress website --->
 
 # Challenges Faced
 ### 1. Getting Reviews and Managing Time for Data Collection
@@ -161,6 +160,7 @@ One aspect I really enjoy in many games is the use of 3D environments, and I als
 <sub> (Image of Game 2 Prototype, created by Base44. https://base44.com/) </sub>
 </p>
 
+<!--- Description, Link, and Image (Image/Links & Citations Requirement) --->
 # Project Discoveries and Results
 
 [Click Here](https://docs.google.com/document/d/1NjEqHuQYcl0TMbEYAHc3ou6tzz3M0nZt3ySZ__QgqQI/edit?usp=sharing) to see the overall results of the games and discoveries document
@@ -185,7 +185,7 @@ In terms of the games playability, users typically game good results. This was e
 <sub> (Review of Game 3 from a user from Play2Review. https://play2review.com/) </sub>
 </p>
 In terms of how the study went, I discovered three things:
-
+<!--- Description, Link, and Image (Image/Links & Citations Requirement) --->
 ### 1. My results indicate that external factors can create stress, which in turn impacts short-term memory.
 In Game 1, the average memory score was 3.125/5, suggesting that participants didn’t have great memory during the game. Users most likely linked this to the boss character, since it was the primary external distraction, while many people reported the timer didn’t affect them. 75% of participants specifically stated that the boss made it harder for them to remember the passwords. There are many likely factors besides the boss, which likely means that the pressure makes memory worse. However, it was noted by a couple users had glitches in the game which could have influenced these results. These comments are in the overall results of the games and discoveries document.
 
@@ -221,17 +221,19 @@ While building my games, I had some disturbing, almost demonic-like images happe
 <p align="center">
 <sub>(One of the creepy prototypes from Game 3, created by Base44. https://base44.com/) </sub>
 </p>
+<!--- Description, Link, and Image (Image/Links & Citations Requirement) --->
 Overall, throughout this project I gained organizational skills and developed better understand of the relationship between individuals work and home-life, this was a great experience for me.
 
 # More Information About Project
 For more information about the project, visit this cite to find additional documents, more details about the games, and pictures of the progress:
 https://ctsstudentsite1.wordpress.com/2026/04/10/the-impact-of-external-pressure-on-cybersecurity-decision-making/ 
 
+<!--- As noted at the top, if I made this into footnote, I would have to unalign it with the images that are shifted and it would look weird. Also in my wordpress document, I do have actual sources for this assignment, but I was mainly quoting things to support what I was saying. There wasn't a good spot for those quotes, therfore I removed the main citations too. --->
+
 # Citations (Chicago-Style)
 ## Tools used in Project
-[^1]: Play2Review. "Game Intelligence Platform." Play2Review, 2026. https://play2review.com/.
+Play2Review. "Game Intelligence Platform." Play2Review, 2026. https://play2review.com/.
 
-[^2]: Maor Shlomo, “Build Apps with AI in Minutes,” Base44, 2026, https://base44.com/.
+Maor Shlomo, “Build Apps with AI in Minutes,” Base44, 2026, https://base44.com/.
 
-[^3]: Tally Forms. “100+ Free Online Form Templates: Fully Customizable: Tally.” Tally, 2026. tally.so/templates. 
-
+Tally Forms. “100+ Free Online Form Templates: Fully Customizable: Tally.” Tally, 2026. tally.so/templates. 
