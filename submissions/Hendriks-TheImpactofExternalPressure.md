@@ -180,11 +180,12 @@ One thing I discovered is that game promotion often happens behind the scenes on
 
 In terms of the games playability, users typically game good results. This was especially true by Game 3, as I began to understand how to properly build a challenging yet playable game that educates users correctly. 
 <p align="center">
-<img width="700" height="200" alt="Review of Game 3 from a user from Play2Review. https://play2review.com/" src="https://github.com/user-attachments/assets/8152e550-03a6-43ef-8f0d-f333529eb0ce" />
+<img width="700" height="200" alt="Review of Game 3 from a user from Play2Review. https://play2review.com/" src="https://github.com/user-attachments/assets/a269da6b-625b-458d-ba5b-c84c84baef3b" />
 </p>
 <p align="center"> 
 <sub> (Review of Game 3 from a user from Play2Review. https://play2review.com/) </sub>
 </p>
+
 In terms of how the study went, I discovered three things:
 <!--- Description, Link, and Image (Image/Links & Citations Requirement) --->
 ### 1. My results indicate that external factors can create stress, which in turn impacts short-term memory.
