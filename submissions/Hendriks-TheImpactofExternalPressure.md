@@ -139,7 +139,7 @@ One major challenge I had was encouraging users to complete the review. While ma
 
 ### 2. Balancing the Serious vs. Entertainment Elements of the Games
 
-<img align="right" width="120" height="180" alt="Image of Locky from Game 1 Prototype, created by Base44. https://base44.com/" src="https://github.com/user-attachments/assets/bb4d9b1d-da83-48bc-a9ef-cb65e2d6b60f" />
+<img align="right" width="120" height="180" alt="Image of Locky from Game 1 Prototype, created by Base44. https://base44.com/" src="https://github.com/user-attachments/assets/bdf74d96-0391-4d80-84ae-080a3b3949a5" />
 
 Throughout this project, I struggled to balance serious and entertaining aspects of the game. This challenge became especially important when elements like bright colors, bouncy visuals, and star effects felt inappropriate within a serious theme, such as being hacked. For example, the image on the right shows a small bot named “Locky,” which used these playful features to give players advice. However, it was part of an earlier prototype and was removed because it did not align with the tone I wanted for the final design.
 <br><br><br>
