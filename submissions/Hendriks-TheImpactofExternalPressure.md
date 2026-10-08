@@ -1,7 +1,9 @@
-<!--- The beginning shows all the Metadata required, Title, Author, Date, Citation, Tags, Abstract, Bio, and Status: hidden. Updated: I added Metadata above with a compressor to organize it better (Styling Requirment). I added a clear summary of my project, along with a more professional citation, rather than just the link. I also added two sentences about me in my bio. 
-Important NOTE: I tried to use footnotes for the image descriptions, however, I would have to take it out of "p" - which is making them aligned how I want it to be with the image. So it made more sense for me not to use footnotes - especially since I don't have any quotes. --->
+<!--- Important NOTES 
+1. I tried to use footnotes for the image descriptions, however, I would have to take it out of "p" - which is making them aligned how I want it to be with the image. So it made more sense for me not to use footnotes - especially since I don't have any quotes. 
+2. I understand at the beginning we were supposed to do "---" top and bottom of the metadata. I couldn't figure out how to separate the metadata from the main work, so I did it a different way, that I learned on Github Docs: https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections
+UPDATED: Compared to my previous push, I now have an updated Metadata with a clear summary of my project, a more clear citation, a Bio, and I did remove "Status: hidden"--->
+
 <details>
-  
 <summary>Click to View Metadata</summary>
 
 Title: The Impact of External Pressure on Cybersecurity Decision Making
@@ -16,9 +18,8 @@ Tags: Human Behaviour, Serious Games, Technology
 
 Summary: This project explores how external pressures influences cybersecurity decision-making. To investigate this, three serious games were built using the A.I. platform Base44. Research about serious games, simulation-based design, cybersecurity, and human behaviour was done to attempt to simulate real-world cybersecurity scenarios with built-in distractions. After these games were built, user feedback was then gathered to discover how the external pressure affected participants, and whether the games themselves were overall affective. Multiple updates and versions were created across the three different games, each designed with different scenarios. The first was a memory-based password game in which the player is distracted by the manager, the second was a yes/no email scam game while driving, and the third being a multiple-choice game about computer viruses while supervising a child. An additional version of the first game was created because the project was ahead of schedule, however, there were no reviews for this updated version. 
 
-Bio: Thomas Hendriks is currently a fourth-year Culture and Techology Studies student, with minors in Marketing and Project Management at the university of Guelph. Tom has particular interest on the affects of technology and how it affects peoples everyday experiences. 
+Bio: Thomas Hendriks is currently a fourth-year Culture and Techology Studies student, with minors in Marketing and Project Management at the university of Guelph. Tom has particular interest on the affects of technology and how it affects peoples everyday experiences. This includes topics like streaming platofrms such as Netflix, Social Media
 
-Status: hidden
 </details>
 
 # The Impact of External Pressure on Cybersecurity Decision Making
@@ -228,7 +229,10 @@ Overall, throughout this project I gained organizational skills and developed be
 For more information about the project, visit this cite to find additional documents, more details about the games, and pictures of the progress:
 https://ctsstudentsite1.wordpress.com/2026/04/10/the-impact-of-external-pressure-on-cybersecurity-decision-making/ 
 
-<!--- As noted at the top, if I made this into footnote, I would have to unalign it with the images that are shifted and it would look weird. Also in my wordpress document, I do have actual sources for this assignment, but I was mainly quoting things to support what I was saying. There wasn't a good spot for those quotes, therfore I removed the main citations too. --->
+<!--- As noted at the top, if I made this into footnote, I would have to unalign it with the images that are shifted and it would look weird. Also in my wordpress document, I do have actual sources for this assignment, but I was mainly quoting things to support what I was saying. There wasn't a good spot for those quotes, therfore I removed the main citations too. I also had some links that helped me create this, mainly Github Guides and our own tutorials from class: 
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax#styling-text
+https://www.tutorialspoint.com/article/how-to-create-hidden-comments-in-html
+--->
 
 # Citations (Chicago-Style)
 ## Tools used in Project
