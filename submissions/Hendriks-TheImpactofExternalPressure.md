@@ -1,7 +1,7 @@
 <!--- Important NOTES 
 1. I tried to use footnotes for the image descriptions, however, I would have to take it out of "p" - which is making them aligned how I want it to be with the image. So it made more sense for me not to use footnotes - especially since I don't have any quotes. 
 2. I understand at the beginning we were supposed to do "---" top and bottom of the metadata. I couldn't figure out how to separate the metadata from the main work, so I did it a different way, that I learned on Github Docs: https://docs.github.com/en/get-started/writing-on-github/working-with-advanced-formatting/organizing-information-with-collapsed-sections
-UPDATED: Compared to my previous push, I now have an updated Metadata with a clear summary of my project, a more clear citation, a Bio, and I did remove "Status: hidden"--->
+UPDATED: Compared to my previous push, I now have an updated Metadata with a clear summary of my project, a more clear citation, a bio, and I did remove "Status: hidden"--->
 
 <details>
 <summary>Click to View Metadata</summary>
@@ -16,9 +16,9 @@ Citation: Hendriks, Thomas. "The Impact of External Pressure on Cybersecurity De
 
 Tags: Human Behaviour, Serious Games, Technology
 
-Summary: This project explores how external pressures influences cybersecurity decision-making. To investigate this, three serious games were built using the A.I. platform Base44. Research about serious games, simulation-based design, cybersecurity, and human behaviour was done to attempt to simulate real-world cybersecurity scenarios with built-in distractions. After these games were built, user feedback was then gathered to discover how the external pressure affected participants, and whether the games themselves were overall affective. Multiple updates and versions were created across the three different games, each designed with different scenarios. The first was a memory-based password game in which the player is distracted by the manager, the second was a yes/no email scam game while driving, and the third being a multiple-choice game about computer viruses while supervising a child. An additional version of the first game was created because the project was ahead of schedule, however, there were no reviews for this updated version. 
+Summary: This project explores how external pressures and distractions influence cybersecurity decision-making. Three serious games were built using the A.I. platform Base44, while looking at research about serious games, simulation-based design, cybersecurity, and human behaviour. Each game placed players in a cybersecurity scenario while having to deal with built-in distractions: Managing password in which the player is distracted by the manager, identifying email scams while driving, and dealing with computer viruses while supervising a child. User feedback was collected to see how these pressures affects focus, memory, and decision-making. By combining cybersecurity education with simulated everyday distractions, this project looks into how the pressures of digital and physical environments can monipulate cybersecurity behaviour and contribute to the anxieties people experience when being in a digital world. 
 
-Bio: Thomas Hendriks is currently a fourth-year Culture and Techology Studies student, with minors in Marketing and Project Management at the university of Guelph. Tom has particular interest on the affects of technology and how it affects peoples everyday experiences. This includes topics like streaming platofrms such as Netflix, Social Media
+Bio: Thomas Hendriks is currently a fourth-year Culture and Techology Studies student, with minors in Marketing and Project Management at the university of Guelph. He has a technology background as a teaching assistant for both Computer Science and Communications Technology in high school, and runs various gaming YouTube channels. Thomas has a particular interest in the relationship between technology, business, and people's everyday experiences. Click on this link to go to Thomas Hendrik's main portfolio page: https://ctsstudentsite1.wordpress.com/ 
 
 </details>
 
