@@ -119,7 +119,7 @@ Game 3: https://docs.google.com/document/d/11hCd61AbggcYyNuUWUra2rptUhOhsnQLSe2g
 <p align="right"> 
 <sub> (Images of Progress of Games that were Created through Base44. https://base44.com/) </sub>
 
-<!--- I added a breakdown of all the preparation for each game for how to share it (Links & Citations Requirement). This is similar to my workpress website --->
+<!--- I added a breakdown of all the preparation for each game for how to share it (Links & Citations Requirement). This is similar to my workpress website. --->
 
 ### Stage 4: Data Analysis and Reflection
 This was one of the most satisfying parts, since I got to see what my work led up too. Here is the [document wth all the ratings and discoveries.](https://docs.google.com/document/d/1NjEqHuQYcl0TMbEYAHc3ou6tzz3M0nZt3ySZ__QgqQI/edit?tab=t.0)
@@ -135,7 +135,7 @@ This was one of the most satisfying parts, since I got to see what my work led u
 
 One major challenge I had was encouraging users to complete the review. While many people viewed the games, only a small number chose to participate in the review or complete the experience. Additionally, distributing the games across multiple platforms took way longer than expected, mostly because each platform (including Reddit communities) often required unique posting formats and guidelines.
 
-<!--- All the information after this point is new--->
+<!--- All the information after this point is new. --->
 
 ### 2. Balancing the Serious vs. Entertainment Elements of the Games
 
@@ -161,7 +161,8 @@ One aspect I really enjoy in many games is the use of 3D environments, and I als
 <sub> (Image of Game 2 Prototype, created by Base44. https://base44.com/) </sub>
 </p>
 
-<!--- Description, Link, and Image (Image/Links & Citations Requirement) --->
+<!--- Description, Link, and Image (Image/Links & Citations Requirement). --->
+
 # Project Discoveries and Results
 
 [Click Here to see the overall results of the games and discoveries document](https://docs.google.com/document/d/1NjEqHuQYcl0TMbEYAHc3ou6tzz3M0nZt3ySZ__QgqQI/edit?usp=sharing).
@@ -191,7 +192,7 @@ In terms of how the study went, I discovered three things:
 ### 1. Game 1 results indicate that external factors can create stress, which in turn impacts short-term memory.
 In Game 1, the average memory score was 3.125/5, suggesting that participants didn’t have great memory during the game. Users most likely linked this to the boss character, since 75% of participants specifically stated that the boss made it harder for them to remember the passwords, and it was the primary distraction in the game. However, it was noted by a couple users had glitches in the game which could have influenced these results. These comments are in the [overall results of the games and discoveries document](https://docs.google.com/document/d/1NjEqHuQYcl0TMbEYAHc3ou6tzz3M0nZt3ySZ__QgqQI/edit?usp=sharing).
 
-<!--- Another hyperlinked link above, and a list beldow (Links & Citations/Styling Requirement) --->
+<!--- Another hyperlinked link above, and a list below (Links & Citations/Styling Requirement). --->
 
 ### 2. Having distractions makes tasks more difficult, which leads people to perform better or worse, similar to a fight or flight situation.
 The results clearly show that the games did the job of creating proper distractions which made the tasks more difficult:
@@ -226,7 +227,7 @@ While building my games, I had some disturbing, almost demonic-like images happe
 <sub>(One of the creepy prototypes from Game 3, created by Base44. https://base44.com/) </sub>
 </p>
 
-<!--- Description, Link, and Image (Image/Links & Citations Requirement) --->
+<!--- Description, Link, and Image (Image/Links & Citations Requirement). --->
 
 Overall, throughout this project I gained organizational skills and developed better understand of the relationship between individuals work and home-life, this was a great experience for me.
 
