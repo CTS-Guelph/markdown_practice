@@ -14,6 +14,10 @@ Status: hidden
 
 ## Post One: CBS Secrect Girls School Letters
 
+![Image of school girls in secrect classroom in Afghanistan](submissions/RyannB-fig1.webp)
+*Figure 1. Afghan girls gather in a secret school. Rob Taylor / CBS News
+$.*
+
 This CBS article, published on September 10th, contains multiple different digital mediums to portray the story. For this blog I will be focusing on the digitally uploaded letters and the video element. This article focuses on a secret school in Kabul, Afghanistan, and shares the stories of the girls who attend it. Schools like these exists because girls in Afghanistan are currently banned from formal education beyond the sixth grade under Taliban rule. The letters included in this article were shared with the CBS News team by students who wanted to share their stories with the public.
 
 Having the original letters embedded digitally into the article as well as the translated version is deeply impactful. The digital format allows the letters to be shared with a much larger audience than physical letters would be able to reach. It also allows people who cannot read the original language to understand the messages through translation. This shows one of the important affordances of digital storytelling which is the ability to combine different forms of information and make them accessible to a larger audience. While a journalist’s description of a situation can be impactful, hearing directly from the girls effected is much different and more profound.
