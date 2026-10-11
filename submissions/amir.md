@@ -12,6 +12,7 @@ Status: hidden
 ## An infographic arguing how a rising misunderstanding of algorithms perpetuates misperceptions of AI capabilities by analyzing the definition of an algorithm, and exploring the rebranding of numerous algorithms into an “AI assistant” due to rising media and marketing influences.
 ### By Amir Benkelai
 
+![Infographic designed like a timeline explaining the difference between algorithms and AI systems](images/infographic1.png)
 
 This infographic was inspired by the timeline style except that it lacks specific dates because the timeline element is used here as a graphical way to neatly present the argument, hence why there is an arrow at the end and a beginning tip.
 
