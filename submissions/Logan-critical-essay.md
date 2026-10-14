@@ -9,7 +9,15 @@ Abstract: Social media continues to grow into society and into the lives of yout
 Bio: Rebecca Logan is an undergraduate student at the University of Guelph studying Culture and Technology Studies and Sociology. She is interested in how technology shapes people and society, how society changes over time, and how we learn to navigate an increasingly digital world. Outside of school, she enjoys spending time with friends and family, travelling, and staying active.
 Status: hidden
 ---
+<!-- METADATA: checked the required metadata fields as per the assignment instructions. -->
 
+<!-- REVISION: adapted my original first-year critical/web essay for Markdown publication, revised the abstract and author biography, and formatted the article for the journal. -->
+
+<!-- REVISION: restored the bibliography from the original essay and formatted the references for Markdown publication. -->
+
+<!--Revised: Slightly updated my essay a bit as it will not look as it did with certain images and didn't include my reflection from this past assignment, so this could be maybe be used for publication. -->
+
+<!--Revised: Include my citation coming from my portfolio as that's where the orginal assignment is from.-->
 ## The Digital Self vs. The Actual Self
 
 The self is you, it is all the psychological and physical features that come together to create your identity (Attrill-Smith, 2018). The self identity can be described as the set of qualities and characteristics that gives a person their own originality especially within a social context. The thing is, a person can have multiple self identities especially when using social media. With this it can be very hard for youth to get a grasp on who they are as they're at the primary stage of developing their own self identity. Two main selves come into play here:
@@ -22,7 +30,7 @@ A huge key feature within the usage of social media is the digital self. The dig
 
 The actual self represents who we really are in any situation at any given time (Attrill-Smith, 2018). This is the real you, the person you are now and the part of you people see when you have face to face interactions in the "real world." Some people claim to not know who they truly are or who they inspire to be and sometimes attempt to be people they aren't, but you cannot change your actual self. Yes people do change over time or try to but your actual self is who you are in any given moment whether you change or not. It can especially be hard for youth to know their actual self as they are still in the midst of developing their own selves.
 
-### The point is
+### The point is...
 
 Developing a self identity can be extremely hard, largely because we are now constantly throwing the perception of our self online for everyone to see (Beuken, 2016), and for youth it can be hard to be in the midst of the perception of the digital self and the actual self since they are constantly trying to discover who they are in the world. As said, the digital self is mainly brought from our ought and ideal self which as we know is not our actual self, this can create youth to try and become things they are not. Youth trying to shape their identity by things they've seen on social media is only prolonging their ability to truly understand themselves (Beuken, 2016). It is already hard enough for youth to understand themselves when going through hormonal stages and making way through different friendships and relationships, whether online or in person. We communicate differently online then we do in person which is one of the main gaps between the digital and actual self. It can be confusing for youth as they are struggling to know who they are through these different perceptions and interactions of online vs offline and can create a confused mental state of the self. Additionally, the more you interact with others the more you are able to gain a sense of self, but with youth constantly interacting through social platforms they create their sense of self through online interactions as their digital self. Since the development of the self is core in youth stages and you need vast amounts of interactions to create the self having less face to face interactions can cause youth to have problems with their sense of self, which is certainly affecting their mental well being. The digital and actual self are huge aspects when it comes to understanding who we are and it can be hard for almost anyone to get a grasp between the two, especially youth.
 
@@ -74,5 +82,3 @@ Understanding the Self—The Digital Self. (n.d.). [Studocu](https://www.studocu
 Institute, C. M. (2023, August 10). How Using Social Media Affects Teenagers. Child Mind Institute. [https://childmind.org/article/how-using-social-media-affects-teenagers/](https://childmind.org/article/how-using-social-media-affects-teenagers/)
 
 Government of Canada. (2021, March 24). Canadians’ Assessments of Social Media in Their Lives. Statistics Canada. [https://www150.statcan.gc.ca/n1/pub/36-28-0001/2021003/article/00004-eng.htm](https://www150.statcan.gc.ca/n1/pub/36-28-0001/2021003/article/00004-eng.htm)
-
-<!-- REVISION: restored the bibliography from the original essay and formatted the references for Markdown publication. -->
