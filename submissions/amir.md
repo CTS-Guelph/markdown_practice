@@ -29,9 +29,7 @@ In terms of information, it had to be rather condensed, in order to fit into the
 
 Last, this infographic was a great application of previous design principles, but also newly learnt knowledge of how to make data visualizations work. Having to pick out specific information, decide what is and isn’t included, which graphical palettes work and don’t work, and varying ratios, all provided greater understanding of how interactions with visualizations like infographics function. As well, there was new learning of how [algorithms](https://en.wikipedia.org/wiki/Algorithm) <!--This hyperlink does not exist in the original. A new addition to meet the requirements of the assignment.--> have shifted over the years, into the new paint label “[AI](https://en.wikipedia.org/wiki/Artificial_intelligence)” <!--This hyperlink does not exist in the original. A new addition to meet the requirements of the assignment.-->.
 
-## Footnotes <!--The lack of index numbers in the text is because the citations below in Works Cited are for the infographic's content, which was not changed for the assignment. The source on Clippy is used to test footnotes function. I realised too late I should have chosen a different assignment to turn into Markdown for this assignment.-->
-
-[^1]: Cassidy, ‘The Twisted Life of Clippy’.
+[^1]: Cassidy, ‘The Twisted Life of Clippy’. <!--The lack of index numbers in the text is because the citations below in Works Cited are for the infographic's content, which was not changed for the assignment. The source on Clippy is used to test footnotes function. I realised too late I should have chosen a different assignment to turn into Markdown for this assignment.-->
 
 ## Works Cited <!--Styling the header-->
 
