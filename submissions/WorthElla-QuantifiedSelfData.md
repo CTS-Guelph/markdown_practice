@@ -11,6 +11,7 @@ Status: hidden
 ## Quantified Self-Data Project
 
 
+![Quantified Self-Data Image](images/ella-fig1.webp.webp)
 
 After spending a week learning about my commodified data on Instagram, I’ve never felt more seen - and more ignored. For my creative project, I decided to take screenshots of every ad I was shown on Instagram over the period of a week. I took all of these ads and made them into one big collage in the form of a self-portrait, which in many ways represents who I am from the perspective of Instagram. This jumble of ads represents what I am to social platforms like Instagram and its parent company, Meta. From their perspective, I am a source of data before I am a human. My humanity and identity are wrapped up in calculated information about who they think I am and what they think I want. My clicks and prolonged glances are used to piece together my identity. The resulting advertisements they show me are an absolute quantification of what they value as important about me - how I can best engage with their platform and make them money.
 
