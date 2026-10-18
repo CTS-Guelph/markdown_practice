@@ -13,7 +13,9 @@ Status: Hidden
 # Analyzing Digital Stories: Coming Out Simulator
 
 
-![Image Depicts intro to interactive story, featuring fictional version of creator Nicky Case, sipping coffee at Starbucks](images/bergen-thumbnail.png)
+![Image Depicts intro to interactive story, featuring fictional version of creator Nicky Case, sipping coffee at Starbucks](images/bergen-thumbnail.webp)
+
+<!-- REVISION: Updated file type for intro image from PNG to WEBP. -->
 
 <p style="text-align:center;">Welcome back to the café! It’s been a little while, hasn’t it? ☕</p>
 
