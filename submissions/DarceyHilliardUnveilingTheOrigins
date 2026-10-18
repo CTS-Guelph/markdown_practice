@@ -2,30 +2,79 @@
 Title: "Unveiling the Origins: Raw Materials for Lithium-Ion Batteries"
 Author: Darcey Hilliard
 Date: 2026-10-18
-Citation: 'Hilliard, Darcey. "Unveiling the Origins: Raw Materials for Lithium-Ion Batteries." CTRL+ALT+DH, 2026.'
+Citation: 'Hilliard, Darcey. "Unveiling the Origins: Raw Materials for Lithium-Ion Batteries." *CTRL+ALT+DH*, no.4 (2026).'
 Tags: bicycles, digital storytelling, geography, mapping, sustainability
 Abstract/Summary: 'Originally developed for a first-year assignment in CTS 2000 at the University of Guelph, "Unveiling the Origins: Raw Materials for Lithium-Ion Batteries" is an interactive StoryMapJS exploring the geographical origins of four critical materials used in lithium-ion batteries: lithium, cobalt, graphite, and manganese.'
+Bio: Darcey Hilliard is an undergraduate at the University of Guelph.
 Status: Hidden
 ---
 
-# Unveiling the Origins: Raw Materials for Lithium-Ion Batteries
-
+# **Unveiling the Origins: Raw Materials for Lithium-Ion Batteries** 
 
 ## Abstract
 
-Originally developed for a first-year assignment in CTS 2000 at the University of Guelph, Unveiling the Origins: Raw Materials for Lithium-Ion Batteries is an interactive [StoryMapJS](https://storymap.knightlab.com/) exploring the geographical origins of four critical materials used in lithium-ion batteries:
+Originally developed for a first-year assignment in CTS 2000 at the University of Guelph, *Unveiling the Origins: Raw Materials for Lithium-Ion Batteries* is an interactive [StoryMapJS](https://storymap.knightlab.com/) exploring the geographical origins of four critical materials used in lithium-ion batteries:
 
-| Lithium | Cobalt | Graphite | Manganese |
-|---|---|---|---|
+| Materials explored |
+| :---- |
+| Lithium | 
+| Cobalt | 
+| Graphite | 
+| Manganese |
+
+The assignment asked us to select a technology and explore it through a series of projects, including a map. I chose e-bikes, focusing specifically on the materials required to produce their batteries. What began as an attempt to trace the complex life cycle of lithium-ion batteries gradually developed into a more focused exploration of where four key materials are extracted, how they are sourced, and the human and environmental implications of their production.
+
+Through a series of geographical locations, the map begins to move beyond identifying countries of extraction to highlight particular mining sites and the experiences of surrounding communities. In doing so, it invites readers to consider the often-overlooked origins of a technology typically associated with convenience and environmental “progress.”
+
+My original brief reflection on the research and map-making process can be found on my [blog](https://darceyehilliard.wixsite.com/my-site-2/post/unveiling-the-origins-raw-materials-for-lithium-ion-batteries).
 
 
 ### How to Engage with This Project
 
+The interactive [StoryMapJS](https://storymap.knightlab.com/) is embedded below. Readers can navigate through the locations using the arrows or explore the map independently by zooming and moving between geographical areas. Each location is accompanied by text introducing a particular material, potentially highlighting the extraction process or the experiences of communities connected to its extraction/production.
+
+You can also: 
+
+- [Open the StoryMapJS in a separate window](https://uploads.knightlab.com/storymapjs/0e90b735f66ec2d9e7e3c7964f4266b6/lithium-ion-batteries-raw-materials-and-where-they-come-from/index.html).
+- [View the original project and accompanying reflection](https://darceyehilliard.wixsite.com/my-site-2/post/unveiling-the-origins-raw-materials-for-lithium-ion-batteries).
+
 
 ## Author's Note
 
+At first glance, e-bikes might seem somewhat removed from the [theme](https://cts-guelph.github.io/ctrl-alt-dh/cfp-2026.html) of digital anxieties, which we commonly associate with AI, surveillance, and our increasingly online lives. However, I think this project speaks to another form of technological unease: the difficulty of fully understanding the systems, materials, labour, and human experiences that make our everyday technologies possible.
+
+E-bikes offer a useful example of this contradiction. They can provide more accessible transportation, encourage an offline lifestyle, and offer environmental benefits—a seemingly “green” technology. Yet their production, like that of many technologies, depends on global supply chains with significant social and environmental consequences. The benefits of a technology are not necessarily experienced equally by those who use it and those involved in creating it.
+
+One of the challenges I encountered while developing this map was deciding what story to tell. The life cycle of a lithium-ion battery is enormously complex and, in many ways, hidden from view. I gradually narrowed my focus to four materials, their primary extraction locations, and the experiences of people living and working in those regions. Even then, finding publicly accessible information about specific mining sites and their surrounding communities, rather than simply identifying countries of extraction, proved difficult. This process reinforced how easily the origins of our technologies can become obscured. We often encounter them as finished products, removed from the geographical and human contexts that make their existence possible.
+
+This brings us to some important questions: Who benefits from technological progress? Who bears its costs? And who gets to participate in it?
+
+I think navigating digital anxieties, and technological anxieties more broadly, requires us to look beyond our immediate interactions with technology. Greater awareness of the systems behind our technologies may both alleviate and exacerbate our anxieties: understanding them can help us make more informed choices, but it can also reveal uncomfortable realities that are difficult to reconcile with our everyday reliance on them. Nevertheless, I think it is important that we make space for the human experiences that might otherwise remain overlooked.
+
+This project does not attempt to resolve these contradictions, nor does it suggest that the benefits of e-bikes are automatically negated by the challenges associated with their production. Rather, I hope it encourages readers to consider the complicated relationships we have with technologies, particularly those we have grown so accustomed to using, by tracing them back to their origins.
+
+## Map
+
+<!-- map to be embedded next commit -->
 
 ## About the Author
 
+Darcey (she/her) is an undergraduate student at the University of Guelph, majoring in Culture and Technology Studies. She originally created this project during her first year of study. 
 
 ## Bibliography
+
+Clarke, Gerry M. “LITHIUM-ION BATTERIES: Raw Material Considerations.” Chemical Engineering Progress 109, no. 10 (October 2013): 44–52, 35. https://www.proquest.com/magazines/lithium-io n-batteries-raw-material-considerations/docview/1449500869/se-2?accountid=11233.
+
+Dlamini, Wendy W., et al. “Manganese exposure, parkinsonian signs, and quality of life in South African mine workers.” American Journal of Industrial Medicine 63, no. 1 (2020): 36–43. https://doi.org/10.1002/ajim.23060. 				
+
+Engels, Philipp, et al. “Life Cycle Assessment of Natural Graphite Production for Lithium-Ion Battery Anodes Based on Industrial Primary Data.” Journal of Cleaner Production 336 (2022): 130474. https://doi.org/10.1016/j.jclepro.2022.130474.			
+
+Igogo, Tsisilile, Debra Sandor, Ahmad Mayyas, and Jill Engel-Cox. Supply Chain of Raw Materials Used in the Manufacturing of Light-Duty Vehicle Lithium-Ion Batteries. Technical Report NREL/TP-6A20-73374. Golden, CO: National Renewable Energy Laboratory, 2019. https://docs.nlr.gov/docs/fy19osti/73374.pdf.				
+
+Jerez, Bárbara, et al. “Lithium extractivism and water injustices in the Salar de Atacama, Chile: The colonial shadow of green electromobility.” Political Geography 87 (2021): 102382. https://doi.org/10.1016/j.polgeo.2021.102382.					
+
+Maconachie, Roy. “Congo-Kinshasa: 'We Miners Die a Lot.' Appalling Conditions and Poverty Wages – The Lives of Cobalt Miners in the DRC.” allAfrica.com, January 30, 2024, https://go-gale-com.subzero.lib.uoguelph.ca/ps/i.do?p=AONE&u=guel77241&id=GALE% 7CA780996924&v=2.1&it=r&aty=ip.					
+
+Rajagopalan, Kandeeban, et al. “Examining the Economic and Energy Aspects of Manganese Oxide in Li-Ion Batteries.” Materials Circular Economy 4 (2022) no. 22. https://doi.org/10.1007/s42824-022-00064-4.			
+
+Vineesh, T. C., et al. “Manganese nodule morphology as indicators for oceanic processes in the Central Indian Basin.” International Geology Review 51, no. 1 (2009): 27–44. https://doi.org/10.1080/00206810802622773
