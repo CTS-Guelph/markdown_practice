@@ -4,7 +4,7 @@ Author: Darcey Hilliard
 Date: 2026-10-18
 Citation: 'Hilliard, Darcey. "Unveiling the Origins: Raw Materials for Lithium-Ion Batteries." *CTRL+ALT+DH*, no.4 (2026).'
 Tags: bicycles, digital storytelling, geography, mapping, sustainability
-Abstract/Summary: 'Originally developed for a first-year assignment in CTS 2000 at the University of Guelph, "Unveiling the Origins: Raw Materials for Lithium-Ion Batteries" is an interactive StoryMapJS exploring the geographical origins of four critical materials used in lithium-ion batteries: lithium, cobalt, graphite, and manganese.'
+Abstract: 'Originally developed for a first-year assignment in CTS 2000 at the University of Guelph, "Unveiling the Origins: Raw Materials for Lithium-Ion Batteries" is an interactive StoryMapJS exploring the geographical origins of four critical materials used in lithium-ion batteries: lithium, cobalt, graphite, and manganese.'
 Bio: Darcey Hilliard is an undergraduate at the University of Guelph.
 Status: Hidden
 ---
@@ -65,7 +65,16 @@ This project does not attempt to resolve these contradictions, nor does it sugge
 
 *Note: sources are cited within the StoryMapJS using Chicago-style footnoes. See bibliography below.*
 
-<!-- map to be embedded next commit -->
+<!-- Embedded interactive StoryMapJS: readers can also access the standalone version using the link above -->
+
+<iframe
+title="Unveiling the Origins: Raw Materials for Lithium-Ion Batteries"
+src="https://uploads.knightlab.com/storymapjs/0e90b735f66ec2d9e7e3c7964f4266b6/lithium-ion-batteries-raw-materials-and-where-they-come-from/index.html" 
+style="border: 0;"
+width="100%"
+height="800"
+allowfullscreen>
+</iframe>
 
 ## About the Author
 
