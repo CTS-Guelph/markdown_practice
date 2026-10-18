@@ -13,7 +13,7 @@ Status: Hidden
 
 ## Abstract
 
-Originally developed for a first-year assignment in CTS 2000 at the University of Guelph, *Unveiling the Origins: Raw Materials for Lithium-Ion Batteries* is an interactive [StoryMapJS](https://storymap.knightlab.com/) exploring the geographical origins of four critical materials used in lithium-ion batteries:
+Originally developed for a first-year assignment in CTS 2000 at the University of Guelph, *Unveiling the Origins: Raw Materials for Lithium-Ion Batteries* is an interactive [StoryMapJS](https://storymap.knightlab.com/) exploring the geographical origins of four critical materials used in lithium-ion batteries:[^1]
 
 | Materials explored |
 | :---- |
@@ -28,6 +28,8 @@ Through a series of geographical locations, the map begins to move beyond identi
 
 My original brief reflection on the research and map-making process can be found on my [blog](https://darceyehilliard.wixsite.com/my-site-2/post/unveiling-the-origins-raw-materials-for-lithium-ion-batteries).
 
+
+
 ![Numerous round, grey manganese nodules covering a sandy seabed in the Indian Ocean.](images/HilliardFig1ManganeseNodules.webp)
 
 <small><em>Maganese nodules on the seabed of the Indian Ocean. Photo by Abramax, via [Wikimedia Commons](https://en.wikipedia.org/wiki/Manganese_nodule#/media/File:Konkrecje_na_dnie_oceanu.JPG).</em></small>
@@ -41,6 +43,9 @@ You can also:
 - [Open the StoryMapJS in a separate window](https://uploads.knightlab.com/storymapjs/0e90b735f66ec2d9e7e3c7964f4266b6/lithium-ion-batteries-raw-materials-and-where-they-come-from/index.html).
 - [View the original project and accompanying reflection](https://darceyehilliard.wixsite.com/my-site-2/post/unveiling-the-origins-raw-materials-for-lithium-ion-batteries).
 
+### How to Cite
+
+Hilliard, Darcey. "Unveiling the Origins: Raw Materials for Lithium-Ion Batteries." *CTRL+ALT+DH*, no.4 (2026).
 
 ## Author's Note
 
@@ -58,11 +63,13 @@ This project does not attempt to resolve these contradictions, nor does it sugge
 
 ## Map
 
+*Note: sources are cited within the StoryMapJS using Chicago-style footnoes. See bibliography below.*
+
 <!-- map to be embedded next commit -->
 
 ## About the Author
 
-Darcey (she/her) is an undergraduate student at the University of Guelph, majoring in Culture and Technology Studies. She originally created this project during her first year of study. 
+Darcey (she/her) is an undergraduate student at the University of Guelph, majoring in Culture and Technology Studies. She originally created this project during her first year of study.
 
 ## Bibliography
 
@@ -81,3 +88,5 @@ Maconachie, Roy. “Congo-Kinshasa: 'We Miners Die a Lot.' Appalling Conditions 
 Rajagopalan, Kandeeban, et al. “Examining the Economic and Energy Aspects of Manganese Oxide in Li-Ion Batteries.” Materials Circular Economy 4 (2022) no. 22. https://doi.org/10.1007/s42824-022-00064-4.			
 
 Vineesh, T. C., et al. “Manganese nodule morphology as indicators for oceanic processes in the Central Indian Basin.” International Geology Review 51, no. 1 (2009): 27–44. https://doi.org/10.1080/00206810802622773
+
+[^1]: Igogo et al., *Supply Chain of Raw Materials*, 2019.
