@@ -24,6 +24,14 @@ The reason that was given by the government was that they were trying to protect
 
 In many of these documents including the 1943 list of properties sold, the owners of these properties and personal belongings were often labeled as Japanese, their names were hardly mentioned. These families were not considered in the selling of their properties, the listings where distinguished by their lot number and price. Many of these houses were listed at a significantly lower cost than they should have been, including one in Vancouver that was listed at $1,500, when it was worth must more than that. This shows how the government treated these people, and how little they thought of them. 
 
+|What the records show |What the records left out |
+| --- | --- |
+|Property Lot Numbers |Personal stories from the Families|
+|Prices of homes and belongings |How they were affected having lost their homes|
+|Lists of bank accounts and businesses |Their financial struggles after being displaced|
+|Government documents and paper work |If the Japanese Canadian were consenting|
+|Property sale and financial records |the long term effect on the families|
+
 This database focuses on the profits the government made and the numbers aspect of it all. The people that were affected and the harm that these actions caused are not mentioned in any of the documents. The way this database was set up shows how little the government cared about these people and that their focus was on the money and the control that they would gain from this injustice. 
 
 The *Landscape of Injustice Archives* has been trying to fix some of the harm by adding some context to the document such as personal stories and maps from the victims or family of the victims. One of the maps shows were the Japanese Canadians used to live, how many homes were taken and how many lives were uprooted. This Map is called the **Map of Dispossession**. These additions help us get a better grasp at the number of lives that were affected. 
