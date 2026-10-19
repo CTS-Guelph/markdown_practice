@@ -3,10 +3,12 @@ Title: Streaming the Self Spotify and the Algorithmic Mirror
 Date: 2026-10-06
 Authors: Grace Barnabe
 Citation: Barnabe, Grace. "Streaming the Self Spotify and the Algorithmic Mirror." CTRL+ALT+DH, 2026. 
-Tags: ai, algorithms, spotify, music
-Abstract: Markdown article prep
+Tags: algorithms, spotify, music, surveillant assemblage
+Abstract: As self-tracking becomes increasingly common, it extends into areas of everyday life we may not have previously considered, including our music-listening habits. This article explores how Spotify transforms listening into a form of self-tracking, offering users new ways to understand their musical identities while collecting data that can be used to predict and influence their behaviour. Through the lens of the Quantified Self, surveillance capitalism, and the surveillant assemblage, it examines the tension between digital self-discovery and algorithmic control. By exploring how Spotify both reflects and shapes our preferences, this article considers the anxieties that emerge when the tools we use to understand ourselves also influence who we become. 
 Status: hidden 
 ---
+
+<!-- For the assignment I edited the article to remove some repetition and fix the flow. -->
 
 # Streaming the Self: Spotify and the Algorithmic Mirror
 
@@ -24,15 +26,41 @@ To understand how Spotify functions as a form of self-tracking, it is useful to 
 
 Spotify’s Daylist takes this process a step further. Unlike Wrapped, which looks back at listening habits over a long period, Daylist generates changing playlists based on users’ listening patterns. These playlists shift throughout the day, mirroring how Spotify perceives your evolving moods and energy levels. Daylists are more than just clever recommendations; they’re a reflection of how the platform algorithmically constructs and predicts your emotional rhythms, reinforcing Spotify’s role as both observer and author of your digital identity.
 
+<!-- None of my images had alt text previously so they are all new -->
+
+<figure style= "text-align: center;">
+    <img src="images/GraceImages/daylistIndieChill.webp" alt="The title of a Spotify Daylist reads “indie chill bedroom pop Tuesday morning,” against a blended blue and yellow background."> </img>
+</figure>
+
+<figure style= "text-align: center;">
+    <img src="images/GraceImages/daylistIndieMellow.webp" alt="The title of a Spotify Daylist reads “film feels indie mellow monday evening,” against a blended purple and pink background."> </img>
+    <figcaption> Two example Daylist titles. </figcaption> 
+</figure>
+
 In doing so, it nudges users toward certain patterns, reinforces habits, and constructs what might be called an algorithmic identity. Just as an athlete tweaks their routine based on performance metrics, we can reflect on our listening data to gain insight into our moods, behaviors, and even aspects of our personality. Unlike traditional self-tracking tools that focus on physical metrics, Spotify turns everyday listening into a form of self-tracking that can offer insight into our emotional and cultural selves. By revealing patterns in our tastes and behaviours, Spotify can help us better understand who we are. At the same time, however, its predictive curation influences the very identity it appears to reflect.
 
+<figure style= "text-align: center;">
+    <img src="images/GraceImages/SpotifyWrapped.webp" alt= " Three screens from Spotify Wrapped showing the title screen, the user's peak listening month, and their listening personality, identified as “Shapeshifter.”"> </img>
+    <figcaption> A look at the 2023 Spotify Wrapped </figcaption> 
+</figure>
+
 For many, features like Spotify Wrapped offer more than mere novelty—they craft a personal narrative. Users dive into their “year in music” to reminisce, share, and reimagine facets of their identity, presenting themselves to others through the lens of their listening habits. In doing so, Spotify fosters a form of digital self-expression and self-recognition, transforming listening into a journey of self-discovery. Yet this sense of empowerment is a paradox. While Spotify positions itself as a mirror reflecting who we are, it also functions as a map, steering us toward pre-curated paths designed to maximize engagement and profit. The personal narrative it creates is carefully constructed through data-driven algorithms that shape our preferences even as they appear to reflect them. This influence extends beyond Wrapped and into Spotify’s everyday interface. Autoplay encourages continuous listening, while personalized playlists like Discover Weekly and Daily Mixes dominate the homepage, guiding users toward music selected on the basis of their existing habits. Rather than simply reflecting individual tastes, these design choices can reinforce familiar listening patterns under the guise of personalization, making further exploration less likely.
+
+<figure style= "text-align: center;">
+    <img src="images/GraceImages/dailyMixes.webp" alt= " Six Spotify Daily Mix playlist covers in a row, numbered 01 through 06. Each cover shows a colorful number badge and the label “Daily Mix.” Artists listed below: Mix 1 features Clairo, Still Woozy, and Vansire; Mix 2 features Billie Eilish, Katy Perry, and Maroon 5; Mix 3 features glaive, Oklou, and Charli xcx; Mix 4 features TV Girl, Mac DeMarco, and Lucy Dacus; Mix 5 features Tyler, The Creator, Kanye West, and Saba; Mix 6 features SZA, Destiny’s Child, and USHER."> </img>
+    <figcaption> My daily mixes (April 8th, 2025) </figcaption> 
+</figure>
 
 ## The Soundtrack of Surveillance: How Spotify Commodifies Data and Shapes Identity
 
 While features like Wrapped and personalized playlists give Spotify the appearance of intimacy and self-reflection, they also raise a broader question: what happens to the data behind these personalized experiences? Shoshana Zuboff’s concept of surveillance capitalism offers a useful framework for examining this question. According to Zuboff, digital platforms do not simply collect behavioral data to improve user experiences; they can also turn that data into a source of economic value. From this perspective, our listening habits become part of a broader system in which personal information is collected, analyzed, and used for commercial purposes, often in ways users might not fully understand.
  
 Zuboff’s concept of *behavioral surplus* refers to behavioural data collected beyond what is necessary to provide a service, which can be used to develop predictions about people’s actions. Applied to Spotify, this framework invites us to consider how everyday interactions - including searches, skips, replays, and playlist creation - can provide information about listeners’ preferences. While this data helps generate personalized recommendations, it also feeds into Spotify’s algorithms for advertising, market research, and even partnerships with record labels. 
+
+<figure style= "text-align: center;">
+    <img src="images/GraceImages/spotifyAd.webp" alt= " An advertisment for Alison Krauss & Union Station's new album arcadia featured at the top of the spotify homepage."> </img>
+    <figcaption> The top of my homepage featuring an ad. </figcaption> 
+</figure>
 
 The significance of these practices lies in the relationship between personalization and profit. The same information that helps Spotify recommend music can also help the company create more relevant promotional experiences and encourage further engagement. However, it is important to distinguish between the collection of listening data, its use for recommendations, and the specific commercial uses of that information. These processes are related, but they are not necessarily identical.
 Beyond collecting information about past behaviour, Spotify's recommendation systems also attempt to anticipate what listeners might want to hear next. This predictive imperative raises questions about how platforms influence future choices. As Hua Hsu observes in his discussion of Spotify, the platform's recommendation function is central to its approach to listening, encouraging music to accompany an increasingly large portion of everyday life.
