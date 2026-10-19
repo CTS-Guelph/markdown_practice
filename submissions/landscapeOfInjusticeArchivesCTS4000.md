@@ -12,7 +12,13 @@
 
 The historical database that I have chosen is the *Landscape of Injustice Archives*, created by the University of Victoria. This data base contains thousands of records about Japanese Canadian history during World War Two, and how over 22,000 Japanese Canadians were forced out of their homes. Their belongings were taken and sold without their consent, these items included land, homes and personal belongings; they were then sent to internment camps. This violent and racist work was executed in a way that made it appear legal and organized. The government had multiple items that made this forced displacement look justified such as documents and forms. This report will look at how the government went about collecting this data, what they left out as well as how it has been researched today. Data is very important for recording event, but it can also cause harm especially when power imbalances are involved. 
 
-Most of the documents in the *Landscape of Injustice Archives* were created between 1942 and 1949 by a government called the *Custodian of Enemy Property*. Some of these documents where lists of homes, bank accounts, boats and businesses that were taken from the Japanese Canadian when they were forcibly removed. Most of these items were sold at a very low cost by the government. None of the Japanese Canadians were asked for permission and many were not paid back fairly for the items. 
+Most of the documents in the *Landscape of Injustice Archives* were created between 1942 and 1949 by a government called the *Custodian of Enemy Property*. Some of these documents where lists of:
+- Homes
+- Bank accounts
+- Boats
+- Businesses
+
+all these items were taken from the Japanese Canadian when they were forcibly removed. Most of these items were sold at a very low cost by the government. None of the Japanese Canadians were asked for permission and many were not paid back fairly for the items. 
 
 The reason that was given by the government was that they were trying to protect Canada during the war, but the real reason was to do with racism and profit. This data that was being collected was their way of trying to legitimise the choices that were being made but this was just about taken things away from people because of their race.
 
