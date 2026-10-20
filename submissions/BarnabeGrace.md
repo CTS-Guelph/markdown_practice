@@ -46,7 +46,9 @@ Spotify’s Daylist takes this process a step further. Unlike Wrapped, which loo
     <figcaption> Two example Daylist titles taken from my spotify. </figcaption> 
 </figure>
 
-<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1FbFUFF8oqAyAw?utm_source=generator&si=c7e97804f5bf42fc" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1FbFUFF8oqAyAw" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" allowfullscreen></iframe>
+
 
 In doing so, it nudges users toward certain patterns, reinforces habits, and constructs what might be called an algorithmic identity. Just as an athlete tweaks their routine based on performance metrics, we can reflect on our listening data to gain insight into our moods, behaviors, and even aspects of our personality. Unlike traditional self-tracking tools that focus on physical metrics, Spotify turns everyday listening into a form of self-tracking that can offer insight into our emotional and cultural selves. By revealing patterns in our tastes and behaviours, Spotify can help us better understand who we are. At the same time, however, its predictive curation influences the very identity it appears to reflect.
 
