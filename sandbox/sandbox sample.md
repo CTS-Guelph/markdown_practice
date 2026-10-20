@@ -1,13 +1,11 @@
-title: Susan's Sample Sandbox page
-authors: Susan Brown
-date: 09-29-2026
-category: assignment
-tags: markdown, formatting, article preparation
-template: base.html
+Title: Susan's Sample Sandbox page
+Authors: Susan Brown
+Date: 2026-10-04
+Tags: markdown, formatting, article preparation
 
 # Susan's Sample Sandbox page
 
-This is what I'm providing as a model. But you should do your own thing.
+This is what I'm providing as a basic model. But you should do your own thing.
 
 ---
 
@@ -38,6 +36,6 @@ Nested lists are excellent
 
 And in this class, it's revolving around [*CTRL+ALT+DH*](https://cts-guelph.github.io/ctrl-alt-dh/) 
 
-Now your turn to experiment with Images, Blockquotes, Code blocks, and other Stuff.
+Now your turn to experiment with Images, Blockquotes, and other features. If your work has something like a table in it, look up how to create a table in Markdown. It's pretty easy. 
 
 > **Tip:** Don't forget to consult the submission requirements! And have some fun.
