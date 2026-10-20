@@ -1,10 +1,10 @@
 <!-- Title: Landscape of Injustice Archives 
      Author: Leah Loudon 
      Date: October 4th 2026 
-     Citations: 
-     Tags:
+     Citations: "Landscape of Injustice Archives. Loudon, Leah "
+     Tags: [Digital archives, Japanese Canadian History, World War Two, Digital Humanities ]
      Summary:
-     Bio:
+     Bio: "I'm Leah Loudon, I am a University of Guelph student. My major is culture and technology, I did this assignment for CTS*2000 and I have revised it for my current class CTS*4000"
      status: hidden 
      -->
 
