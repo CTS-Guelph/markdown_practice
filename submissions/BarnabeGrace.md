@@ -3,12 +3,13 @@ Title: Streaming the Self Spotify and the Algorithmic Mirror
 Date: 2026-10-06
 Authors: Grace Barnabe
 Citation: Barnabe, Grace. "Streaming the Self Spotify and the Algorithmic Mirror." CTRL+ALT+DH, 2026. 
-Tags: algorithms, spotify, music, data surviellence
-Abstract: As self-tracking becomes increasingly common, it extends into areas of everyday life we may not have previously considered, including our music-listening habits. This article explores how Spotify transforms listening into a form of self-tracking, offering users new ways to understand their musical identities while collecting data that can be used to predict and influence their behaviour. Through the lens of the Quantified Self, surveillance capitalism, and the surveillant assemblage, it examines the tension between digital self-discovery and algorithmic control. By exploring how Spotify both reflects and shapes our preferences, this article considers the anxieties that emerge when the tools we use to understand ourselves also influence who we become. 
+Tags: algorithms, spotify, music, data surveillance
+Abstract: As self-tracking becomes increasingly common, it extends into areas of everyday life we may not have previously considered, including our music-listening habits. This article explores how Spotify transforms listening into a form of self-tracking, offering users new ways to understand their musical identities while collecting data that can be used to predict and influence their behaviour. Through the lens of the Quantified Self, surveillance capitalism, and the surveillant assemblage, it examines the tension between digital self-discovery and algorithmic control. In response to this year's theme, Navigating Digital Anxieties, it considers the unease that emerges when the tools we use to understand ourselves also influence who we become, and how users might navigate that tension.
+Bio: I'm Grace a fifth year CTS student with a minor in math and computer science. 
 Status: hidden 
 ---
 
-<!-- For the assignment I edited the article to fix grammatical errors, fixed some repetition and changed the flow of the argument. -->
+<!-- For the assignment I edited the entire article to reduce repetition, fix grammatical mistakes and general prose. -->
 
 # Streaming the Self: Spotify and the Algorithmic Mirror
 
@@ -27,7 +28,8 @@ To understand how Spotify functions as a form of self-tracking, it is useful to 
 <!-- Added in a list to break up the paragraph and meet requirements for assignment -->
 
 *Now you may ask, how exactly does Spotify act as a self-tracking app?* Spotify makes this process visible through features such as: 
-- _Spotify Wrapped:_ Summarizing you listening habits over the past year, highlighting favourite artists, songs, and genres.
+
+- _Spotify Wrapped:_ Summarizing your listening habits over the past year, highlighting favourite artists, songs, and genres.
 - _On Repeat and Your Top Songs:_ Reveal the music users return to most frequently. 
 - _Daylist:_ Generates changing playlists based on listening patterns, associating music with different times of day and listening contexts. 
 
@@ -39,16 +41,13 @@ Spotify’s Daylist takes this process a step further. Unlike Wrapped, which loo
 
 <figure style= "text-align: center;">
     <img src="images/GraceImages/barnabeDaylistIndieChill.webp" alt="The title of a Spotify Daylist reads “indie chill bedroom pop Tuesday morning,” against a blended blue and yellow background."> </img>
+    <figcaption> An example of a Daylist title taken from Spotify. </figcaption> 
 </figure>
 
 <figure style= "text-align: center;">
     <img src="images/GraceImages/barnabeDaylistIndieMellow.webp" alt="The title of a Spotify Daylist reads “film feels indie mellow monday evening,” against a blended purple and pink background."> </img>
-    <figcaption> Two example Daylist titles taken from my spotify. </figcaption> 
+    <figcaption> Another example of Daylist title taken from Spotify. </figcaption> 
 </figure>
-
-
-<iframe style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1FbFUFF8oqAyAw" width="100%" height="352" frameborder="0" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy" allowfullscreen></iframe>
-
 
 In doing so, it nudges users toward certain patterns, reinforces habits, and constructs what might be called an algorithmic identity. Just as an athlete tweaks their routine based on performance metrics, we can reflect on our listening data to gain insight into our moods, behaviors, and even aspects of our personality. Unlike traditional self-tracking tools that focus on physical metrics, Spotify turns everyday listening into a form of self-tracking that can offer insight into our emotional and cultural selves. By revealing patterns in our tastes and behaviours, Spotify can help us better understand who we are. At the same time, however, its predictive curation influences the very identity it appears to reflect.
 
@@ -60,7 +59,7 @@ In doing so, it nudges users toward certain patterns, reinforces habits, and con
 For many, features like Spotify Wrapped offer more than mere novelty—they craft a personal narrative. Users dive into their “year in music” to reminisce, share, and reimagine facets of their identity, presenting themselves to others through the lens of their listening habits. In doing so, Spotify fosters a form of digital self-expression and self-recognition, transforming listening into a journey of self-discovery. Yet this sense of empowerment is a paradox. While Spotify positions itself as a mirror reflecting who we are, it also functions as a map, steering us toward pre-curated paths designed to maximize engagement and profit. The personal narrative it creates is carefully constructed through data-driven algorithms that shape our preferences even as they appear to reflect them. This influence extends beyond Wrapped and into Spotify’s everyday interface. Autoplay encourages continuous listening, while personalized playlists like Discover Weekly and Daily Mixes dominate the homepage, guiding users toward music selected on the basis of their existing habits. Rather than simply reflecting individual tastes, these design choices can reinforce familiar listening patterns under the guise of personalization, making further exploration less likely.
 
 <figure style= "text-align: center;">
-    <img src="images/GraceImages/BarnabeDailyMixes.webp" alt= " Six Spotify Daily Mix playlist covers in a row, numbered 01 through 06. Each cover shows a colorful number badge and the label “Daily Mix.” Artists listed below: Mix 1 features Clairo, Still Woozy, and Vansire; Mix 2 features Billie Eilish, Katy Perry, and Maroon 5; Mix 3 features glaive, Oklou, and Charli xcx; Mix 4 features TV Girl, Mac DeMarco, and Lucy Dacus; Mix 5 features Tyler, The Creator, Kanye West, and Saba; Mix 6 features SZA, Destiny’s Child, and USHER."> </img>
+    <img src="images/GraceImages/barnabeDailyMixes.webp" alt= " Six Spotify Daily Mix playlist covers in a row, numbered 01 through 06. Each cover shows a colorful number badge and the label “Daily Mix.” Artists listed below: Mix 1 features Clairo, Still Woozy, and Vansire; Mix 2 features Billie Eilish, Katy Perry, and Maroon 5; Mix 3 features glaive, Oklou, and Charli xcx; Mix 4 features TV Girl, Mac DeMarco, and Lucy Dacus; Mix 5 features Tyler, The Creator, Kanye West, and Saba; Mix 6 features SZA, Destiny’s Child, and USHER."> </img>
     <figcaption> My daily mixes (April 8th, 2025) </figcaption> 
 </figure>
 
@@ -71,7 +70,7 @@ While features like Wrapped and personalized playlists give Spotify the appearan
 Zuboff’s concept of *behavioral surplus* refers to behavioural data collected beyond what is necessary to provide a service, which can be used to develop predictions about people’s actions. Applied to Spotify, this framework invites us to consider how everyday interactions - including searches, skips, replays, and playlist creation - can provide information about listeners’ preferences. While this data helps generate personalized recommendations, it also feeds into Spotify’s algorithms for advertising, market research, and even partnerships with record labels. 
 
 <figure style= "text-align: center;">
-    <img src="images/GraceImages/barnabeSpotifyAd.webp" alt= " An advertisment for Alison Krauss & Union Station's new album arcadia featured at the top of the spotify homepage."> </img>
+    <img src="images/GraceImages/barnabeSpotifyAd.webp" alt= " An advertisement for Alison Krauss & Union Station's new album arcadia featured at the top of the spotify homepage."> </img>
     <figcaption> The top of my homepage featuring an ad. </figcaption> 
 </figure>
 
@@ -89,7 +88,7 @@ The tension between personalization and exploitation lies at the heart of Zuboff
 
 Spotify's predictive ambitions also raise questions about how platforms might interpret emotional states. In 2021, the BBC published an article, *[Spotify Wants to Suggest Songs Based on your Emotions](https://www.bbc.com/news/entertainment-arts-55839655 "Discover how Spotify is exploring emotion-based recommendations, using voice technology to interpret users’ moods and suggest music that reflects how they feel.")*, discussing a patent that Spotify filed to use voice recognition technology to gauge mood and enhance its recommendations. The proposed technology could analyze vocal characteristics, such as tone and cadence, to make inferences about how a person might be feeling and recommend music accordingly. Although the patent does not establish that Spotify implemented this technology, it illustrates the potential expansion of personalized recommendations beyond listening habits to the interpretation of emotional states.
 
-Through features like Discover Weekly, Spotify promises to expand users’ musical horizons, introducing them to niche genres while helping cultivate a sense of individual identity. Yet, this same personalization can lead to what critics call the "algorithmic flattening of taste." In her New Yorker article *[Is There Any Escape From the Spotify Syndrome](https://www.newyorker.com/magazine/2024/12/30/mood-machine-liz-pelly-book-review "Explore how Spotify’s algorithms are changing the way we discover and consume music, prioritizing convenience and passive listening while raising questions about artistic creativity, listener autonomy, and the future of music.")*, [Hua Hsu](https://en.wikipedia.org/wiki/Hua_Hsu "A Wikipedia article discussing Hua Hsu career and early life.") highlights how algorithm-driven curation can create filter bubbles, repeatedly serving users similar ambient playlists, productivity soundtracks, and genre-specific recommendations that narrow rather than broaden musical exposure. This narrowing effect, compounded by Spotify’s increasing focus on mood-based recommendations, risks limiting opportunities for musical discovery and trapping users in a cycle of predictability and emotional reinforcement.
+Through features like Discover Weekly, Spotify promises to expand users’ musical horizons, introducing them to niche genres while helping cultivate a sense of individual identity. Yet, this same personalization can lead to what critics call the "algorithmic flattening of taste." In his New Yorker article *[Is There Any Escape From the Spotify Syndrome](https://www.newyorker.com/magazine/2024/12/30/mood-machine-liz-pelly-book-review "Explore how Spotify’s algorithms are changing the way we discover and consume music, prioritizing convenience and passive listening while raising questions about artistic creativity, listener autonomy, and the future of music.")*, [Hua Hsu](https://en.wikipedia.org/wiki/Hua_Hsu "A Wikipedia article discussing Hua Hsu's career and early life.") highlights how algorithm-driven curation can create filter bubbles, repeatedly serving users similar ambient playlists, productivity soundtracks, and genre-specific recommendations that narrow rather than broaden musical exposure. This narrowing effect, compounded by Spotify’s increasing focus on mood-based recommendations, risks limiting opportunities for musical discovery and trapping users in a cycle of predictability and emotional reinforcement.
 
 This flattening effect may result in a loss of musical diversity as the algorithms prioritize what is familiar and engaging, effectively reinforcing established listening patterns. The system’s constant feedback loop means that our individual tastes are not only shaped by the content we consume, but are also fed back into the platform to refine future predictions and, ultimately, drive profit. In this interplay, identity becomes both an output and an input of the algorithm, leading to a critical question: Are we actively choosing our music, or is it choosing us? This tension underscores the complex role of digital platforms in mediating cultural consumption, where the promise of personalized exploration is inextricably linked to broader mechanisms of surveillance capitalism.
 
@@ -109,11 +108,35 @@ Through the frameworks of surveillance capitalism and Haggerty and Ericson’s s
 
 This is the paradox at the heart of personalized surveillance: we feel seen and understood, even as we are subtly steered; we perform identity through playlists, while our behaviors feed into systems that operate beyond our awareness. In an age where digital platforms mediate so much of our cultural and emotional lives, the line between self-expression and algorithmic influence grows increasingly blurry. As we continue to quantify ourselves through what we consume, we must ask: Are we charting our own paths, or following trails laid by systems that know us better than we know ourselves?
 
-<!-- Edited the citations -->
-### Citations
+<!-- Edited the citations to be Chicago -->
+### Notes:
 
-[^1]: “Know Thyself: Tracking Every Facet of Life, from Sleep to Mood to Pain, 24/7/365.” WIRED, June 22, 2009. [https://www.wired.com/2009/06/lbnp-knowthyself/](https://www.wired.com/2009/06/lbnp-knowthyself/).
-[^2]: Zuboff, Shoshana. The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power. New York: PublicAffairs, 2019.
-[^3]: Hsu, Hua. “Is There Any Escape from the Spotify Syndrome?” The New Yorker, December 23, 2024. [https://www.newyorker.com/magazine/2024/12/30/mood-machine-liz-pelly-book-review](https://www.newyorker.com/magazine/2024/12/30/mood-machine-liz-pelly-book-review).
+[^1]: “Know Thyself: Tracking Every Facet of Life, from Sleep to Mood to Pain, 24/7/365,” *Wired*, June 22, 2009, [https://www.wired.com/2009/06/lbnp-knowthyself/](https://www.wired.com/2009/06/lbnp-knowthyself).
+[^2]: Shoshana Zuboff, *The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power* (New York: PublicAffairs, 2019).
+[^3]: Hua Hsu, “Is There Any Escape from the Spotify Syndrome?,” *New Yorker*, December 23, 2024, [https://www.newyorker.com/magazine/2024/12/30/mood-machine-liz-pelly-book-review](https://www.newyorker.com/magazine/2024/12/30/mood-machine-liz-pelly-book-review).
 [^4]: Haggerty, Kevin D., and Richard V. Ericson. “The Surveillant Assemblage.” The British Journal of Sociology 51, no. 4 (2000): 605–22. [https://doi.org/10.1080/00071310020015280](https://doi.org/10.1080/00071310020015280).
+
+### Bibliography
+
+Brickner-Wood, Brady. “The Hollow Allure of Spotify Wrapped.” The New Yorker, December 10, 2024. [https://www.newyorker.com/culture/the-lede/the-hollow-allure-of-spotify-wrapped](https://www.newyorker.com/culture/the-lede/the-hollow-allure-of-spotify-wrapped).
+
+Haggerty, Kevin D., and Richard V. Ericson. “The Surveillant Assemblage.” The British Journal of Sociology 51, no. 4 (2000): 605–22. [https://doi.org/10.1080/00071310020015280](https://doi.org/10.1080/00071310020015280).
+
+Hsu, Hua. “Is There Any Escape from the Spotify Syndrome?” The New Yorker, December 23, 2024. [https://www.newyorker.com/magazine/2024/12/30/mood-machine-liz-pelly-book-review](https://www.newyorker.com/magazine/2024/12/30/mood-machine-liz-pelly-book-review).
+
+“Know Thyself: Tracking Every Facet of Life, from Sleep to Mood to Pain, 24/7/365.” WIRED, June 22, 2009. [https://www.wired.com/2009/06/lbnp-knowthyself/](https://www.wired.com/2009/06/lbnp-knowthyself/).
+
+Savage, Mark. “Spotify Wants to Suggest Songs Based on Your Emotions.” BBC News, January 28, 2021. [https://www.bbc.com/news/entertainment-arts-55839655](https://www.bbc.com/news/entertainment-arts-55839655).
+
+Spotify Advertising Team. “Audio Streaming Unlocks People’s Identity and Brings Communities Together.” Spotify Advertising. Accessed April 4, 2025. [https://ads.spotify.com/en-CA/news-and-insights/mindshare-spotify-2022/](https://ads.spotify.com/en-CA/news-and-insights/mindshare-spotify-2022/).
+
+Spotify Engineering. “Algorithmic Effects on the Diversity of Consumption on Spotify.” Spotify Research, March 29, 2023. [https://research.atspotify.com/2020/12/algorithmic-effects-on-the-diversity-of-consumption-on-spotify/](https://research.atspotify.com/2020/12/algorithmic-effects-on-the-diversity-of-consumption-on-spotify/).
+
+Spotify Engineering. “‘Just the Way You Are’: Music Listening and Personality.” Spotify Research, March 29, 2023. [https://research.atspotify.com/2020/12/just-the-way-you-are-music-listening-and-personality/](https://research.atspotify.com/2020/12/just-the-way-you-are-music-listening-and-personality/).
+
+Torabi, Nima. “The Inner Workings of Spotify’s AI-Powered Music Recommendations: How Spotify Shapes Your Playlist.” Beyond the Build, Medium, April 26, 2024. [https://medium.com/beyond-the-build/the-inner-workings-of-spotifys-ai-powered-music-recommendations-how-spotify-shapes-your-playlist-a10a9148ee8d](https://medium.com/beyond-the-build/the-inner-workings-of-spotifys-ai-powered-music-recommendations-how-spotify-shapes-your-playlist-a10a9148ee8d).
+
+“Understanding My Data.” Spotify. Accessed April 4, 2025. [https://support.spotify.com/ca-en/article/understanding-my-data/](https://support.spotify.com/ca-en/article/understanding-my-data/).
+
+Zuboff, Shoshana. The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power. New York: PublicAffairs, 2019.
 
