@@ -10,7 +10,8 @@
 
 # Landscape of Injustice Archives 
 <img width="2160" height="560" alt="screenshot from Landscape of injustice home page, included photos and documentation" src="https://github.com/user-attachments/assets/3a095352-e85c-4ac4-ad04-6607c78c992e" />
-
+Landscape of Injustice Homepage screenshot<br>
+<br>
 The historical database that I have chosen is the *Landscape of Injustice Archives*, created by the University of Victoria. This data base contains thousands of records about Japanese Canadian history during World War Two, and how over 22,000 Japanese Canadians were forced out of their homes. Their belongings were taken and sold without their consent, these items included land, homes and personal belongings; they were then sent to internment camps. This violent and racist work was executed in a way that made it appear legal and organized. The government had multiple items that made this forced displacement look justified such as documents and forms. This report will look at how the government went about collecting this data, what they left out as well as how it has been researched today. Data is very important for recording event, but it can also cause harm especially when power imbalances are involved. 
 
 Most of the documents in the *Landscape of Injustice Archives* were created between 1942 and 1949 by a government called the *Custodian of Enemy Property*. Some of these documents where lists of:
