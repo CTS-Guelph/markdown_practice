@@ -10,6 +10,7 @@ Status: hidden
 ---
 ## **Quantified Self-Data Project**
 
+[View in my portfolio](https://ellaworth.xyz/selfdata/)
 
 ![Quantified Self-Data Image](images/ella-fig1.webp.webp)
 
@@ -61,4 +62,3 @@ Moving forward, my question is no longer how algorithms define me but how I feel
 [^5]: Meta. "Privacy Policy." *Instagram*. <https://help.instagram.com/519522125107875.>
 [^6]: *Fresh Air*, "How Tech Companies Track Your Every Move & Sell Your Data" [podcast], NPR, 31 July 2019 <https://www.npr.org/2019/07/31/746970018/> how-tech-companies-track-your-every-move-sell-your-data. 
 [^7]: Gillespie, Tarleton. (2010). “The Politics of “Platforms” *New Media & Society*, 12, 347-364. 
-
