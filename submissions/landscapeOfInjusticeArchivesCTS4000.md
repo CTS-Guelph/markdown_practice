@@ -3,7 +3,7 @@
      Date: October 4th 2026 
      Citations: "Landscape of Injustice Archives. Loudon, Leah "
      Tags: [Digital archives, Japanese Canadian History, World War Two, Digital Humanities ]
-     Summary:
+     Summary: "This article explores the Landscape of Injustice Archives, and the lack of information recorded about the Japanese Canadians as well as what was done to them. The data and paperwork that the Canadian government took helped organize the injustices done to the Japanese Canadian. This is connects to the theme navigating digital anxieties for this years CTR-ALT-DH issue by addressing the importance of taking data with care and making sure data is not just numbers but that it includes first person account of what happened." 
      Bio: "I'm Leah Loudon, I am a University of Guelph student. My major is culture and technology, I did this assignment for CTS*2000 and I have revised it for my current class CTS*4000"
      status: hidden 
      -->
