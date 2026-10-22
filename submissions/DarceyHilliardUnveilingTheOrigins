@@ -59,7 +59,7 @@ This project does not attempt to resolve these contradictions, nor does it sugge
 
 *Note: sources are cited within the StoryMapJS using Chicago-style footnoes. See bibliography below.*
 
-<!-- Embedded interactive StoryMapJS: readers can also access the standalone version using the link above -->
+<!-- Embedded interactive StoryMapJS below. Readers can also access the standalone version using the link above. The embed was tested and confirmed to display correctly in a local Pelican preview on October 22, 2026. -->
 
 <iframe
 class="responsive-frame"
