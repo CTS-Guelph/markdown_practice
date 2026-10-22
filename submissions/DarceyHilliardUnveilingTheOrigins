@@ -1,17 +1,15 @@
 ---
-Title: "Unveiling the Origins: Raw Materials for Lithium-Ion Batteries"
+Title: Unveiling the Origins: Raw Materials for Lithium-Ion Batteries
 Author: Darcey Hilliard
 Date: 2026-10-18
-Citation: 'Hilliard, Darcey. "Unveiling the Origins: Raw Materials for Lithium-Ion Batteries." *CTRL+ALT+DH*, no.4 (2026).'
+Citation: Hilliard, Darcey. "Unveiling the Origins: Raw Materials for Lithium-Ion Batteries." CTRL+ALT+DH, no. 4 (2026).
 Tags: bicycles, digital storytelling, geography, mapping, sustainability
 Abstract: 'Originally developed for a first-year assignment in CTS 2000 at the University of Guelph, "Unveiling the Origins: Raw Materials for Lithium-Ion Batteries" is an interactive StoryMapJS exploring the geographical origins of four critical materials used in lithium-ion batteries: lithium, cobalt, graphite, and manganese.'
-Bio: Darcey Hilliard is an undergraduate at the University of Guelph.
+Bio: Darcey (she/her) is an undergraduate student at the University of Guelph, majoring in Culture and Technology Studies. She originally created this project during her first year of study.
 Status: Hidden
 ---
 
-# **Unveiling the Origins: Raw Materials for Lithium-Ion Batteries** 
-
-## Abstract
+# Context
 
 Originally developed for a first-year assignment in CTS 2000 at the University of Guelph, *Unveiling the Origins: Raw Materials for Lithium-Ion Batteries* is an interactive [StoryMapJS](https://storymap.knightlab.com/) exploring the geographical origins of four critical materials used in lithium-ion batteries:[^1]
 
@@ -34,7 +32,7 @@ My original brief reflection on the research and map-making process can be found
 
 <small><em>Maganese nodules on the seabed of the Indian Ocean. Photo by Abramax, via [Wikimedia Commons](https://en.wikipedia.org/wiki/Manganese_nodule#/media/File:Konkrecje_na_dnie_oceanu.JPG).</em></small>
 
-### How to Engage with This Project
+## How to Engage with This Project
 
 The interactive [StoryMapJS](https://storymap.knightlab.com/) is embedded below. Readers can navigate through the locations using the arrows or explore the map independently by zooming and moving between geographical areas. Each location is accompanied by text introducing a particular material, potentially highlighting the extraction process or the experiences of communities connected to its extraction/production.
 
@@ -43,11 +41,8 @@ You can also:
 - [Open the StoryMapJS in a separate window](https://uploads.knightlab.com/storymapjs/0e90b735f66ec2d9e7e3c7964f4266b6/lithium-ion-batteries-raw-materials-and-where-they-come-from/index.html).
 - [View the original project and accompanying reflection](https://darceyehilliard.wixsite.com/my-site-2/post/unveiling-the-origins-raw-materials-for-lithium-ion-batteries).
 
-### How to Cite
 
-Hilliard, Darcey. "Unveiling the Origins: Raw Materials for Lithium-Ion Batteries." *CTRL+ALT+DH*, no.4 (2026).
-
-## Author's Note
+# Author's Note
 
 At first glance, e-bikes might seem somewhat removed from the [theme](https://cts-guelph.github.io/ctrl-alt-dh/cfp-2026.html) of digital anxieties, which we commonly associate with AI, surveillance, and our increasingly online lives. However, I think this project speaks to another form of technological unease: the difficulty of fully understanding the systems, materials, labour, and human experiences that make our everyday technologies possible.
 
@@ -76,11 +71,7 @@ height="800"
 allowfullscreen>
 </iframe>
 
-## About the Author
-
-Darcey (she/her) is an undergraduate student at the University of Guelph, majoring in Culture and Technology Studies. She originally created this project during her first year of study.
-
-## Bibliography
+# Bibliography
 
 Clarke, Gerry M. “LITHIUM-ION BATTERIES: Raw Material Considerations.” Chemical Engineering Progress 109, no. 10 (October 2013): 44–52, 35. https://www.proquest.com/magazines/lithium-io n-batteries-raw-material-considerations/docview/1449500869/se-2?accountid=11233.
 
