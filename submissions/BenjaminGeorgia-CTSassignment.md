@@ -53,7 +53,11 @@ Accessibility is also a key component of designing the interface of any website,
 
 Most of the data visualizations, as discussed previously, already have an interactive component built into them that is independent from the website design since these data visualizations are mostly developed and function using external programs which are embedded into the website for users to access. The integration of these external programs used by the organization to create many of their tools and resources is what opens up modes of interpreting the intentions of the digital project. These interactive tools allow users to interrogate the data from multiple angles: by time, geography, and pattern correlations.
 
-*image here*
+![image of data visualization in the form of an interactive map](images/georgiabenjamin-fig3%20copy.webp) ![image of data visualization in the form of an interactive map](images/georgiabenjamin-fig4%20copy.webp)
+
+*Figure 3. Image from "Anti Evictions Mapping Project": "San Francisco Residential Housing Ownership Map".*
+
+*Figure 4. Image from Image from "Anti Evictions Mapping Project": "Los Angeles Ellis Act Evictions".*
 
 The design of these data visualizations takes advantage of the digital interface rather than a printed format, meaning that it has flexibility with how it can create impact and communicate its purpose to users. It uses vivid colours to represent the data components being visualized, incorporates animation to elements to do things like demonstrate changes over time, and allows for visualizations to dynamically adapt to user input through interactions like filtering or zooming in. These elements can help portray the change and difference this data represents without solely needing to read about it or analyze the quantitative data. The ability to interact with the content used to display the data collected by “The Anti-Eviction Mapping Project” is how the organization’s primary purpose of functioning as a digital resource and tool for those at risk of eviction or community displacement opens up its ability to be well interpreted in multiple ways and by multiple people, regardless of their background.
 
