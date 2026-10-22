@@ -55,4 +55,9 @@ The design of these data visualizations takes advantage of the digital interface
 
 A drawback of their website relying on a sort of web of links within their website to access and engage with the resources the organization has produced is that it is very easy for path redirection errors to occur when following a hyperlinked element. What was a big contributor to how the website is able to open up data interpretation may become a barrier to accessing the information altogether. With the project having such a depth of tools, resources, sub-projects, and data visualizations that live outside of the website itself, with the website acting primarily as a gateway to them, this potential error could be difficult for the team of volunteers to monitor, thereby accidentally foreclosing modes of interpretation
 
-### Works Cited
+### Works Referenced
+“The Anti-Eviction Mapping Project.” Anti-Eviction Mapping Project, 2013, https://antievictionmap.com/. Accessed 13 Feb. 2026.
+
+Crenshaw, Kimberlé Williams. “Mapping the Margins: Intersectionality, Identity Politics, and Violence Against Women of Color.” Support New York, supportny.org/wp-content/uploads/2018/04/mapping-the-margins.pdf. Accessed 13 Feb. 2026.
+
+Odumosu, Temi. “The Crying Child On Colonial Archives, Digitization, and Ethics of Care in the Cultural Commons.” Chicago Journals, 18 Sept. 2020, www.journals.uchicago.edu/doi/10.1086/710062#.
