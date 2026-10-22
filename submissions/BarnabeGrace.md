@@ -17,21 +17,21 @@ What does it mean to know yourself through data? From tracking daily steps and s
 
 <!-- Added descriptive elements when hovering links -->
 
-Although Spotify may not resemble a fitness tracker or sleep app, it operates within the same logic of self-tracking by monitoring and organizing user behaviour into data. This reflects the principles of the [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self#:~:text=Quantified%20self%20is%20both%20the%20cultural%20phenomenon,of%20improving%20physical%2C%20mental%2C%20and%20emotional%20performance. "A Wikipedia article explaining the Quantified Self movement and the practice of self-tracking."), which seeks to make the self measurable and visible through data. As [Gary Wolf](https://quantifiedself.com/gary-wolf-bio/ "A background on Gary Wolf from the Quantified Self website.") describes it, this process is rooted in “self-knowledge through numbers.” But what happens when the data we use to understand ourselves is collected and interpreted by a platform with its own commercial interests? 
+Although Spotify may not resemble a fitness tracker or sleep app, it operates within the same logic of self-tracking by monitoring and organizing user behaviour into data. This reflects the principles of the [Quantified Self](https://en.wikipedia.org/wiki/Quantified_self#:~:text=Quantified%20self%20is%20both%20the%20cultural%20phenomenon,of%20improving%20physical%2C%20mental%2C%20and%20emotional%20performance. "A Wikipedia article explaining the Quantified Self movement and the practice of self-tracking."), which seeks to make the self measurable and visible through data. As [Gary Wolf](https://quantifiedself.com/gary-wolf-bio/ "A background on Gary Wolf from the Quantified Self website.") describes it, this process is rooted in “self-knowledge through numbers.” But what happens when the data we use to understand ourselves is collected and interpreted by a platform with its own commercial interests?
 
 Spotify offers users opportunities to reflect on their musical taste, moods, and habits, but it also uses this information to personalize recommendations and influence what they listen to next. This post explores how Spotify blurs the line between self-reflection and algorithmic influence, raising questions about autonomy, personalization, and the role of technology in self-expression.
 
-To understand how Spotify functions as a form of self-tracking, it is useful to consider the broader ideas behind the Quantified Self movement. In his discussion of self-tracking, Wolf draws a connection between the collection of personal data and the pursuit of self-improvement, using athletes as an example of how knowledge can help to improve performance and achieve specific goals: 
+To understand how Spotify functions as a form of self-tracking, it is useful to consider the broader ideas behind the Quantified Self movement. In his discussion of self-tracking, Wolf draws a connection between the collection of personal data and the pursuit of self-improvement, using athletes as an example of how knowledge can help to improve performance and achieve specific goals:
 
 > “Athletes are among the pioneers: With their increasingly precise and scientific training regimens, serious competitors now commonly load databases not only with their practice results but also with stats on the biological precursors of optimum performance: heart rate, diet, metabolism, and dozens of other factors. Anywhere the goal is explicit—run faster, weigh less—the ability to plot progress is too powerful to ignore.”[^1]
 
 <!-- Added in a list to break up the paragraph and meet requirements for assignment -->
 
-*Now you may ask, how exactly does Spotify act as a self-tracking app?* Spotify makes this process visible through features such as: 
+*Now you may ask, how exactly does Spotify act as a self-tracking app?* Spotify makes this process visible through features such as:
 
 - _Spotify Wrapped:_ Summarizing your listening habits over the past year, highlighting favourite artists, songs, and genres.
 - _On Repeat and Your Top Songs:_ Reveal the music users return to most frequently. 
-- _Daylist:_ Generates changing playlists based on listening patterns, associating music with different times of day and listening contexts. 
+- _Daylist:_ Generates changing playlists based on listening patterns, associating music with different times of day and listening contexts.
 
 By presenting information about the artists, genres, and songs users return to most often, Spotify gives listeners an opportunity to reflect on their musical preferences. Listening, which might otherwise be an everyday and largely unconscious activity, becomes something that can be measured, organized, and interpreted.
 
@@ -41,19 +41,27 @@ Spotify’s Daylist takes this process a step further. Unlike Wrapped, which loo
 
 <figure style= "text-align: center;">
     <img src="images/GraceImages/barnabeDaylistIndieChill.webp" alt="The title of a Spotify Daylist reads “indie chill bedroom pop Tuesday morning,” against a blended blue and yellow background."> </img>
-    <figcaption> An example of a Daylist title taken from Spotify. </figcaption> 
+    <figcaption> One of my Daylist titles. Image: Spotify </figcaption>
 </figure>
 
 <figure style= "text-align: center;">
     <img src="images/GraceImages/barnabeDaylistIndieMellow.webp" alt="The title of a Spotify Daylist reads “film feels indie mellow monday evening,” against a blended purple and pink background."> </img>
-    <figcaption> Another example of Daylist title taken from Spotify. </figcaption> 
+    <figcaption> One of my Daylist titles. Image: Spotify </figcaption>
+</figure>
+
+<!-- The daylist is embedded for spotify and runs on pelican. I have uploaded a screenshot in courselink. -->
+
+<iframe data-testid="embed-iframe" style="border-radius:12px" src="https://open.spotify.com/embed/playlist/37i9dQZF1FbDN1ZghFzMQ8?utm_source=generator&si=d58191247b6d4f3a" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"> </iframe>
+
+<figure style= "text-align: center;">
+    <figcaption> This is my daylist, check in at different points of the day to see how it changes. </figcaption>
 </figure>
 
 In doing so, it nudges users toward certain patterns, reinforces habits, and constructs what might be called an algorithmic identity. Just as an athlete tweaks their routine based on performance metrics, we can reflect on our listening data to gain insight into our moods, behaviors, and even aspects of our personality. Unlike traditional self-tracking tools that focus on physical metrics, Spotify turns everyday listening into a form of self-tracking that can offer insight into our emotional and cultural selves. By revealing patterns in our tastes and behaviours, Spotify can help us better understand who we are. At the same time, however, its predictive curation influences the very identity it appears to reflect.
 
 <figure style= "text-align: center;">
     <img src="images/GraceImages/barnabeSpotifyWrapped.webp" alt= " Three screens from Spotify Wrapped showing the title screen, the user's peak listening month, and their listening personality, identified as “Shapeshifter.”"> </img>
-    <figcaption> A look at the 2023 Spotify Wrapped. Image credit: Spotify </figcaption> 
+    <figcaption> A look at the 2023 Spotify Wrapped. Image credit: Spotify </figcaption>
 </figure>
 
 For many, features like Spotify Wrapped offer more than mere novelty—they craft a personal narrative. Users dive into their “year in music” to reminisce, share, and reimagine facets of their identity, presenting themselves to others through the lens of their listening habits. In doing so, Spotify fosters a form of digital self-expression and self-recognition, transforming listening into a journey of self-discovery. Yet this sense of empowerment is a paradox. While Spotify positions itself as a mirror reflecting who we are, it also functions as a map, steering us toward pre-curated paths designed to maximize engagement and profit. The personal narrative it creates is carefully constructed through data-driven algorithms that shape our preferences even as they appear to reflect them. This influence extends beyond Wrapped and into Spotify’s everyday interface. Autoplay encourages continuous listening, while personalized playlists like Discover Weekly and Daily Mixes dominate the homepage, guiding users toward music selected on the basis of their existing habits. Rather than simply reflecting individual tastes, these design choices can reinforce familiar listening patterns under the guise of personalization, making further exploration less likely.
@@ -92,7 +100,7 @@ Through features like Discover Weekly, Spotify promises to expand users’ music
 
 This flattening effect may result in a loss of musical diversity as the algorithms prioritize what is familiar and engaging, effectively reinforcing established listening patterns. The system’s constant feedback loop means that our individual tastes are not only shaped by the content we consume, but are also fed back into the platform to refine future predictions and, ultimately, drive profit. In this interplay, identity becomes both an output and an input of the algorithm, leading to a critical question: Are we actively choosing our music, or is it choosing us? This tension underscores the complex role of digital platforms in mediating cultural consumption, where the promise of personalized exploration is inextricably linked to broader mechanisms of surveillance capitalism.
 
-## The Surveillant Assemblage 
+## The Surveillant Assemblage
 
 Drawing on Haggerty and Ericson’s concept of the surveillant assemblage, Spotify exemplifies how modern surveillance is no longer a top-down panopticon but a distributed, networked system that spans a variety of interconnected technologies. Unlike the singular gaze of a traditional observer, the surveillant assemblage is an intricate system composed of overlapping data flows. Spotify’s surveillance is not just confined to tracking user interactions with the app; it incorporates data from myriad sources—smartphones, other apps, voice recognition systems, connected devices, and even third-party platforms that intersect with Spotify’s ecosystem. These data streams are then combined and analyzed to create what Haggerty and Ericson term a “data double” of each user. This digital representation is not a neutral reflection of a user’s musical preferences but a fragmented reconstruction of their identity, reduced to quantifiable behaviors—genres, skips, listening habits, and mood associations. What Spotify ultimately creates is not a mirror but a map, guiding users through pre-curated paths that maximize engagement and, ultimately, profit.[^4]
 
@@ -100,7 +108,7 @@ The significance of this surveillance lies partly in the imbalance of power betw
 
 In this context, self-tracking can become more than a tool for self-discovery; it can also support prediction and influence. Every play, pause, skip, or replay contributes to a record of listening behaviour that can inform future recommendations. As the platform adapts to these patterns, it may encourage users to continue listening in familiar ways, creating a feedback loop between past behaviour and future suggestions. Personalization therefore becomes more than a reflection of existing preferences: it can also influence which artists, genres, and moods users encounter. The distinction between self-expression and algorithmic influence becomes increasingly difficult to separate. We are left to ask: do we shape our musical identities, or do the algorithms that interpret our behaviour help shape them?
 
-## Conclusion 
+## Conclusion
 
 Spotify presents itself as a mirror, offering users a way to reflect on their tastes, moods, and musical identities. Yet it also functions as a map, guiding listening through algorithmically curated recommendations. By framing music data as a means of self-discovery, Spotify draws on the ideals of the Quantified Self movement, encouraging users to understand themselves through their listening habits. However, this experience of personal insight exists alongside systems of surveillance, commodification, and prediction.
 
@@ -139,4 +147,3 @@ Torabi, Nima. “The Inner Workings of Spotify’s AI-Powered Music Recommendati
 “Understanding My Data.” Spotify. Accessed April 4, 2025. [https://support.spotify.com/ca-en/article/understanding-my-data/](https://support.spotify.com/ca-en/article/understanding-my-data/).
 
 Zuboff, Shoshana. The Age of Surveillance Capitalism: The Fight for a Human Future at the New Frontier of Power. New York: PublicAffairs, 2019.
-
