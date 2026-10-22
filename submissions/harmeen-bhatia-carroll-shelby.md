@@ -11,7 +11,7 @@ Status: hidden
 
 
 # History of Carroll Shelby
-![Carroll Shelby standing beside a yellow sports car](images/harmeen-carroll-shelby.png)
+![Carroll Shelby standing beside a yellow sports car](images/harmeen-carroll-shelby-small.jpg)
 *Carroll Shelby pictured beside a yellow sports car.*
 
 
