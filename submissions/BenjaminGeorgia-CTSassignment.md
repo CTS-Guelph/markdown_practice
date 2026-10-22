@@ -13,7 +13,9 @@ Status: hidden
 
 ## Identity Differences and Housing Injustice
 
-put *image here*
+![image of colour codded map illustrating gentrification](images/georgiabenjamin-fig1%20copy.webp)
+
+*Figure 1. Image from "Anti Evictions Mapping Project": "LA Evictions by Zip Code".*
 
 ### Introduction
 
