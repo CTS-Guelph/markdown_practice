@@ -13,7 +13,9 @@ Status: Hidden
 
 ### *Written by Audrey Cullen*
 ---
-
+![cullen-video-game-controller](images/cullen%20-%20video-game-controller.webp)
+###### *A close-up of a Playstation 5 controller, framed in the center of the image with a bright screen in the background.*
+---
 For my final project within CTS1000: Keywords, I wanted to devote my time to a topic that I was not only interested in learning more about as well as its surrounding issues in a more in-depth analysis, but something that I felt moved by enough to talk about. I have decided to delve into the question as to how the lack of representation and the shallow, carnal design of female characters within video games contribute to gender-based discrimination and further foster environments of harm to women, both in the physical and digital world. 
 
 #### *View the assigmment in its original format by visiting my portfolio!* ADD HYPERLINK
