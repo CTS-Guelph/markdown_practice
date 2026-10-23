@@ -3,7 +3,7 @@ Title: The Anti-Eviction Mappin Project Identity Differences and Injustice
 Authors: Georgia Benjamin
 Date: 2026-02-14
 Citation: Benjamin, Georgia. "The Anti-Eviction Mappin Project Identity Differences and Injustice." Wix, 2026.
-Tags: housing, injustice, mapping, eviction, data storytelling
+Tags: data activism, digital storytelling, geography, intersectionality, mapping, 
 Abstract: A critique and reflection on the digital project titled "The Anti-Eviction Mappin Project". The project of focus uses an interactive map as a form of data storytelling to communicate the intersectionality of race, gender, ethnicity, and class with patterns of eviction. The written piece discusses the ways in which this project is functioning as a form of data activism. 
 Bio: Georgia Benjamin is a fourth year Culture and Technology Studies major, with an area of emphasis in Performance, Making and Design. She also has a double mindor in Creative Writing and Music.
 Status: hidden
@@ -19,7 +19,7 @@ Status: hidden
 
 ### Introduction
 
-"The Anti Eviction Mapping Project" *add hyperlink here* is a digital project that can use the framework provided by Temi Odumosu in the article "The Crying Child: On Colonial Archives, Digitization, and Ethics of Care in the Cultural Commons", drawing from the ideas that focus on the implementation of the ethics of care which aim to contextualize in a way that fosters compassion and is essential to marginalized groups, particularly in digital archiving, storytelling, and data collection and visualization practices. An additional framework of intersectionality explained in the article "Mapping the Margins: Intersectionality, Identity Politics, and Violence Against Women of Colour" written by Kimberlé Williams Crenshaw plays a key role as well in the understanding of the impact of this digital project on its ability to illuminate the overlap between multiple categories of identity, specifically in the context of residency systems working around or against these communities.
+["The Anti Eviction Mapping Project"](https://antievictionmap.com/) [^1] is a digital project that can use the framework provided by Temi Odumosu in the article ["The Crying Child: On Colonial Archives, Digitization, and Ethics of Care in the Cultural Commons"](https://www.journals.uchicago.edu/doi/10.1086/710062)[^2], drawing from the ideas that focus on the implementation of the ethics of care which aim to contextualize in a way that fosters compassion and is essential to marginalized groups, particularly in digital archiving, storytelling, and data collection and visualization practices. An additional framework of intersectionality explained in the article ["Mapping the Margins: Intersectionality, Identity Politics, and Violence Against Women of Colour"](https://supportny.org/wp-content/uploads/2018/04/mapping-the-margins.pdf) written by Kimberlé Williams Crenshaw [^3] plays a key role as well in the understanding of the impact of this digital project on its ability to illuminate the overlap between multiple categories of identity, specifically in the context of residency systems working around or against these communities.
 
 ### Data Activism
 
@@ -64,8 +64,9 @@ The design of these data visualizations takes advantage of the digital interface
 A drawback of their website relying on a sort of web of links within their website to access and engage with the resources the organization has produced is that it is very easy for path redirection errors to occur when following a hyperlinked element. What was a big contributor to how the website is able to open up data interpretation may become a barrier to accessing the information altogether. With the project having such a depth of tools, resources, sub-projects, and data visualizations that live outside of the website itself, with the website acting primarily as a gateway to them, this potential error could be difficult for the team of volunteers to monitor, thereby accidentally foreclosing modes of interpretation
 
 ### Works Referenced
-“The Anti-Eviction Mapping Project.” Anti-Eviction Mapping Project, 2013, https://antievictionmap.com/. Accessed 13 Feb. 2026.
 
-Crenshaw, Kimberlé Williams. “Mapping the Margins: Intersectionality, Identity Politics, and Violence Against Women of Color.” Support New York, supportny.org/wp-content/uploads/2018/04/mapping-the-margins.pdf. Accessed 13 Feb. 2026.
+[^1]: “The Anti-Eviction Mapping Project.” Anti-Eviction Mapping Project. 2013. https://antievictionmap.com/. Accessed February 13, 2026.
 
-Odumosu, Temi. “The Crying Child On Colonial Archives, Digitization, and Ethics of Care in the Cultural Commons.” Chicago Journals, 18 Sept. 2020, www.journals.uchicago.edu/doi/10.1086/710062#.
+[^3]: Crenshaw, Kimberlé Williams. “Mapping the Margins: Intersectionality, Identity Politics, and Violence Against Women of Color.” https://supportny.org/wp-content/uploads/2018/04/mapping-the-margins.pdf. Accessed February 13, 2026.
+
+[^2]: Odumosu, Temi. “The Crying Child: On Colonial Archives, Digitization, and Ethics of Care in the Cultural Commons.” Chicago Journals, September 18, 2020. https://www.journals.uchicago.edu/doi/10.1086/710062. Accessed February 13, 2026.
