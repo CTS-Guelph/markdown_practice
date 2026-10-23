@@ -7,12 +7,12 @@ Tags: [graphic_novel, archives, memoir, capitalism, marxist, "nixon, ducks"]
 Abstract: >
   This short essay features Kate Beaton's best-selling memoir, "DUCKS: Two Years in the Oil Sands" (2022), and analyzes it through Rob Nixton's concept of slow violence. Through this lens, it allows readers to grasp how the practice of exploiting the environment, simialrly contrasts feminism.
 
-Bio: Hailey is a fourth-year CTS and English student who ...
+Bio: Hailey is a fourth-year CTS and English student who has a passion for creativity.
 <p style="color: black; font-size:14px;"</p>
 Status: hidden
 published: false
 
-<!--I dont understand what status is meaning for this; kinda just following orginal format, need to investigate--!>
+---
 
 ---
 
@@ -22,7 +22,7 @@ published: false
 <!---Horizontal line with the three stars; wanted to experiment with different markdown features!-->
 
 
-<!---I need to figure out how I can move my picture, alignment and size!-->
+#I need to figure out how I can move my picture, alignment and size!
 
 ## Introduction 
 In 1967, the first large-scale oil sand operation opened in Alberta, Canada, creating a significant number of job opportunities for the Canadian population. The exploitation of Earth’s natural resources has caused significant damage to both flora and fauna and has contributed to the on-going crisis relating to climate change. The mechanisms of Capitalism have  consistently provided a stepping stone for profit by forcefully taking from the land and stripping it of life. Marxist ecofeminism argues that patriarchy creates an oppressive and dominating system that both harms the environment and women. Throughout Kate Beaton’s memoir, [“***Ducks: Two Years in the Oil Sands***”](https://www.amazon.ca/Ducks-Two-Years-Oil-Sands/dp/1770462899), she highlights the barriers of gender that isolated and exploited her as a woman, well at the same time addressing concerns she has regarding the impact her new opportunities have on  the environment. Unknownly, the author has also paralleled the ideals of Capitalism and Marxist ecofeminism into its framework. 
@@ -33,14 +33,22 @@ In 1967, the first large-scale oil sand operation opened in Alberta, Canada, cre
        width="200">
 </p>
   <figcaption>
-    <em>Figure 1.</em> Cover of <em>Ducks</em> by Kate Beaton.
+    <em>Figure 1.</em> Cover of <em>Ducks: Two Years in the Oil Sands</em> by Kate Beaton.
     Source: Pazzo Books.
   </figcaption>
 </figure>
 
+
+#Since I was unfamilar with how to change image settings, I had to research what else was possible through markdown. When I first inputed the image purely by the URL, the size was maxed out above. It did not feel fitting. 
+
+#I ended up watching a youtube video, https://www.youtube.com/watch?v=f8_uF_IDV50&list=PLj6YeMhvp2S5UgiQnBfvD7XgOMKs3O_G6, which broke markown down for me. It is important to note that the creators of this video are actually from VS Code so it was easy to follow considering what I had on my end. 
+
+
 ## Arguement 
 
 With industries aiming for maximum profit, nature becomes a victim since the land cannot advocate for itself. Industries that thrive on capitalist’s dominating structures are not made overnight and have caused what is now referred to as “**Slow violence book [*“Slow Violence and the Environmentalism of the Poor”*](http://elimeyerhoff.com/books/nixon-rob--slow-violence-and-the-environmentalism-of-the-poor.pdf) (2013), explains how violence gradually occurs over time and is continuously being ignored, pushed aside, and dismissed. To conceptualize the extent of damage to the environment and people, Marxist ecofeminism can be used as a lens to examine the memoir thoroughly. Highlighted throughout *“Ducks: Two Years in the Oil Sands,”* Beaton offers a new perspective based on her lived experience of **exploitation, oppression,** and subjection in a **disposable, capitalist industry.** 
+
+#I wanted to bold important things that stood out to me in my essay that would draw readers attention better. 
 
 As the oil mines continue as a business, Kate Beaton (or Katie) is compelled to leave Cape Breton, Nova Scotia, to work in Alberta to pay off her student loans. As she arrives at work early in the story, Katie is introduced to the hazards of the job [(Nixon 49)](http://elimeyerhoff.com/books/nixon-rob--slow-violence-and-the-environmentalism-of-the-poor.pdf). The presentation teaches Katie about the physical dangers of the job that can harm her, and showcases the legal obligations of the company. **The oil mining industry is inherently dangerous.**  Contrarily, the company ignores the moral obligation of informing the workers of the harm they will inflict on the natural environment. 
 
@@ -50,6 +58,7 @@ Using Kate Beaton’s illustrations as a guide, readers experience a sublime exp
 
  It is a **rhetorical question** that helps expose the effect of slow violence and the sublime. It is difficult to pinpoint the exact time and place where the destruction became too much. Like Nixon notes, slow violence transcends “across space and time” [(Nixon 10)](http://elimeyerhoff.com/books/nixon-rob--slow-violence-and-the-environmentalism-of-the-poor.pdf). Destruction is delayed across a large scale geographically, and it is not always clear who the perpetrators are. This makes it easier for the slow violence to fester with the gaps of exploitation, allowing for a delay for immediate action. 
 
+#I didn't realize this was possible through markdown, but I like how it highlights the dialouge better and makes it stand out. It's easier to follow both the essay and argument.
 
 The factory - with its enormous footprint- behind her, is illustrated to be releasing toxins into the air. She is shocked by these large-scale complexities of  human industry. A scale of immense complexity as nature Herself! The factories become paradoxical; there is a unique beauty towards the industrial landscape, but there is visible and not-so-visible environmental damage in its scope. 
 
@@ -78,10 +87,23 @@ The missing limb of the creature is not  “natural,” and can  perhaps be attr
 In an outburst, Katie frustratingly yells at the fox with a snowball in hand:
 > “ what are you going to do when you lose another leg?!” [(Beaton 83)](https://www.amazon.ca/Ducks-Two-Years-Oil-Sands/dp/1770462899)). 
 
+#By incoperating the link, it makes it easier and userfriendly to find the sources!
+
 Katie is asking a rhetorical question- she knows what will happen- the fox will likely die. Her desperate tone shows her plea for the fox to leave to escape the danger.**The fox becomes a manifestation of accumulated damage over the years and how nature is being directly impacted.**
 
 ## Conclusion
 
-To summarize, by analyzing Kate Beaton’s experience in *[“DUCKS: Two Years in the Oil Sands,”*](https://www.amazon.ca/Ducks-Two-Years-Oil-Sands/dp/1770462899)) the essay calls attention to the parallel drawn between the industry harming nature and women through a Marxist ecofeminism perspective. As slow violence accumulates throughout the memoir, it gathers enough force to cause catastrophic events like physically destroying the earth and assaulting the human element - the very element Capitalism was designed to improve. 
+To summarize, by analyzing Kate Beaton’s experience in [“DUCKS: Two Years in the Oil Sands,”](https://www.amazon.ca/Ducks-Two-Years-Oil-Sands/dp/1770462899)) the essay calls attention to the parallel drawn between the industry harming nature and women through a Marxist ecofeminism perspective. As slow violence accumulates throughout the memoir, it gathers enough force to cause catastrophic events like physically destroying the earth and assaulting the human element - the very element Capitalism was designed to improve. 
 
 This memoir is important since it offers an alternative perspective on exploitation within industries in the early 2000s and reveals the modern ideology of  “progress” without regard for disposability. 
+
+#I did use a microsoft copoilet to gelp be debug and learn how to submit. I found this assignment really frusterating and condising, and rather than providing the finsihed work, the AI helped men understand the steps more clearly. The number one mistake that the AI flagged for me was that I was writing my code in the wrong spot. For some reason, I found myself writing the code into the terminal when markdown obviously cannot. It might have been an obvious and easy thing to flag, however, I needed it. As a result of my confusing, the AI additionally assisted in helping me work through my errors. I understood puttnig my essay into markdown, but I struggled a lot more when it came to the repository and connecting back to GitHub. 
+
+#Another noteworthy thing to note I found frusterating was how to get rid of my commits. It took countless tries and frusteration before I was finally able to figure it out. GitHub was defintly a learning curb , and if I had to do this assignment again, I'm sure I would learn more about the program. Luckly, I was able to purchase a laptop for this assignment, which aided greatly to where I am now. 
+
+## Works Cited
+
+Beaton, Kate. Ducks: Two Years in the Oil Sands. First edition. Drawn & Quarterly, 
+2022.
+
+Nixon, Rob. Slow Violence and the Environmentalism of the Poor. Harvard UP, 2013.
