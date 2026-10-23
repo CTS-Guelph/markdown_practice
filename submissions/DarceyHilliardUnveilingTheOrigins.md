@@ -1,17 +1,15 @@
 ---
-Title: "Unveiling the Origins: Raw Materials for Lithium-Ion Batteries"
+Title: Unveiling the Origins: Raw Materials for Lithium-Ion Batteries
 Author: Darcey Hilliard
 Date: 2026-10-18
-Citation: 'Hilliard, Darcey. "Unveiling the Origins: Raw Materials for Lithium-Ion Batteries." *CTRL+ALT+DH*, no.4 (2026).'
+Citation: Hilliard, Darcey. "Unveiling the Origins: Raw Materials for Lithium-Ion Batteries." CTRL+ALT+DH, no. 4 (2026).
 Tags: bicycles, digital storytelling, geography, mapping, sustainability
-Abstract: 'Originally developed for a first-year assignment in CTS 2000 at the University of Guelph, "Unveiling the Origins: Raw Materials for Lithium-Ion Batteries" is an interactive StoryMapJS exploring the geographical origins of four critical materials used in lithium-ion batteries: lithium, cobalt, graphite, and manganese.'
-Bio: Darcey Hilliard is an undergraduate at the University of Guelph.
+Abstract: Originally developed for a first-year assignment in CTS 2000 at the University of Guelph, "Unveiling the Origins: Raw Materials for Lithium-Ion Batteries" is an interactive StoryMapJS exploring the geographical origins of four critical materials used in lithium-ion batteries: lithium, cobalt, graphite, and manganese.
+Bio: Darcey (she/her) is an undergraduate student at the University of Guelph, majoring in Culture and Technology Studies. She originally created this project during her first year of study.
 Status: Hidden
 ---
 
-# **Unveiling the Origins: Raw Materials for Lithium-Ion Batteries** 
-
-## Abstract
+# Context
 
 Originally developed for a first-year assignment in CTS 2000 at the University of Guelph, *Unveiling the Origins: Raw Materials for Lithium-Ion Batteries* is an interactive [StoryMapJS](https://storymap.knightlab.com/) exploring the geographical origins of four critical materials used in lithium-ion batteries:[^1]
 
@@ -29,12 +27,11 @@ Through a series of geographical locations, the map begins to move beyond identi
 My original brief reflection on the research and map-making process can be found on my [blog](https://darceyehilliard.wixsite.com/my-site-2/post/unveiling-the-origins-raw-materials-for-lithium-ion-batteries).
 
 
-
 ![Numerous round, grey manganese nodules covering a sandy seabed in the Indian Ocean.](images/HilliardFig1ManganeseNodules.webp)
 
 <small><em>Maganese nodules on the seabed of the Indian Ocean. Photo by Abramax, via [Wikimedia Commons](https://en.wikipedia.org/wiki/Manganese_nodule#/media/File:Konkrecje_na_dnie_oceanu.JPG).</em></small>
 
-### How to Engage with This Project
+## How to Engage with This Project
 
 The interactive [StoryMapJS](https://storymap.knightlab.com/) is embedded below. Readers can navigate through the locations using the arrows or explore the map independently by zooming and moving between geographical areas. Each location is accompanied by text introducing a particular material, potentially highlighting the extraction process or the experiences of communities connected to its extraction/production.
 
@@ -43,11 +40,8 @@ You can also:
 - [Open the StoryMapJS in a separate window](https://uploads.knightlab.com/storymapjs/0e90b735f66ec2d9e7e3c7964f4266b6/lithium-ion-batteries-raw-materials-and-where-they-come-from/index.html).
 - [View the original project and accompanying reflection](https://darceyehilliard.wixsite.com/my-site-2/post/unveiling-the-origins-raw-materials-for-lithium-ion-batteries).
 
-### How to Cite
 
-Hilliard, Darcey. "Unveiling the Origins: Raw Materials for Lithium-Ion Batteries." *CTRL+ALT+DH*, no.4 (2026).
-
-## Author's Note
+# Author's Note
 
 At first glance, e-bikes might seem somewhat removed from the [theme](https://cts-guelph.github.io/ctrl-alt-dh/cfp-2026.html) of digital anxieties, which we commonly associate with AI, surveillance, and our increasingly online lives. However, I think this project speaks to another form of technological unease: the difficulty of fully understanding the systems, materials, labour, and human experiences that make our everyday technologies possible.
 
@@ -65,37 +59,32 @@ This project does not attempt to resolve these contradictions, nor does it sugge
 
 *Note: sources are cited within the StoryMapJS using Chicago-style footnoes. See bibliography below.*
 
-<!-- Embedded interactive StoryMapJS: readers can also access the standalone version using the link above -->
+<!-- Embedded interactive StoryMapJS below. Readers can also access the standalone version using the link above. The embed was tested and confirmed to display correctly in a local Pelican preview on October 22, 2026. -->
 
 <iframe
+class="responsive-frame"
 title="Unveiling the Origins: Raw Materials for Lithium-Ion Batteries"
 src="https://uploads.knightlab.com/storymapjs/0e90b735f66ec2d9e7e3c7964f4266b6/lithium-ion-batteries-raw-materials-and-where-they-come-from/index.html" 
-style="border: 0;"
-width="100%"
-height="800"
+style="display: block; width: 90%; max-width: none; height: 900px; border: 0;"
+width="90%"
+height="900"
 allowfullscreen>
 </iframe>
 
-## About the Author
+# Bibliography
 
-Darcey (she/her) is an undergraduate student at the University of Guelph, majoring in Culture and Technology Studies. She originally created this project during her first year of study.
+Clarke, Gerry M. “LITHIUM-ION BATTERIES: Raw Material Considerations.” Chemical Engineering Progress 109, no. 10 (October 2013): 44–52, 35. [https://www.proquest.com/magazines/lithium-ion-batteries-raw-material-considerations/docview/1449500869/se-2?accountid=11233](https://www.proquest.com/magazines/lithium-ion-batteries-raw-material-considerations/docview/1449500869/se-2?accountid=11233).
 
-## Bibliography
+Dlamini, Wendy W., et al. “Manganese exposure, parkinsonian signs, and quality of life in South African mine workers.” American Journal of Industrial Medicine 63, no. 1 (2020): 36–43. [https://doi.org/10.1002/ajim.23060](https://doi.org/10.1002/ajim.23060). 				
 
-Clarke, Gerry M. “LITHIUM-ION BATTERIES: Raw Material Considerations.” Chemical Engineering Progress 109, no. 10 (October 2013): 44–52, 35. https://www.proquest.com/magazines/lithium-io n-batteries-raw-material-considerations/docview/1449500869/se-2?accountid=11233.
+Igogo, Tsisilile, Debra Sandor, Ahmad Mayyas, and Jill Engel-Cox. Supply Chain of Raw Materials Used in the Manufacturing of Light-Duty Vehicle Lithium-Ion Batteries. Technical Report NREL/TP-6A20-73374. Golden, CO: National Renewable Energy Laboratory, 2019. [https://docs.nlr.gov/docs/fy19osti/73374.pdf](https://docs.nlr.gov/docs/fy19osti/73374.pdf).				
 
-Dlamini, Wendy W., et al. “Manganese exposure, parkinsonian signs, and quality of life in South African mine workers.” American Journal of Industrial Medicine 63, no. 1 (2020): 36–43. https://doi.org/10.1002/ajim.23060. 				
+Jerez, Bárbara, et al. “Lithium extractivism and water injustices in the Salar de Atacama, Chile: The colonial shadow of green electromobility.” Political Geography 87 (2021): 102382. [https://doi.org/10.1016/j.polgeo.2021.102382](https://doi.org/10.1016/j.polgeo.2021.102382).					
 
-Engels, Philipp, et al. “Life Cycle Assessment of Natural Graphite Production for Lithium-Ion Battery Anodes Based on Industrial Primary Data.” Journal of Cleaner Production 336 (2022): 130474. https://doi.org/10.1016/j.jclepro.2022.130474.			
+Maconachie, Roy. “Congo-Kinshasa: 'We Miners Die a Lot.' Appalling Conditions and Poverty Wages – The Lives of Cobalt Miners in the DRC.” allAfrica.com, January 30, 2024, [https://go-gale-com.subzero.lib.uoguelph.ca/ps/i.do?p=AONE&u=guel77241id=GALE%7CA780996924&v=2.1&it=r&aty=ip](https://go-gale-com.subzero.lib.uoguelph.ca/ps/i.do?p=AONE&u=guel77241&id=GALE%7CA780996924&v=2.1&it=r&aty=ip).					
 
-Igogo, Tsisilile, Debra Sandor, Ahmad Mayyas, and Jill Engel-Cox. Supply Chain of Raw Materials Used in the Manufacturing of Light-Duty Vehicle Lithium-Ion Batteries. Technical Report NREL/TP-6A20-73374. Golden, CO: National Renewable Energy Laboratory, 2019. https://docs.nlr.gov/docs/fy19osti/73374.pdf.				
+Rajagopalan, Kandeeban, et al. “Examining the Economic and Energy Aspects of Manganese Oxide in Li-Ion Batteries.” Materials Circular Economy 4 (2022) no. 22. [https://doi.org/10.1007/s42824-022-00064-4](https://doi.org/10.1007/s42824-022-00064-4).			
 
-Jerez, Bárbara, et al. “Lithium extractivism and water injustices in the Salar de Atacama, Chile: The colonial shadow of green electromobility.” Political Geography 87 (2021): 102382. https://doi.org/10.1016/j.polgeo.2021.102382.					
-
-Maconachie, Roy. “Congo-Kinshasa: 'We Miners Die a Lot.' Appalling Conditions and Poverty Wages – The Lives of Cobalt Miners in the DRC.” allAfrica.com, January 30, 2024, https://go-gale-com.subzero.lib.uoguelph.ca/ps/i.do?p=AONE&u=guel77241&id=GALE% 7CA780996924&v=2.1&it=r&aty=ip.					
-
-Rajagopalan, Kandeeban, et al. “Examining the Economic and Energy Aspects of Manganese Oxide in Li-Ion Batteries.” Materials Circular Economy 4 (2022) no. 22. https://doi.org/10.1007/s42824-022-00064-4.			
-
-Vineesh, T. C., et al. “Manganese nodule morphology as indicators for oceanic processes in the Central Indian Basin.” International Geology Review 51, no. 1 (2009): 27–44. https://doi.org/10.1080/00206810802622773
+Vineesh, T. C., et al. “Manganese nodule morphology as indicators for oceanic processes in the Central Indian Basin.” International Geology Review 51, no. 1 (2009): 27–44. [https://doi.org/10.1080/00206810802622773](https://doi.org/10.1080/00206810802622773).
 
 [^1]: Igogo et al., *Supply Chain of Raw Materials*, 2019.
