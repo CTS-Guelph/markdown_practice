@@ -8,8 +8,9 @@ Abstract: A visual art piece inspired by my targeted advertising on Instagram, a
 Bio: Ella is a fourth year student in Culture and Technology. She is particularly interested in studying the cultural and historical relevance of data, and AI's impact on the creative world through art and fashion.
 Status: hidden
 ---
-## Quantified Self-Data Project
+## **Quantified Self-Data Project**
 
+[View in my portfolio](https://ellaworth.xyz/selfdata/)
 
 ![Quantified Self-Data Image](images/ella-fig1.webp.webp)
 
@@ -47,17 +48,17 @@ Moving forward, my question is no longer how algorithms define me but how I feel
 
 ## Sources
 
-[1] Fresh Air, "How Tech Companies Track Your Every Move & Sell Your Data" [podcast], NPR, 31 July 2019 <https://www.npr.org/2019/07/31/746970018/how-tech-companies-track-your-every-move-sell-your-data.>
+[1] *Fresh Air*, "How Tech Companies Track Your Every Move & Sell Your Data" [podcast], NPR, 31 July 2019 <https://www.npr.org/2019/07/31/746970018/how-tech-companies-track-your-every-move-sell-your-data.>
 
-[2] Gillespie, Tarleton. (2010). “The Politics of “Platforms” New Media & Society, 12, 347-364. 
+[2] Gillespie, Tarleton. (2010). “The Politics of “Platforms” *New Media & Society*, 12, 347-364. 
 
-[3] Meta. "Privacy Policy." Instagram. <https://help.instagram.com/519522125107875.]>
+[3] Meta. "Privacy Policy." *Instagram*. <https://help.instagram.com/519522125107875.]>
 
-[^1]: Meta. "Terms of Use." Instagram. <https://help.instagram.com/581066165581870/.>
-[^2]: Meta. "Privacy Policy." Instagram. <https://help.instagram.com/519522125107875.>
-[^3]: Meta. "Privacy Policy." Instagram. <https://help.instagram.com/519522125107875>.
-[^4]: Fresh Air, "How Tech Companies Track Your Every Move & Sell Your Data" [podcast], NPR, 31 July 2019 <https://www.npr.org/2019/07/31/746970018/> 
-[^5]: Meta. "Privacy Policy." Instagram. <https://help.instagram.com/519522125107875.>
-[^6]: Fresh Air, "How Tech Companies Track Your Every Move & Sell Your Data" [podcast], NPR, 31 July 2019 <https://www.npr.org/2019/07/31/746970018/> how-tech-companies-track-your-every-move-sell-your-data. 
-[^7]: Gillespie, Tarleton. (2010). “The Politics of “Platforms” New Media & Society, 12, 347-364. 
-
+## *Footnotes*
+[^1]: Meta. "Terms of Use." *Instagram*. <https://help.instagram.com/581066165581870/.>
+[^2]: Meta. "Privacy Policy." *Instagram*. <https://help.instagram.com/519522125107875.>
+[^3]: Meta. "Privacy Policy." *Instagram*. <https://help.instagram.com/519522125107875>.
+[^4]: *Fresh Air*, "How Tech Companies Track Your Every Move & Sell Your Data" [podcast], NPR, 31 July 2019 <https://www.npr.org/2019/07/31/746970018/> 
+[^5]: Meta. "Privacy Policy." *Instagram*. <https://help.instagram.com/519522125107875.>
+[^6]: *Fresh Air*, "How Tech Companies Track Your Every Move & Sell Your Data" [podcast], NPR, 31 July 2019 <https://www.npr.org/2019/07/31/746970018/> how-tech-companies-track-your-every-move-sell-your-data. 
+[^7]: Gillespie, Tarleton. (2010). “The Politics of “Platforms” *New Media & Society*, 12, 347-364. 
