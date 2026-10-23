@@ -20,7 +20,6 @@ For my final project within CTS1000: Keywords, I wanted to devote my time to a t
 
 ## Brief introduction and appropriate analysis of the keyword *gender*
 
-
 To begin, I wanted to examine an incredibly important keyword in relation to the number of issues linked to female characters within video games, gender. According to the general definitions I have chosen from the Oxford English Dictionary, gender can be a distinctive term utilized to purely draw attention to the biological differences of sex such as physical aspects that make up our appearance [^1].
 
 On the other hand, gender can also be a set of social, cultural roles, and behaviours that are quite often associated with or expected of individuals based on their status as male, female or non-binary. Its complexity ranges from its multiple ways of being spelled, to the diverse way it is used in linguistics as well as its undeniable societal burden as an oppressing label (Oxford English Dictionary, n.d.). Which in connection to my topic leads into the conversation that analyzes the way in which gender (being a woman) comes with its restrictions and limitations that dictate and decide what women get to/should be in a storytelling environment.
@@ -84,4 +83,3 @@ Perreault, M. F., G. Perreault, and A. Suarez. “What Does It Mean to Be a Fema
 [^3]: Reach3 Insights. “Reach3 Insights’ New Research Reveals 59% of Women Surveyed Use a Non-Gendered/Male Identity to Avoid Harassment While Gaming.” Reach3 Insights, May 19, 2021. https://www.reach3insights.com/women-gaming-study.
 
 University of Glasgow. “Largest Study of Video Games Reveals Men Say Twice as Much as Women.” University of Glasgow News, May 24, 2023. https://www.gla.ac.uk/news/headline_966589_en.html.
-
