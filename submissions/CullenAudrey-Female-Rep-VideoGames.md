@@ -13,15 +13,19 @@ Status: Hidden
 
 ### *Written by Audrey Cullen*
 ---
+![cullen-video-game-controller](images/cullen%20-%20video-game-controller.webp)
+###### *A close-up of a Playstation 5 controller, framed in the center of the image with a bright screen in the background.*
+---
+[View the original work as a video presentation and blog by visiting my portfolio!](https://audreysarchive.wixsite.com/audrey-s-archive/post/the-representation-of-female-characters-in-video-games)
+
+---
 
 For my final project within CTS1000: Keywords, I wanted to devote my time to a topic that I was not only interested in learning more about as well as its surrounding issues in a more in-depth analysis, but something that I felt moved by enough to talk about. I have decided to delve into the question as to how the lack of representation and the shallow, carnal design of female characters within video games contribute to gender-based discrimination and further foster environments of harm to women, both in the physical and digital world. 
-
-#### *View the assigmment in its original format by visiting my portfolio!* ADD HYPERLINK
 
 ## Brief introduction and appropriate analysis of the keyword *gender*
 
 
-To begin, I wanted to examine an incredibly important keyword in relation to the number of issues linked to female characters within video games, gender. According to the general definitions I have chosen from the Oxford English Dictionary, gender can be a distinctive term utilized to purely draw attention to the biological differences of sex such as physical aspects that make up our appearance [^1].
+To begin, I wanted to examine an incredibly important keyword in relation to the number of issues linked to female characters within video games, *[gender](https://www.oed.com/dictionary/gender_n?tab=meaning_and_use#3044893)*. According to the general definitions I have chosen from the Oxford English Dictionary, gender can be a distinctive term utilized to purely draw attention to the biological differences of sex such as physical aspects that make up our appearance [^1].
 
 On the other hand, gender can also be a set of social, cultural roles, and behaviours that are quite often associated with or expected of individuals based on their status as male, female or non-binary. Its complexity ranges from its multiple ways of being spelled, to the diverse way it is used in linguistics as well as its undeniable societal burden as an oppressing label (Oxford English Dictionary, n.d.). Which in connection to my topic leads into the conversation that analyzes the way in which gender (being a woman) comes with its restrictions and limitations that dictate and decide what women get to/should be in a storytelling environment.
 
@@ -30,7 +34,7 @@ On the other hand, gender can also be a set of social, cultural roles, and behav
 
 A dominating issue within the world of video games would be the hypersexualization, inadequate design or absence of female characters entirely. The women that are present within the games well-known and loved, in fact, perpetuate and strengthen misogynistic tropes. In most outdated storytelling cultures, women are expected to perform in roles such as damsels in distress or temptress positions in narratives [^2].
 
-Female characters are more frequently than not, portrayed weakly in curated scenarios that force them to take on a helpless nature or the role as a manipulator—their cunningness reduced to the action of “distracting” male protagonists from their objectives.
+Female characters are more frequently than not, portrayed weakly in curated scenarios that force them to take on a helpless nature or the role as a manipulator—their cunningness reduced to the action of [“distracting” male protagonists from their objectives](https://intenta.digital/perspectives/gaming-gender-stereotypes-discrimination/.).
 
 With these archetypes, women suffer greatly when they are regarded as nothing more than a sexual object built into the game as a reward; serving no purpose but to appeal the male gaze. In a poll conducted by Reach3 in 2022, over 76% of individuals who game believed in unison that female characters were over-sexualized for this sole purpose and yet, nothing has been done to improve upon the issue [^3]. This is demonstrated particularly through the video game Grand Theft Auto V.
 
@@ -41,7 +45,7 @@ In the interactive and absurdly mature video game Grand Theft Auto V, women mere
 
 Female characters within video games are also more frequently depicted in incredibly uncomfortable, revealing outfits in comparison to their male counterparts. In addition, the clothing they are forced to wear are often unreasonable and inappropriate for the particular objective or mission within the game.
 
-An example within popular culture that addresses this specific controversy of the video game world is a scene from the 2017 film, Jumanji: Welcome to the Jungle. The film follows a group of teenagers who find themselves transported into an old video game—this particular scene featuring actress Karen Gillan who plays, Martha. Martha vocalizes her complaints about her character Ruby Roundhouse’s appearance in which she takes on [^4]. She wears a tight, cropped shirt that exposes most of her belly, accentuates her breasts and short shorts; her character expressing her discomfort and confusion as it is unlikely anyone would wear anything Ruby was within an action-packed, hostile jungle environment. Why she is dressed and designed the way she is, leads to speculation and assumption that its purpose was objectifying.
+An example within popular culture that addresses this specific controversy of the video game world is a scene from the 2017 film, [Jumanji: Welcome to the Jungle.](https://www.imdb.com/title/tt2283362/) The film follows a group of teenagers who find themselves transported into an old video game—this particular scene featuring actress Karen Gillan who plays, Martha. Martha vocalizes her complaints about her character Ruby Roundhouse’s appearance in which she takes on [^4]. She wears a tight, cropped shirt that exposes most of her belly, accentuates her breasts and short shorts; her character expressing her discomfort and confusion as it is unlikely anyone would wear anything Ruby was within an action-packed, hostile jungle environment. Why she is dressed and designed the way she is, leads to speculation and assumption that its purpose was objectifying.
 
 ### Toxic Gaming Communities and Gender-Based Harassment
 
@@ -49,11 +53,11 @@ An example within popular culture that addresses this specific controversy of th
 
 As a result and collection of these interconnected issues within the video game world, it continues to favour the theme and historical depiction of male superiority; only enhancing the toxic, entitled male gaming community. Video games are primarily marketed to male demographics and have conjured an ideology in which it is believed they should be the only ones allowed to play them—gaming lobbies becoming male-centric echo chambers.
 
->*In a 2021 survey conducted by Reach3 Insights, which involved 900 female gamers across the United States, China, and Germany, 77% of participants reported experiencing gender-based harassment while playing online games.*
+>*In a 2021 survey conducted by [Reach3 Insights](https://www.reach3insights.com/women-gaming-study.), which involved 900 female gamers across the United States, China, and Germany, 77% of participants reported experiencing gender-based harassment while playing online games.*
 
- Name-calling, rape/death threats, inappropriate sexual messages, male players quitting games after learning females had joined open online lobbies, condescending or dismissive remarks, drawing conclusions of a player's gaming abilities, and unwelcome advice were merely a few instances of the many forms this harassment took (Intenta Digital, 2021). Examples of games where this frequently happens as exemplified by a number of clips on streaming platforms are shooting/battle royale games such as Call of Duty, Valorant, Apex, Overwatch, Battlefield, Fortnite, etc. Not only do they lack female characters to choose from or play as but these instances accumulate and fuel a dangerous, violent world in which women have to live and navigate beyond the screens.
+ Name-calling, rape/death threats, inappropriate sexual messages, male players quitting games after learning females had joined open online lobbies, condescending or dismissive remarks, drawing conclusions of a player's gaming abilities, and unwelcome advice were merely [a few instances of the many forms this harassment took](https://intenta.digital/perspectives/gaming-gender-stereotypes-discrimination/.) Examples of games where this frequently happens as exemplified by a number of clips on streaming platforms are shooting/battle royale games such as Call of Duty, Valorant, Apex, Overwatch, Battlefield, Fortnite, etc. Not only do they lack female characters to choose from or play as but these instances accumulate and fuel a dangerous, violent world in which women have to live and navigate beyond the screens.
 
-Though it may not be recognized by members of this population or acknowledged more broadly the way it should be, there is a sense of brotherhood and patriarchal framework that is strongly ingrained in the gaming community (Intenta Digital, 2021). It also presents the idea males are the only ones who can excel in video games, with women often being degraded and told to sit back and allow for the men to “carry them” to victory—a reflection of how society continues to view gender complexly (Maccabe et al., 2018, pp. 165–166).
+Though it may not be recognized by members of this population or acknowledged more broadly the way it should be, there is a [sense of brotherhood and patriarchal framework that is strongly ingrained in the gaming community](https://www.reach3insights.com/women-gaming-study.) (Intenta Digital, 2021). It also presents the idea males are the only ones who can excel in video games, with women often being degraded and told to sit back and allow for the men to “carry them” to victory—a reflection of how society continues to view gender complexly (Maccabe et al., 2018, pp. 165–166).
 
 ### Female Absence and Need for Change
 
@@ -61,7 +65,7 @@ Though it may not be recognized by members of this population or acknowledged mo
 
 It is important to admit the concern regarding the absence of female representation in video games as it extends far beyond aesthetics, touching on issues of cultural and societal influence. A restricted and exclusive gaming experience is the result of persistent sexualization of female characters and adherence to restrictive, prejudicial actions.
 
-In addition to the unequivocal notion of alienating female gamers, this accepted misogyny of male gamers demonstrates biased approaches to thinking, particularly those that support patriarchal ideals.
+>In addition to the unequivocal notion of alienating female gamers, this accepted misogyny of male gamers demonstrates biased approaches to thinking, particularly those that support patriarchal ideals.
 
 Encouraging the unlearning of gendered social expectations is the first step in challenging the issue head on, in addition to our brains wired to overlook sexist remarks. Ultimately, while debates surrounding gaming culture and gender remain complex and ongoing, there can be no debate in rejecting discrimination and violence against women.
 
