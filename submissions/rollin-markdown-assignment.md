@@ -1,4 +1,3 @@
-
 ---
 Title: A Deeper Dive and Critique of Agnew's General Strain Theory
 Authors: Jake Rollin
@@ -76,7 +75,7 @@ Yıldız, Muhammed, and Özgür Solakoglu. "Strain, Negative Emotions, and Suici
 
 <!-- Added hyperlinks to the sources in my bibliography. -->
 
-## Footnotes
+
 
 [^1]: Robert Agnew, "Using General Strain Theory to Explain Crime in Asian Societies," *Asian Journal of Criminology* 10, no. 2 (2015): 131–47.
 
