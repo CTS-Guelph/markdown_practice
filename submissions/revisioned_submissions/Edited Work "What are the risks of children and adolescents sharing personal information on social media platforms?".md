@@ -165,7 +165,7 @@ Reddit banned three different accounts I had because I repeatedly reposted my ga
 
 ### 4. Challenges in Building 3D Environments in Base44
 
-One aspect I really enjoy in many games is the use of 3D environments, and I also believe they can be especially effective in simulation-based games. However, Base44 has a significantly difficult time properly integrating movement within 3D spaces. At times, I would end up outside the boundaries of the environment, vehicles would clip through my character, or I would move through buildings unexpectedly.
+One aspect I really enjoy in many games is the use of 3D environments, which I also believe they can be especially effective in simulation-based games. However, Base44 has a significantly difficult time properly integrating movement within 3D spaces. At times, I would end up outside the boundaries of the environment, vehicles would clip through my character, or I would move through buildings unexpectedly.
 <p align="center">
   <img width="600" height="270" alt="Image of Game 2 Prototype, created by Base44. https://base44.com/" src="https://github.com/user-attachments/assets/7393fff0-fa7e-4a41-a843-484eac95f7cc" />
 </p>
