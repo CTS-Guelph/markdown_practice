@@ -72,7 +72,7 @@ This poster encompasses the whole project by looking at the plan of the games, d
 # Project Development
 To complete this project, I needed a organized plan:
 <p align="center">
-<img width="750" height="300" alt="Middle of Final Project Poster" src="https://github.com/user-attachments/assets/f5f7d06f-308b-40fe-9987-9744956a072b" />
+<img width="675" height="270" alt="Middle of Final Project Poster" src="https://github.com/user-attachments/assets/7b642e59-a54a-4810-9729-10dc77820034" />
 </p>
 <p align="center"> 
 <sub> (Image of the overview of project, taken from the middle of the final project poster. This poster includes the steps taken to complete the project.) </sub>
@@ -143,7 +143,7 @@ One major challenge I had was encouraging users to complete the review. While ma
 
 ### 2. Balancing the Serious vs. Entertainment Elements of the Games
 
-<img align="right" width="120" height="180" alt="Image of Locky from Game 1 Prototype, created by Base44. https://base44.com/" src="https://github.com/user-attachments/assets/bdf74d96-0391-4d80-84ae-080a3b3949a5" />
+<img align="right" width="150" height="225" alt="Image of Locky from Game 1 Prototype, created by Base44. https://base44.com/" src="https://github.com/user-attachments/assets/bdf74d96-0391-4d80-84ae-080a3b3949a5" />
 
 Throughout this project, I struggled to balance serious and entertaining aspects of the game. This challenge became especially important when elements like bright colors, bouncy visuals, and star effects felt inappropriate within a serious theme, such as being hacked. For example, the image on the right shows a small bot named “Locky,” which used these playful features to give players advice. However, it was part of an earlier prototype and was removed because it did not align with the tone I wanted for the final design.
 <br><br><br>
