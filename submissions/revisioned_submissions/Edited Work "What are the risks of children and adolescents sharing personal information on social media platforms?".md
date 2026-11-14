@@ -134,7 +134,7 @@ This shows prototypes 2, 5, and the final. Images </br> are screenshotted from B
 <!--- I added a breakdown of all the preparation for each game for how to share it (Links & Citations Requirement). This is similar to my workpress website. --->
 
 ### Stage 4: Data Analysis and Reflection
-This was one of the most satisfying parts since I got to see what my work led up to. [Click this hyperlink to see the detailed findings from all three games, including Tally the questionnaire results, participant feedback, game reflections, and discoveries that is all in a google document.](https://docs.google.com/document/d/1NjEqHuQYcl0TMbEYAHc3ou6tzz3M0nZt3ySZ__QgqQI/edit?tab=t.0)
+This was one of the most satisfying parts since I got to see what my work led up to. This stage involved gathering the information from all three games and identifying connections between their results. After reviewing the findings, I realized that I needed  to seperate the study and topic discoveries. While some findings came at the end of the project through the results, others were discovered throughout the development process itself. Click on the hyperlink under **"Project Discoveries and Results"** below to look at my findings in more detail. 
 <p align="center"> 
   <img width="1000" height="250" alt="Bottom of Project Poster" src="https://github.com/user-attachments/assets/9220b77a-a699-4c33-a4d0-cdbea352d1fd" />
 </p>
@@ -202,7 +202,7 @@ In terms of the playability, users typically gave positive feedback for the game
 In terms of how the study went, I discovered three things:
 <!--- Description, Link, and Image (Image/Links & Citations Requirement) --->
 ### 1. Game 1 results indicate that external factors can create stress, which in turn impacts short-term memory.
-In Game 1, the average memory score was 3.125/5, suggesting that participants didn’t have great memory during the game. Users most likely linked this to the boss character, since 75% of participants specifically stated that the boss made it harder for them to remember the passwords, and it was the primary distraction in the game. However, a couple users noted that there were glitches in the game which could have influenced these results. These comments can be found in the [overall results of the games and discoveries document](https://docs.google.com/document/d/1NjEqHuQYcl0TMbEYAHc3ou6tzz3M0nZt3ySZ__QgqQI/edit?usp=sharing).
+In Game 1, the average memory score was 3.125/5, suggesting that participants didn’t have great memory during the game. Users most likely linked this to the boss character, since 75% of participants specifically stated that the boss made it harder for them to remember the passwords, and it was the primary distraction in the game. However, a couple users noted that there were glitches in the game which could have influenced these results.
 
 <!--- Another hyperlinked link above, and a list below (Links & Citations/Styling Requirement). --->
 
