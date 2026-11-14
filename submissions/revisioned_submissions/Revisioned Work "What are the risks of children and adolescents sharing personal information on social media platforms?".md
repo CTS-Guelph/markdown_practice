@@ -71,7 +71,7 @@ This poster encompasses the whole project by looking at the plan of the games, d
 # Project Development
 To complete this project, I needed a organized plan:
 <p align="center">
-<img width="1000" height="400" alt="Middle of Final Project Poster" src="https://github.com/user-attachments/assets/f5f7d06f-308b-40fe-9987-9744956a072b" />
+<img width="750" height="300" alt="Middle of Final Project Poster" src="https://github.com/user-attachments/assets/f5f7d06f-308b-40fe-9987-9744956a072b" />
 </p>
 <p align="center"> 
 <sub> (Image of the overview of project, taken from the middle of the final project poster. This poster includes the steps taken to complete the project.) </sub>
