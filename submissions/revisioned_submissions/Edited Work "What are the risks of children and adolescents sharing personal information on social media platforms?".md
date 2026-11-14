@@ -91,7 +91,7 @@ First, I needed to research cybersecurity behaviors and serious game design to d
 Second, each game was being built through Base44 (A.I. website builder), which means it was easy to get prototypes, but harder to get everything perfect. Each game was developed through 9-12 versions of prototypes. Each prototypes were refined based on usability, clarity, and interaction timing. Their continued to be prototypes built of Game 1 near the end, since it was oldest and least polished out of the games. However, Game 1 2.0 was never reviewed.
 
 <details>
-<summary> Click Here to See All Game Prototypes and Prompts </summary>
+<summary> Click Here to See Every Games Prototypes and Prompts </summary>
 
 Each of the links go to the documentation for building the games, which includes every prototype of each game, and chat documentation done with Base44:
   
@@ -114,7 +114,7 @@ Game 1 2.0: https://docs.google.com/document/d/1NIXWIhsZBIa_ccN8kPmHNBkw14FcE55x
 These games were distributed through multiple online platforms, with two primary ones used for data collection. These platforms allowed for both quantitative (scaled responses from Tally) and qualitative (user feedback from Play2Review) reviews of how the games and impacts of the scenario went.
 
 <details>
-<summary> Click Here to See Document Preparation of Tally Sites </summary>
+<summary> Click Here to See Tally Preparation for Each Game </summary>
 
 The links below show the games set up for getting responses on Tally, which includes the draft post used in platforms to get users connected, as well as the questions developed to users to enter after they played the game:
   
