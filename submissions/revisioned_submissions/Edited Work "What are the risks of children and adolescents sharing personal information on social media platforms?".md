@@ -202,21 +202,21 @@ In terms of the playability, users typically gave positive feedback for the game
 In terms of how the study went, I discovered three things:
 <!--- Description, Link, and Image (Image/Links & Citations Requirement) --->
 ### 1. Game 1 results indicate that external factors can create stress, which in turn impacts short-term memory.
-In Game 1, the average memory score was 3.125/5, suggesting that participants didn’t have great memory during the game. Users most likely linked this to the boss character, since 75% of participants specifically stated that the boss made it harder for them to remember the passwords, and it was the primary distraction in the game. However, it was noted by a couple users had glitches in the game which could have influenced these results. These comments are in the [overall results of the games and discoveries document](https://docs.google.com/document/d/1NjEqHuQYcl0TMbEYAHc3ou6tzz3M0nZt3ySZ__QgqQI/edit?usp=sharing).
+In Game 1, the average memory score was 3.125/5, suggesting that participants didn’t have great memory during the game. Users most likely linked this to the boss character, since 75% of participants specifically stated that the boss made it harder for them to remember the passwords, and it was the primary distraction in the game. However, a couple users noted that there were glitches in the game which could have influenced these results. These comments can be found in the [overall results of the games and discoveries document](https://docs.google.com/document/d/1NjEqHuQYcl0TMbEYAHc3ou6tzz3M0nZt3ySZ__QgqQI/edit?usp=sharing).
 
 <!--- Another hyperlinked link above, and a list below (Links & Citations/Styling Requirement). --->
 
-### 2. Having distractions makes tasks more difficult, which leads people to perform better or worse, similar to a fight or flight situation.
-The results clearly show that the games did the job of creating proper distractions which made the tasks more difficult:
+### 2. Having distractions makes tasks more difficult, which leads people to perform better or worse, similar to a fight-or-flight situation.
+The results clearly show that the games successfully created distractoions, which made the tasks more difficult:
 - In Game 1, 75% of participants reported that the boss character made it harder to focus.
 - In Game 2, 80% said driving made it harder to focus on the task.
-- In Game 3, 60% percent said watching a child made the task harder. 
+- In Game 3, 60% said watching a child made the task harder. 
 
-One interesting finding is that in Game 2, responses to the question “Were your scores worse in phase 3 and 4 compared to phase 2?” were either very high or low. In the same game, 80% of participants clearly indicated that driving made the task harder, likely meaning that there was a strong perceived impact of the distraction. In contrast, Game 3 only had a 60% rating of difficulty from the distraction, while also producing more moderate, mid-ranged responses for ratings if the phases were getting harder. These patterns seem to be related and suggest that when individuals are clearly distracted, they either overfocus and perform better or perform much worse. This is similar to a fight-or-flight response under pressure.
+One interesting finding is that in Game 2, responses to the question “Were your scores worse in phase 3 and 4 compared to phase 2?” were either very high or low. In the same game, 80% of participants clearly indicated that driving made the task harder, likely meaning that there was a strong perceived impact of the distraction. In contrast, Game 3 only had a 60% rating of difficulty from the distraction, while also producing more moderate, middle-ranged responses for ratings of whether the phases were getting harder for the users. These patterns seem to be related and suggest that when individuals are clearly distracted, they either overfocus and perform better or perform much worse. This is similar to a fight-or-flight response under pressure.
 
 ### 3. Showing a time limit can make decision-making difficult compared to not having one.
 
-In Game 2, participants gave an average rating of 4.1/5 when asked if the visible 4-second timer made it more difficult for decisions to be made. This timer was not availiable during the first and second phases. This further contributes to the fight-or-flight theory, as people are saying the timer is difficult, but are mostly rating a 1 or 5 for the comparison of phases scale for how their scores were. Additionally, based on obversation, users seemed to be going 2-3 seconds per email, so this timed pressure was mainly affecting the users by just having it displayed. 
+In Game 2, participants gave an average rating of 4.1/5 when asked if the visible 4-second timer made it more difficult for decisions to be made. This timer was not availiable during the first and second phases. This further contributes to the fight-or-flight theory since participants voted saying the timer is difficult, but are mostly rating a 1 or 5 for the comparison of phases scale for how their scores were. Additionally, based on obversation, users seemed to be going 2-3 seconds per email, so this timed pressure was mainly affecting the users by just having it displayed. 
 
 # Final Reflection
 Through building this project, I have developed and learned a great deal:
