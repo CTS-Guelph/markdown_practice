@@ -111,12 +111,12 @@ Game 1 2.0: https://docs.google.com/document/d/1NIXWIhsZBIa_ccN8kPmHNBkw14FcE55x
 <!--- I added a breakdown of all the prototypes for each game (Links & Citations Requirement). This is similar to my workpress website. --->
 
 ### Stage 3: Distribution and Data Collection
-These games were distributed through multiple online platforms, with two primary ones used for data collection. These platforms allowed for both quantitative (scaled responses from Tally) and qualitative (user feedback from Play2Review) reviews of how the games and impacts of the scenario went.
+These games were distributed through multiple online platforms, with two primary platforms being used for data collection. These platforms allowed for both quantitative (scaled responses from Tally) and qualitative (user feedback from Play2Review) reviews of how the games performed and how the scenarios affected users.
 
 <details>
-<summary> Click Here to See Tally Preparation for Each Game </summary>
+<summary> Click Here to See Tally Preparations for Each Game </summary>
 
-The links below show the games set up for getting responses on Tally, which includes the draft post used in platforms to get users connected, as well as the questions developed to users to enter after they played the game:
+The links below show the games set up for getting responses on Tally, which includes the draft post used in platforms to get users connected, as well as the questions developed for users to enter after they played the game:
   
 Game 1: https://docs.google.com/document/d/1THDGFan2vW8-mI67K0gePPMYyvbFpuvZP_4E61A8zJ4/edit?usp=sharing
 
