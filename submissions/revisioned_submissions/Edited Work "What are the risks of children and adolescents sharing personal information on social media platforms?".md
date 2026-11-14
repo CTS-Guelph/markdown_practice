@@ -64,7 +64,7 @@ This poster encompasses the whole project by looking at the plan of the games, d
 | --- | --- | --- | --- |
 | https://cyber-breach-2b3772f3.base44.app/ | https://meticulous-fireway-drive-safe.base44.app/ | https://watch-cyber-guard.base44.app/ | https://independent-mind-guard-play.base44.app/ |
 <p align="center"> 
-<sub> (Links and images to each of the final games developed in this project, which take you to a Base44 A.I. platform. Each link and image is inline with the game labelled above it. Created by Base44.https://base44.com/) </sub>
+<sub> (Links and images to each of the final games developed in this project, which take you to a Base44 A.I. platform. Each link and image is inline with the game labelled above it. Games created by and screenshotted from Base44.https://base44.com/) </sub>
 </p>
 
 <!--- I added a table with links to be inline with my game logos (Styling/Links & Citations Requirement). Although I would prefer the games to be imbedded into this page, I think Markdown can't do it. ---> 
@@ -129,7 +129,7 @@ Game 3: https://docs.google.com/document/d/11hCd61AbggcYyNuUWUra2rptUhOhsnQLSe2g
 
 </br>
 <sub> (Image of the progress of making Game 2 through Base44. </br>
-This shows prototypes 2, 5, and the final. https://base44.com/) </sub>
+This shows prototypes 2, 5, and the final. Images are screenshotted from Base44. https://base44.com/) </sub>
 
 <!--- I added a breakdown of all the preparation for each game for how to share it (Links & Citations Requirement). This is similar to my workpress website. --->
 
@@ -151,7 +151,7 @@ One major challenge I had was encouraging users to complete the review. While ma
 
 ### 2. Balancing the Serious vs. Entertainment Elements of the Games
 
-<img align="right" width="150" height="225" alt="Image of Locky from Game 1 Prototype, created by Base44. https://base44.com/" src="https://github.com/user-attachments/assets/bdf74d96-0391-4d80-84ae-080a3b3949a5" />
+<img align="right" width="150" height="225" alt="Image of Locky from Game 1 Prototype, created by and image screenshotted from Base44. https://base44.com/" src="https://github.com/user-attachments/assets/bdf74d96-0391-4d80-84ae-080a3b3949a5" />
 
 Throughout this project, I struggled to balance serious and entertaining aspects of the game. This challenge became especially important when elements like bright colors, bouncy visuals, and star effects felt inappropriate within a serious theme, such as being hacked. For example, the image on the right shows a small bot named “Locky,” which used these playful features to give players advice. However, it was part of an earlier prototype and was removed because it did not align with the tone I wanted for the final design.
 <br><br><br><br><br>
@@ -170,7 +170,7 @@ One aspect I really enjoy in many games is the use of 3D environments, and I als
   <img width="600" height="270" alt="Image of Game 2 Prototype, created by Base44. https://base44.com/" src="https://github.com/user-attachments/assets/7393fff0-fa7e-4a41-a843-484eac95f7cc" />
 </p>
 <p align="center"> 
-<sub> (Image of Game 2 Prototype, which shows a 3D version of the game. This version had problems understanding the rules of the environment. created by Base44. https://base44.com/) </sub>
+<sub> (Image of Game 2 Prototype, which shows a 3D version of the game. This version had problems understanding the rules of the environment. Image screenshotted from Base44. https://base44.com/ https://base44.com/) </sub>
 </p>
 
 <!--- Description, Link, and Image (Image/Links & Citations Requirement). --->
@@ -236,7 +236,7 @@ While building my games, I had some disturbing, almost demonic-like images happe
 <img width="500" height="230" alt="One of the Creepy Prototypes from Game 3, created by Base44. https://base44.com/" src="https://github.com/user-attachments/assets/0e2490bc-7a8a-470a-ba4f-078fa3416a6b" />
 </p>
 <p align="center">
-<sub>(One of the creepy prototypes from Game 3. Base44 likely misunderstood what the game was supposed to be about. Image screenshotted through from Base44. https://base44.com/) </sub>
+<sub>(One of the creepy prototypes from Game 3. Base44 likely misunderstood what the game was supposed to be about. Image screenshotted from Base44. https://base44.com/) </sub>
 </p>
 
 <!--- Description, Link, and Image (Image/Links & Citations Requirement). --->
