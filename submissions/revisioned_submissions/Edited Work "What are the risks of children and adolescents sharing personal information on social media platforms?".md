@@ -183,7 +183,7 @@ One aspect I really enjoy in many games is the use of 3D environments, which I a
 
 ### 1. When building games using A.I., there is no “fluff” – you work directly with what is generated.
 
-Working with AI to build an interactive platform gives limited control over the final design. Unlike text-based A.I. systems, which may sometimes produce “fluffy” or vague results, game-based A.I. does not allow for that same flexibility because it must always generate an output bigger than expected. For example, if you ask an A.I. prompt to create an image of a person biking, it will do just that, with most likely just a bike on its own. But if you ask a game-based A.I., it will decide for you what the background is, how the bike operates, where it comes from, etc. Meaning that a lot more of the information is built for you because there are more variables to consider.
+Working with AI to build an interactive platform gives limited control over the final design. Unlike text-based A.I. systems, which may sometimes produce “fluffy” or vague results, game-based A.I. does not allow for that same flexibility because it must always generate an output bigger than expected. For example, if you ask an A.I. prompt to create an image of a person biking, it will do just that, with most likely just a bike on its own. However, if you ask a game-based AI system, it will decide for you what the background is, how the bike operates, where it comes from, etc. Meaning that a lot more of the information is generated for you because there are more variables to consider.
 
 ### 2. There are many new games constantly being released on lesser-known or unfamiliar platforms, waiting to be discovered and played.
 
