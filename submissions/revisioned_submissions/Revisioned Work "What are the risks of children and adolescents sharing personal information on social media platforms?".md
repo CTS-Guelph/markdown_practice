@@ -124,7 +124,7 @@ Game 3: https://docs.google.com/document/d/11hCd61AbggcYyNuUWUra2rptUhOhsnQLSe2g
 ### Stage 4: Data Analysis and Reflection
 This was one of the most satisfying parts, since I got to see what my work led up too. Here is the [document wth all the ratings and discoveries.](https://docs.google.com/document/d/1NjEqHuQYcl0TMbEYAHc3ou6tzz3M0nZt3ySZ__QgqQI/edit?tab=t.0)
 <p align="center"> 
-  <img width="600" height="150" alt="Bottom of Project Poster" src="https://github.com/user-attachments/assets/9220b77a-a699-4c33-a4d0-cdbea352d1fd" />
+  <img width="1000" height="250" alt="Bottom of Project Poster" src="https://github.com/user-attachments/assets/9220b77a-a699-4c33-a4d0-cdbea352d1fd" />
 </p>
 <p align="center"> 
 <sub> (Bottom of Project Poster) </sub>
