@@ -115,6 +115,8 @@ These games were distributed through multiple online platforms, with two primary
 
 <details>
 <summary> Click Here to See Document Preparation of Tally Sites </summary>
+
+The links below show the games set up for getting responses on Tally, which includes the draft post used in platforms to get users connected, as well as the questions developed to users to enter after they played the game:
   
 Game 1: https://docs.google.com/document/d/1THDGFan2vW8-mI67K0gePPMYyvbFpuvZP_4E61A8zJ4/edit?usp=sharing
 
