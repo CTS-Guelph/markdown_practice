@@ -196,7 +196,7 @@ In terms of the games playability, users typically gave good results. This was e
 <img width="700" height="200" alt="Review of Game 3 from a user from Play2Review. https://play2review.com/" src="https://github.com/user-attachments/assets/a269da6b-625b-458d-ba5b-c84c84baef3b" />
 </p>
 <p align="center"> 
-<sub> (Review of Game 3 from a user from Play2Review. https://play2review.com/) </sub>
+<sub> (Review of Game 3 from a user from Play2Review. The user was very satisfied with the game, and gave a reasonable critique of it. Review from https://play2review.com/) </sub>
 </p>
 
 In terms of how the study went, I discovered three things:
