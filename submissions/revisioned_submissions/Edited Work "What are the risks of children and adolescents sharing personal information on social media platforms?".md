@@ -134,12 +134,12 @@ This shows prototypes 2, 5, and the final. Images </br> are screenshotted from B
 <!--- I added a breakdown of all the preparation for each game for how to share it (Links & Citations Requirement). This is similar to my workpress website. --->
 
 ### Stage 4: Data Analysis and Reflection
-This was one of the most satisfying parts, since I got to see what my work led up too. Here is the [document wth all the ratings and discoveries.](https://docs.google.com/document/d/1NjEqHuQYcl0TMbEYAHc3ou6tzz3M0nZt3ySZ__QgqQI/edit?tab=t.0)
+This was one of the most satisfying parts since I got to see what my work led up too. Here is the [document with all the ratings and discoveries.](https://docs.google.com/document/d/1NjEqHuQYcl0TMbEYAHc3ou6tzz3M0nZt3ySZ__QgqQI/edit?tab=t.0)
 <p align="center"> 
   <img width="1000" height="250" alt="Bottom of Project Poster" src="https://github.com/user-attachments/assets/9220b77a-a699-4c33-a4d0-cdbea352d1fd" />
 </p>
 <p align="center"> 
-<sub> (Bottom of project poster that shows the results from questionares of Tally on the three games. This includes if the games simulated a high-pressure environment, wheither the distraction was successful, and the ratings of the games overall) </sub>
+<sub> (Bottom of project poster that shows the results from questionnares of Tally on the three games. This includes whether the games simulated a high-pressure environment, whether the distraction was successful, and the overeall ratings of the games.) </sub>
 </p>
 
 # Challenges Faced
