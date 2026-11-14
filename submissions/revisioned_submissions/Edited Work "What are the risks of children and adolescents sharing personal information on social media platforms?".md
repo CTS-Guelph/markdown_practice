@@ -64,7 +64,7 @@ This poster encompasses the whole project by looking at the plan of the games, d
 | --- | --- | --- | --- |
 | https://cyber-breach-2b3772f3.base44.app/ | https://meticulous-fireway-drive-safe.base44.app/ | https://watch-cyber-guard.base44.app/ | https://independent-mind-guard-play.base44.app/ |
 <p align="center"> 
-<sub> (Links and images to each of the final games developed in this project, which take you to a Base44 A.I. platform. Each link and image is inline with the game labelled above it. Games created by and screenshotted from Base44.https://base44.com/) </sub>
+<sub> (Links and images to each of the final games developed in this project, which take you to a Base44 A.I. platform. Each link and image is inline with the game labelled above it. Games created by and screenshotted from Base44. https://base44.com/) </sub>
 </p>
 
 <!--- I added a table with links to be inline with my game logos (Styling/Links & Citations Requirement). Although I would prefer the games to be imbedded into this page, I think Markdown can't do it. ---> 
