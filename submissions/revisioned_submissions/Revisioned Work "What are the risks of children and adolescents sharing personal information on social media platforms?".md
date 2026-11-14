@@ -41,7 +41,7 @@ From this idea, I developed a project focusing on the relationship between: **Se
   <!--- As I said, I learned how to make collapsible sections, I also learned how to make things centered for organization https://gist.github.com/DavidWells/7d2e0e1bc78f4ac59a123ddf8b74932d --->
   <img width="700" height="900" alt="Image of Final Project Poster" src="https://github.com/user-attachments/assets/736e745b-73f3-451e-bc0e-545257860f8b" />
 <p align="center"> 
-<sub> (Image of Final Project Poster) </sub> 
+<sub> (Image of the final poster showing the overall project. This includes a project summary, why the project matters, all the games I built, steps it took to create the project, study and topic discoveries, and game ratings.) </sub> 
 </p>
 </details>
 
