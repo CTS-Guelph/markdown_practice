@@ -127,7 +127,7 @@ This was one of the most satisfying parts, since I got to see what my work led u
   <img width="1000" height="250" alt="Bottom of Project Poster" src="https://github.com/user-attachments/assets/9220b77a-a699-4c33-a4d0-cdbea352d1fd" />
 </p>
 <p align="center"> 
-<sub> (Bottom of Project Poster) </sub>
+<sub> (Bottom of Project Poster that shows the results from questionares of Tally on the three games.) </sub>
 </p>
 
 # Challenges Faced
