@@ -254,9 +254,9 @@ https://www.tutorialspoint.com/article/how-to-create-hidden-comments-in-html
 
 # Citations (Chicago-Style)
 ## Tools used in Project
-Play2Review. "Game Intelligence Platform." Play2Review, 2026. https://play2review.com/.
+Play2Review. "Game Intelligence Platform." 2026. https://play2review.com/.
 
-Maor Shlomo, “Build Apps with AI in Minutes,” Base44, 2026, https://base44.com/.
+Shlomo, Maor. “Build Apps with AI in Minutes.” Base44, 2026. https://base44.com/.
 
 Tally Forms. “100+ Free Online Form Templates: Fully Customizable: Tally.” Tally, 2026. tally.so/templates. 
 
