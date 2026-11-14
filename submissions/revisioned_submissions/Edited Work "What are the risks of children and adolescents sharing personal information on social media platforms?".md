@@ -81,19 +81,19 @@ To complete this project, I needed an organized plan:
 <!--- I added this image here to give a overview of the plan I had in creating the project (Image Requirement) --->
 
 ### Stage 1: Research and Scenario Development
-First, I needed to research cybersecurity behaviours and serious game design to develop realistic scenarios. After building Game 1 and discussing with my teacher and mentor, I needed to both educate and inform users about the relationship between external pressures and work-life. For example, in the beginning of the game's instructions, it would explain key indicators that an email may be a scam. I also ensured there was a clear and realistic way to measure the impact of external factors compared with conditions without those influences. [Click here to see the document containing the research used to develop these games.](https://docs.google.com/document/d/1kWsPzTiy3tZl3lMPGrfDh5vtzhojrkqkXrqoTa17z9A/edit?usp=sharing), mainly before I attempted at making them. 
+First, I needed to research cybersecurity behaviours and serious game design to develop realistic scenarios. After building Game 1 and discussing with my teacher and mentor, I needed to both educate and inform users about the relationship between external pressures and work-life. For example, in the beginning of the game's instructions, it would explain key indicators that an email may be a scam. I also ensured there was a clear and realistic way to measure the impact of external factors compared with conditions without those influences. [Click here to see the document containing the research used to develop these games.](https://docs.google.com/document/d/1kWsPzTiy3tZl3lMPGrfDh5vtzhojrkqkXrqoTa17z9A/edit?usp=sharing), mainly before I attempted to make them. 
 
 <!--- I added a hyperlink to my website where I researched the games (Links & Citations Requirement)--->
 
 ### Stage 2: Revised Prototypes 
 <img align="right" width="350" height="420" alt="Images of Progress of Games that were Created through Base44. https://base44.com/" src="https://github.com/user-attachments/assets/1f870ec5-97d4-4692-af10-7748d5a54c61"> 
 
-Second, each game was built through Base44 (A.I. website builder), which means it was easy to get prototypes, but harder to get everything perfect. Each game was developed through 9-12 prototype versions. Each prototype was refined based on usability, clarity, and interaction timing. There continued to be prototypes built of Game 1 near the end, since it was oldest and least polished of the games. However, Game 1 2.0 was never reviewed.
+Second, each game was built through Base44 (an A.I. website builder), which means it was easy to create prototypes, but harder to get everything perfect. Each game went through 9-12 prototype versions. Each prototype was refined based on usability, clarity, and interaction timing. There continued to be prototypes built of Game 1 build near the end, since it was the oldest and least polished of the games. However, Game 1 2.0 was never reviewed.
 
 <details>
 <summary> Click Here to See All Game Prototypes and Prompts </summary>
 
-Each of the links goes to the documentation for building the games, which includes every prototype of each game, and chat documentation created with Base44:
+Each link leads to the documentation for building the games, which includes every prototype of each game, and chat documentation created with Base44:
   
 Game 1: https://docs.google.com/document/d/14lK4OsZ8SSrwehfJwObk6XczkHkTrsSBUs-Yl2IZHPg/edit?usp=sharing
 
@@ -116,7 +116,7 @@ These games were distributed through multiple online platforms, with two primary
 <details>
 <summary> Click Here to See Tally Preparations for Each Game </summary>
 
-The links below show the games set up for getting responses on Tally, which includes the draft post used in platforms to get users connected, as well as the questions developed for users to enter after they played the game:
+The links below show the games set up for getting responses on Tally, which includes the draft post used in platforms to get users connected, as well as the questions developed for users to answer after playing the game:
   
 Game 1: https://docs.google.com/document/d/1THDGFan2vW8-mI67K0gePPMYyvbFpuvZP_4E61A8zJ4/edit?usp=sharing
 
@@ -134,12 +134,12 @@ This shows prototypes 2, 5, and the final. Images </br> are screenshotted from B
 <!--- I added a breakdown of all the preparation for each game for how to share it (Links & Citations Requirement). This is similar to my workpress website. --->
 
 ### Stage 4: Data Analysis and Reflection
-This was one of the most satisfying parts since I got to see what my work led up too. Here is the [document with all the ratings and discoveries.](https://docs.google.com/document/d/1NjEqHuQYcl0TMbEYAHc3ou6tzz3M0nZt3ySZ__QgqQI/edit?tab=t.0)
+This was one of the most satisfying parts since I got to see what my work led up to. Here is the [document with all the ratings and discoveries.](https://docs.google.com/document/d/1NjEqHuQYcl0TMbEYAHc3ou6tzz3M0nZt3ySZ__QgqQI/edit?tab=t.0)
 <p align="center"> 
   <img width="1000" height="250" alt="Bottom of Project Poster" src="https://github.com/user-attachments/assets/9220b77a-a699-4c33-a4d0-cdbea352d1fd" />
 </p>
 <p align="center"> 
-<sub> (Bottom of project poster that shows the results from questionnares of Tally on the three games. This includes whether the games simulated a high-pressure environment, whether the distraction was successful, and the overeall ratings of the games.) </sub>
+<sub> (Bottom of project poster that shows the results from questionnaires of Tally on the three games. This includes whether the games simulated a high-pressure environment, whether the distraction was successful, and the overall ratings of the games.) </sub>
 </p>
 
 # Challenges Faced
@@ -153,10 +153,10 @@ One major challenge I had was encouraging users to complete the review. While ma
 
 <img align="right" width="150" height="225" alt="Image of Locky from Game 1 Prototype, created by and image screenshotted from Base44. https://base44.com/" src="https://github.com/user-attachments/assets/bdf74d96-0391-4d80-84ae-080a3b3949a5" />
 
-Throughout this project, I struggled to balance the serious and entertaining aspects of the game. This challenge became especially important when elements like bright colors, bouncy visuals, and star effects felt inappropriate for a serious theme, such as being hacked. For example, the image on the right shows a small bot named “Locky,” which used these playful features to give players advice. However, it was part of an earlier prototype and was removed because it did not align with the tone I wanted for the final design.
+Throughout this project, I struggled to balance the serious and entertaining aspects of the games. This challenge became especially important when elements like bright colors, bouncy visuals, and star effects felt inappropriate for a serious theme, such as being hacked. For example, the image on the right shows a small bot named “Locky,” which used these playful features to give players advice. However, it was part of an earlier prototype and was removed because it did not align with the tone I wanted for the final design.
 <br><br><br><br><br>
 <p align="right"> 
-<sub> (Image of "Locky" from Game 1 Prototype. </br> The bot would give advice to users, but was cut </br> from the final game Created by Base44. </br> https://base44.com/) </sub>
+<sub> (Image of "Locky" from Game 1 Prototype. </br> The bot would give advice to users but was cut </br> from the final game Created by Base44. </br> https://base44.com/) </sub>
 </p>
 
 
@@ -181,9 +181,9 @@ One aspect I really enjoy in many games is the use of 3D environments, which I a
 
 ## Summary of Discoveries
 
-### 1. When building games using A.I., there is no “fluff” – you work directly with what is generated.
+### 1. When building games using AI, there is no “fluff” – you work directly with what is generated.
 
-Working with AI to build an interactive platform gives limited control over the final design. Unlike text-based A.I. systems, which may sometimes produce “fluffy” or vague results, game-based A.I. does not allow for that same flexibility because it must always generate an output bigger than expected. For example, if you ask an A.I. prompt to create an image of a person biking, it will do just that, with most likely just a bike on its own. However, if you ask a game-based AI system, it will decide for you what the background is, how the bike operates, where it comes from, etc. Meaning that a lot more of the information is generated for you because there are more variables to consider.
+Working with AI to build an interactive platform gives limited control over the final design. Unlike text-based AI systems, which may sometimes produce “fluffy” or vague results, game-based AI does not allow for that same flexibility because it must always generate an output bigger than expected. For example, if you ask an AI system to create an image of a person biking, it will do just that, with most likely just a bike on its own. However, if you ask a game-based AI system, it will decide for you what the background is, how the bike operates, where it comes from, etc. Meaning that a lot more of the information is generated for you because there are more variables to consider.
 
 ### 2. There are many new games constantly being released on lesser-known or unfamiliar platforms, waiting to be discovered and played.
 
@@ -191,7 +191,7 @@ One thing I discovered is that game promotion often happens behind the scenes on
 
 ## Summary of Results
 
-In terms of the playability, users typically gave positive feedback for the games. This was especially true by Game 3, as I began to understand how to properly build a challenging yet playable game that educates users correctly. 
+In terms of the playability, users typically gave positive feedback for the games. This was especially true with Game 3, as I began to understand how to properly build a challenging yet playable game that educates users effectively. 
 <p align="center">
 <img width="700" height="200" alt="Review of Game 3 from a user from Play2Review. https://play2review.com/" src="https://github.com/user-attachments/assets/a269da6b-625b-458d-ba5b-c84c84baef3b" />
 </p>
