@@ -216,22 +216,22 @@ One interesting finding is that in Game 2, responses to the question “Were you
 
 ### 3. Showing a time limit can make decision-making difficult compared to not having one.
 
-In Game 2, participants gave an average rating of 4.1/5 when asked if the visible 4-second timer made it more difficult for decisions to be made. This timer was not availiable during the first and second phases. This further contributes to the fight-or-flight theory since participants voted saying the timer is difficult, but are mostly rating a 1 or 5 for the comparison of phases scale for how their scores were. Additionally, based on obversation, users seemed to be going 2-3 seconds per email, so this timed pressure was mainly affecting the users by just having it displayed. 
+In Game 2, participants gave an average rating of 4.1/5 when asked if the visible 4-second timer made it more difficult for decisions to be made. This timer was not availiable during the first and second phases. This further contributes to the fight-or-flight theory since participants voted saying the timer is difficult, but mostly rated their performance as either a 1 or 5 on the scale comparing their scores across phases. Additionally, based on observation, users seemed to spend 2-3 seconds on each email. So this timed pressure seemed to be affecting the users by just having it displayed. 
 
 # Final Reflection
-Through building this project, I have developed and learned a great deal:
+Through building this project, I have learned and developed a great deal:
 
-### First, creating games using A.I. is very different from using text-based A.I. platforms. 
+### First, creating games using AI is very different from using text-based A.I. platforms. 
 
-With text-based A.I., you can give a simple prompt like “create an image of a person biking,” and it will usually produce exactly that. However, with game-based A.I., you need to consider details such as when, where, how long, whether it’s interactive, etc. This makes fixing issues more time-consuming, since more variables can go wrong.
+With text-based AI, you can give a simple prompt like “create an image of a person biking,” and it will usually produce exactly that. However, with game-based AI, you need to consider details such as when, where, how long, and whether something is interactive. This makes fixing issues more time-consuming since thee are more variables that can go wrong.
 
 ### Second, I discovered there’s a large community of creators who build and share demo games. 
 
 I found that many people actually encouraged me to share my games on their platforms to help drive traffic to their sites.
 
-### Third, I noticed that game-based A.I. platforms have fewer content restrictions compared to text-based A.I. platforms. 
+### Third, I noticed that game-based AI platforms have fewer content restrictions compared to text-based A.I. platforms. 
 
-While building my games, I had some disturbing, almost demonic-like images happen that likely wouldn’t appear on a platform like ChatGPT. Part of this could be because text-based A.I. sometimes says “cannot respond” or returns non-specific results, whereas the A.I. game platform will show a result no matter what.    
+While building my games, I had some disturbing, almost demonic-like images happen that likely wouldn’t appear on a platform like ChatGPT. Part of this could be because text-based AI sometimes says “cannot respond” or returns nonspecific results, whereas the AI game platform will generate a result no matter what.    
 <p align="center">
 <img width="500" height="230" alt="One of the Creepy Prototypes from Game 3, created by Base44. https://base44.com/" src="https://github.com/user-attachments/assets/0e2490bc-7a8a-470a-ba4f-078fa3416a6b" />
 </p>
@@ -241,10 +241,10 @@ While building my games, I had some disturbing, almost demonic-like images happe
 
 <!--- Description, Link, and Image (Image/Links & Citations Requirement). --->
 
-Overall, throughout this project, I gained organizational skills and developed better understand of the relationship between individuals work and home-life. This was a great experience for me.
+Overall, throughout this project, I gained organizational skills and developed a better understanding of the relationship between individuals' work and home lives. This was a great experience for me.
 
-# More Information About Project
-For more information about the project, visit this site to find additional documents, details about the games, and more pictures of the progress:
+# More Information About the Project
+For more information about the project, visit this site to find additional documents, details about the games, and more pictures showing the project progress:
 https://ctsstudentsite1.wordpress.com/2026/04/10/the-impact-of-external-pressure-on-cybersecurity-decision-making/ 
 
 <!--- As noted at the top, if I made the "Tools used in project" citation group below footnoted, the image descriptions need to be unaligned because it needs me to remove where I asked it to go - centre/right/left. Not sure why the tally.so/templates link isn't auto appearing as a link when previewing, I'm not sure how to fix that. Additionally, I am also not using the "Relevant Resources" citation group sources within this article for quotes/sources, so they don't appear if I don't use them when they are footnoted. So I didn't use footnotes because it made more sense for my document. I also had some links that helped me create this entire article too, mainly Github Guides and our own tutorials from class: 
@@ -261,7 +261,7 @@ Shlomo, Maor. “Build Apps with AI in Minutes.” Base44, 2026. https://base44.
 Tally Forms. “100+ Free Online Form Templates: Fully Customizable: Tally.” Tally, 2026. tally.so/templates. 
 
 ## Relevant Resources Used in Hyperlinked Documents
-***Although these sources aren't in this article, they helped build the games.***
+***Although these sources aren't included in this article, they helped build the games.***
 
 Chowdhury, N. H., M. T. P. Adam, and T. Teubner. “Time Pressure in Human Cybersecurity Behavior: Theoretical Framework and Countermeasures.” Computers & Security 97 (2020). https://www.sciencedirect.com/science/article/abs/pii/S0167404820301747.
 
