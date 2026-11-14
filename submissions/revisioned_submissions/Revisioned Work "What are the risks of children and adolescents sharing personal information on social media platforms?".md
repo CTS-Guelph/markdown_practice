@@ -117,7 +117,10 @@ Game 3: https://docs.google.com/document/d/11hCd61AbggcYyNuUWUra2rptUhOhsnQLSe2g
 </details>
 
 <p align="right"> 
-<sub> (Images of Progress of Games that were Created through Base44. https://base44.com/) </sub>
+
+</br>
+<sub> (Image of the progress of making Game 2 through Base44. </br>
+This shows prototypes 2, 5, and the final. https://base44.com/) </sub>
 
 <!--- I added a breakdown of all the preparation for each game for how to share it (Links & Citations Requirement). This is similar to my workpress website. --->
 
