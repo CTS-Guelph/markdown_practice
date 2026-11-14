@@ -134,7 +134,7 @@ This shows prototypes 2, 5, and the final. Images </br> are screenshotted from B
 <!--- I added a breakdown of all the preparation for each game for how to share it (Links & Citations Requirement). This is similar to my workpress website. --->
 
 ### Stage 4: Data Analysis and Reflection
-This was one of the most satisfying parts since I got to see what my work led up to. Here is the [document with all the ratings and discoveries.](https://docs.google.com/document/d/1NjEqHuQYcl0TMbEYAHc3ou6tzz3M0nZt3ySZ__QgqQI/edit?tab=t.0)
+This was one of the most satisfying parts since I got to see what my work led up to. [Click this hyperlink to see the detailed findings from all three games, including Tally the questionnaire results, participant feedback, game reflections, and discoveries that is all in a google document.](https://docs.google.com/document/d/1NjEqHuQYcl0TMbEYAHc3ou6tzz3M0nZt3ySZ__QgqQI/edit?tab=t.0)
 <p align="center"> 
   <img width="1000" height="250" alt="Bottom of Project Poster" src="https://github.com/user-attachments/assets/9220b77a-a699-4c33-a4d0-cdbea352d1fd" />
 </p>
@@ -177,7 +177,7 @@ One aspect I really enjoy in many games is the use of 3D environments, which I a
 
 # Project Discoveries and Results
 
-[Click Here to see the overall results of the games and discoveries document](https://docs.google.com/document/d/1NjEqHuQYcl0TMbEYAHc3ou6tzz3M0nZt3ySZ__QgqQI/edit?usp=sharing).
+[Click this hyperlink to see the detailed findings from all three games, including Tally the questionnaire results, participant feedback, game reflections, and discoveries that is all in a google document.](https://docs.google.com/document/d/1NjEqHuQYcl0TMbEYAHc3ou6tzz3M0nZt3ySZ__QgqQI/edit?tab=t.0)
 
 ## Summary of Discoveries
 
