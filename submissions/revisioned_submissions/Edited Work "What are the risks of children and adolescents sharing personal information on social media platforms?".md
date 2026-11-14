@@ -153,7 +153,7 @@ One major challenge I had was encouraging users to complete the review. While ma
 
 <img align="right" width="150" height="225" alt="Image of Locky from Game 1 Prototype, created by and image screenshotted from Base44. https://base44.com/" src="https://github.com/user-attachments/assets/bdf74d96-0391-4d80-84ae-080a3b3949a5" />
 
-Throughout this project, I struggled to balance serious and entertaining aspects of the game. This challenge became especially important when elements like bright colors, bouncy visuals, and star effects felt inappropriate within a serious theme, such as being hacked. For example, the image on the right shows a small bot named “Locky,” which used these playful features to give players advice. However, it was part of an earlier prototype and was removed because it did not align with the tone I wanted for the final design.
+Throughout this project, I struggled to balance the serious and entertaining aspects of the game. This challenge became especially important when elements like bright colors, bouncy visuals, and star effects felt inappropriate for a serious theme, such as being hacked. For example, the image on the right shows a small bot named “Locky,” which used these playful features to give players advice. However, it was part of an earlier prototype and was removed because it did not align with the tone I wanted for the final design.
 <br><br><br><br><br>
 <p align="right"> 
 <sub> (Image of "Locky" from Game 1 Prototype. </br> The bot would give advice to users, but was cut </br> from the final game Created by Base44. </br> https://base44.com/) </sub>
@@ -161,7 +161,7 @@ Throughout this project, I struggled to balance serious and entertaining aspects
 
 
 ### 3. Reddit Account Suspensions
-Reddit banned 3 different accounts I had because I repeatedly reposted my games to encourage participation. This was a major setback, as Reddit requires users to build “karma” over time through consistent engagement and posting before gaining full posting privileges.
+Reddit banned three different accounts I had because I repeatedly reposted my games to encourage participation. This was a major setback, as Reddit requires users to build “karma” over time through consistent engagement and posting before gaining full posting privileges.
 
 ### 4. Challenges in Building 3D Environments in Base44
 
