@@ -35,6 +35,13 @@ From this idea, I developed a project focusing on the relationship between: **Se
 <!--- I used bold text to show hiearchy of titles throughout this article and specifically bolded the list of four main topics my project goes over (Styling Requirment). Updated: Instead of a whole bunch of paragraphs, I broke it down, and reworded it to have a smoother transition into the article. I also decided to seperate my poster from this main text at the beginning, so not only can readers see the poster better, but its also not taking up space, unless they click to see it (Styling Requirement/Images). --->
 
 ## Poster Project Summary
+
+<!--- For all the images I used sub and small to help create smaller citations (Styling Requirement).--->
+
+This poster encompasses the whole project by looking at the plan of the games, discoveries, and results to answer the research question:
+<br>
+### ***"How do external pressures and distractions influence individuals’ memory, attention, and decision-making during moments that require cybersecurity awareness?"***
+
 <details>
 <summary> Click Here to See Full Poster </summary>
 <p align="center"> 
@@ -44,12 +51,6 @@ From this idea, I developed a project focusing on the relationship between: **Se
 <sub> (Image of the final poster showing the overall project. This includes a project summary, why the project matters, all the games I built, steps it took to create the project, study and topic discoveries, and game ratings.) </sub> 
 </p>
 </details>
-
-<!--- For all the images I used sub and small to help create smaller citations (Styling Requirement).--->
-
-This poster encompasses the whole project by looking at the plan of the games, discoveries, and results to answer the research question:
-<br>
-### ***"How do external pressures and distractions influence individuals’ memory, attention, and decision-making during moments that require cybersecurity awareness?"***
 
 <!--- I found that my research question needed to stand out from the rest of the text without looking like a heading, so I made it italic (Styling Requirement)--->
 
