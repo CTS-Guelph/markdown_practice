@@ -236,7 +236,7 @@ While building my games, I had some disturbing, almost demonic-like images happe
 <img width="500" height="230" alt="One of the Creepy Prototypes from Game 3, created by Base44. https://base44.com/" src="https://github.com/user-attachments/assets/0e2490bc-7a8a-470a-ba4f-078fa3416a6b" />
 </p>
 <p align="center">
-<sub>(One of the creepy prototypes from Game 3, created by Base44. https://base44.com/) </sub>
+<sub>(One of the creepy prototypes from Game 3. Base44 likely misunderstood what the game was supposed to be about. Image screenshotted through from Base44. https://base44.com/) </sub>
 </p>
 
 <!--- Description, Link, and Image (Image/Links & Citations Requirement). --->
