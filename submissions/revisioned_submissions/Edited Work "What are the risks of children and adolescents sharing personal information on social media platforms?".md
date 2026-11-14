@@ -129,7 +129,7 @@ Game 3: https://docs.google.com/document/d/11hCd61AbggcYyNuUWUra2rptUhOhsnQLSe2g
 
 </br>
 <sub> (Image of the progress of making Game 2 through Base44. </br>
-This shows prototypes 2, 5, and the final. Images are screenshotted from Base44. https://base44.com/) </sub>
+This shows prototypes 2, 5, and the final. Images </br> are screenshotted from Base44. https://base44.com/) </sub>
 
 <!--- I added a breakdown of all the preparation for each game for how to share it (Links & Citations Requirement). This is similar to my workpress website. --->
 
