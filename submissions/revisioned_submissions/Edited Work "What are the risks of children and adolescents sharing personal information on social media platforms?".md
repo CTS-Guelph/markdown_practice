@@ -170,7 +170,7 @@ One aspect I really enjoy in many games is the use of 3D environments, and I als
   <img width="600" height="270" alt="Image of Game 2 Prototype, created by Base44. https://base44.com/" src="https://github.com/user-attachments/assets/7393fff0-fa7e-4a41-a843-484eac95f7cc" />
 </p>
 <p align="center"> 
-<sub> (Image of Game 2 Prototype, created by Base44. https://base44.com/) </sub>
+<sub> (Image of Game 2 Prototype, which shows a 3D version of the game. This version had problems understanding the rules of the environment. created by Base44. https://base44.com/) </sub>
 </p>
 
 <!--- Description, Link, and Image (Image/Links & Citations Requirement). --->
