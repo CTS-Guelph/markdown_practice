@@ -263,7 +263,7 @@ Tally Forms. “100+ Free Online Form Templates: Fully Customizable: Tally.” T
 ## Relevant Resources Used in Hyperlinked Documents
 ***Although these sources aren't included in this article, they helped build the games.***
 
-Ali, Adow, Craig Overboe, Thivanka Dissanayake Mohottalalage,  Akalanka Mailewa. The Human Factor in Cybersecurity: Understanding Psychology, Training Efficacy, and Error Reduction Strategies. ResearchGate, April 2024. https://www.researchgate.net/publication/387971383TheHumanFactorinCybersecurityUnderstandingPsychologyTrainingEfficacyandErrorReduction_Strategies.
+Ali, Adow, Craig Overboe, Thivanka Dissanayake Mohottalalage, and Akalanka Mailewa. The Human Factor in Cybersecurity: Understanding Psychology, Training Efficacy, and Error Reduction Strategies. ResearchGate, April 2024. https://www.researchgate.net/publication/387971383TheHumanFactorinCybersecurityUnderstandingPsychologyTrainingEfficacyandErrorReduction_Strategies.
 
 Chowdhury, Noman H., Marc T. P. Adam, and Timm Teubner. “Time Pressure in Human Cybersecurity Behavior: Theoretical Framework and Countermeasures.” Computers & Security 97 (2020). https://www.sciencedirect.com/science/article/abs/pii/S0167404820301747.
 
