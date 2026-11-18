@@ -263,10 +263,10 @@ Tally Forms. “100+ Free Online Form Templates: Fully Customizable: Tally.” T
 ## Relevant Resources Used in Hyperlinked Documents
 ***Although these sources aren't included in this article, they helped build the games.***
 
-Chowdhury, N. H., M. T. P. Adam, and T. Teubner. “Time Pressure in Human Cybersecurity Behavior: Theoretical Framework and Countermeasures.” Computers & Security 97 (2020). https://www.sciencedirect.com/science/article/abs/pii/S0167404820301747.
+Ali, Adow, Craig Overboe, Thivanka Dissanayake Mohottalalage,  Akalanka Mailewa. The Human Factor in Cybersecurity: Understanding Psychology, Training Efficacy, and Error Reduction Strategies. ResearchGate, April 2024. https://www.researchgate.net/publication/387971383TheHumanFactorinCybersecurityUnderstandingPsychologyTrainingEfficacyandErrorReduction_Strategies.
 
-Jones, A. "Human Error Cybersecurity Statistics." I.S. Partners, December 24, 2025. https://www.ispartnersllc.com/blog/human-error-cybersecurity-statistics/.
+Chowdhury, Noman H., Marc T. P. Adam, and Timm Teubner. “Time Pressure in Human Cybersecurity Behavior: Theoretical Framework and Countermeasures.” Computers & Security 97 (2020). https://www.sciencedirect.com/science/article/abs/pii/S0167404820301747.
 
-Murphy, F. T. “Understanding Distractibility: Psychology and Solutions – Distractibility: Causes and solutions explored.” Psychology Fanatic, December 5, 2025. https://psychologyfanatic.com/distractibility/.
+Jones, Anthony. "Human Error Cybersecurity Statistics." I.S. Partners, December 24, 2025. https://www.ispartnersllc.com/blog/human-error-cybersecurity-statistics/.
 
-Overboe, C., A. Ali, and T. D. Mohottalalage. “(PDF) The Human Factor in Cybersecurity: Understanding Psychology, Training Efficacy, and Error Reduction Strategies.” ResearchGate, April 2024. https://www.researchgate.net/publication/387971383TheHumanFactorinCybersecurityUnderstandingPsychologyTrainingEfficacyandErrorReduction_Strategies.
+Murphy, T. Franklin. “Understanding Distractibility: Psychology and Solutions – Distractibility: Causes and solutions explored.” Psychology Fanatic, December 5, 2025. https://psychologyfanatic.com/distractibility/.
