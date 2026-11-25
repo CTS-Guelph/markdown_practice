@@ -8,9 +8,14 @@ UPDATED: Compared to my previous push, I now have an updated Metadata with a cle
 
 Title: The Impact of External Pressure on Cybersecurity Decision Making
 
+Date: 10-08-2026
+
 Author: Thomas Hendriks (Maxwellcoffee1)
 
-Date: 10-08-2026
+Issue: Issue 4
+
+Citation: Chicago 
+
 
 Citation: Hendriks, Thomas. "The Impact of External Pressure on Cybersecurity Decision Making." 2026, April 10. https://ctsstudentsite1.wordpress.com/2026/04/10/the-impact-of-external-pressure-on-cybersecurity-decision-making/
 
@@ -252,7 +257,7 @@ https://docs.github.com/en/get-started/writing-on-github/getting-started-with-wr
 https://www.tutorialspoint.com/article/how-to-create-hidden-comments-in-html
 --->
 
-# Citations (Chicago-Style)
+### References
 ## Tools Used in Project
 Play2Review. "Game Intelligence Platform." Play2Review, 2026. https://play2review.com/.
 
@@ -260,7 +265,7 @@ Shlomo, Maor. “Build Apps with AI in Minutes.” Base44, 2026. https://base44.
 
 Tally Forms. “100+ Free Online Form Templates: Fully Customizable: Tally.” Tally, 2026. tally.so/templates. 
 
-## Relevant Resources Used in Hyperlinked Documents
+## Relevant Reference Used in Hyperlinked Documents
 ***Although these sources aren't included in this article, they helped build the games.***
 
 Ali, Adow, Craig Overboe, Thivanka Dissanayake Mohottalalage, and Akalanka Mailewa. The Human Factor in Cybersecurity: Understanding Psychology, Training Efficacy, and Error Reduction Strategies. ResearchGate, April 2024. https://www.researchgate.net/publication/387971383TheHumanFactorinCybersecurityUnderstandingPsychologyTrainingEfficacyandErrorReduction_Strategies.
